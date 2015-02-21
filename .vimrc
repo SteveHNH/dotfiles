@@ -32,3 +32,9 @@ au BufRead,BufNewFile *_spec.rb
 
 " Enable indentation matching for =>'s
 filetype plugin indent on
+
+" use the badwolf colorscheme
+colorscheme molokai 
+
+" highlight the current line
+set cursorline
