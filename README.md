@@ -1,3 +1,3 @@
-# My dotfiles and configuration stuff
+## My customizations and configs
 
-Just a big dump of my dotfiles and other things I might want to keep handy.
+A dumping ground for my ever changing customizations.
