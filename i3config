@@ -24,6 +24,12 @@ exec --no-startup-id xrandr --output HDMI-1 --auto --left-of DVI-1
 # Configure xterm colors
 exec --no-startup-id [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
 
+# Start compton with shadows for
+exec --no-startup-id compton -bc 
+
+# nm applet start
+exec --no-startup-id nm-applet
+
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
@@ -38,6 +44,14 @@ font pango:DejaVu Sans Mono 8
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
+
+# Set floating windows
+for_window [class="VirtualBox"] floating enable
+for_window [class="Skype"] floating enable
+for_window [class="Steam"] floating enable
+for_window [class="Nautilus"] floating enable
+for_window [title="Hangouts"] move container to workspace $tag3
+
 
 # start a terminal
 bindsym $mod+Return exec i3-sensible-terminal
@@ -104,6 +118,9 @@ bindsym $mod+a focus parent
 
 # focus the child container
 #bindsym $mod+d focus child
+
+# Remove title bars from new windows
+new_window 1pixel
 
 ###################
 # Workspace Stuff #
