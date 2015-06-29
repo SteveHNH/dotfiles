@@ -1,0 +1,1077 @@
+2015-05-27 10:29:23	--	irc: connecting to server irc.twit.tv/6667...
+2015-05-27 10:29:23	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-05-27 10:29:23	--	irc.twit.tv: *** Looking up your hostname...
+2015-05-27 10:29:23	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG _MJUHOoVDX or /raw PONG _MJUHOoVDX now.
+2015-05-27 10:29:23	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-05-27 10:29:24	--	irc.twit.tv: Welcome to TWiT!
+2015-05-27 10:29:24	--	Welcome to the TWiT IRC Network tsa20!tsa20@152.16.191.70
+2015-05-27 10:29:24	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-05-27 10:29:24	--	This server was created 18:05:37 Aug 21 2013
+2015-05-27 10:29:24	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-05-27 10:29:24	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-05-27 10:29:24	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-05-27 10:29:24	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-05-27 10:29:24	--	338AAQ7EB :your unique ID
+2015-05-27 10:29:24	--	irc.twit.tv message of the day
+2015-05-27 10:29:24	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-05-27 10:29:24	--	-
+2015-05-27 10:29:24	--	- ------------------------------------------------------
+2015-05-27 10:29:24	--	- Chat rules:
+2015-05-27 10:29:24	--	-
+2015-05-27 10:29:24	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-05-27 10:29:24	--	-
+2015-05-27 10:29:24	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-05-27 10:29:24	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-05-27 10:29:24	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-05-27 10:29:24	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-05-27 10:29:24	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-05-27 10:29:24	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-05-27 10:29:24	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-05-27 10:29:24	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-05-27 10:29:24	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-05-27 10:29:24	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-05-27 10:29:24	--	-
+2015-05-27 10:29:24	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-05-27 10:29:24	--	- ------------------------------------------------------
+2015-05-27 10:29:24	--	-
+2015-05-27 10:29:24	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-05-27 10:29:24	--	-
+2015-05-27 10:29:24	--	End of message of the day.
+2015-05-27 10:29:24	--	There are 462 users and 120 invisible on 2 servers
+2015-05-27 10:29:24	--	13 :operator(s) online
+2015-05-27 10:29:24	--	10 :channels formed
+2015-05-27 10:29:24	--	I have 574 clients and 1 servers
+2015-05-27 10:29:24	--	Current Local Users: 574  Max: 1712
+2015-05-27 10:29:24	--	Current Global Users: 582  Max: 1720
+2015-05-27 10:29:24	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-05-27 10:29:24	--	User mode [+x] by tsa20
+2015-05-27 10:29:24	--	CTCP requested by i: VERSION
+2015-05-27 10:29:24	--	CTCP reply to i: VERSION WeeChat 1.2 (May 12 2015)
+2015-05-27 10:29:30	--	You are now known as stevehnh
+2015-05-27 10:29:35	--	#chat: Only IRC operators may create new channels
+2015-05-28 09:20:27	--	irc: connecting to server irc.twit.tv/6667...
+2015-05-28 09:20:27	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-05-28 09:20:27	--	irc.twit.tv: *** Looking up your hostname...
+2015-05-28 09:20:27	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG Kld`{_Lo]j or /raw PONG Kld`{_Lo]j now.
+2015-05-28 09:20:28	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-05-28 09:20:29	--	irc.twit.tv: Welcome to TWiT!
+2015-05-28 09:20:29	--	Welcome to the TWiT IRC Network tsa20!tsa20@152.16.191.70
+2015-05-28 09:20:29	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-05-28 09:20:29	--	This server was created 18:05:37 Aug 21 2013
+2015-05-28 09:20:29	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-05-28 09:20:29	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-05-28 09:20:29	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-05-28 09:20:29	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-05-28 09:20:29	--	338AARG3A :your unique ID
+2015-05-28 09:20:29	--	irc.twit.tv message of the day
+2015-05-28 09:20:29	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-05-28 09:20:29	--	-
+2015-05-28 09:20:29	--	- ------------------------------------------------------
+2015-05-28 09:20:29	--	- Chat rules:
+2015-05-28 09:20:29	--	-
+2015-05-28 09:20:29	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-05-28 09:20:29	--	-
+2015-05-28 09:20:29	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-05-28 09:20:29	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-05-28 09:20:29	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-05-28 09:20:29	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-05-28 09:20:29	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-05-28 09:20:29	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-05-28 09:20:29	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-05-28 09:20:29	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-05-28 09:20:29	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-05-28 09:20:29	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-05-28 09:20:29	--	-
+2015-05-28 09:20:29	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-05-28 09:20:29	--	- ------------------------------------------------------
+2015-05-28 09:20:29	--	-
+2015-05-28 09:20:29	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-05-28 09:20:29	--	-
+2015-05-28 09:20:29	--	End of message of the day.
+2015-05-28 09:20:29	--	There are 388 users and 121 invisible on 2 servers
+2015-05-28 09:20:29	--	13 :operator(s) online
+2015-05-28 09:20:29	--	10 :channels formed
+2015-05-28 09:20:29	--	I have 501 clients and 1 servers
+2015-05-28 09:20:29	--	Current Local Users: 501  Max: 1712
+2015-05-28 09:20:29	--	Current Global Users: 509  Max: 1720
+2015-05-28 09:20:29	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-05-28 09:20:29	--	User mode [+x] by tsa20
+2015-05-28 09:20:29	--	CTCP requested by i: VERSION
+2015-05-28 09:20:29	--	CTCP reply to i: VERSION WeeChat 1.2 (May 12 2015)
+2015-05-28 09:20:32	--	You are now known as stevehnh
+2015-05-28 09:20:36	--	#chat: Only IRC operators may create new channels
+2015-05-28 09:30:44	=!=	irc: this buffer is not a channel!
+2015-06-01 08:04:24	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-01 08:04:24	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-01 08:04:24	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-01 08:04:24	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG y^kBI]fb]q or /raw PONG y^kBI]fb]q now.
+2015-06-01 08:04:25	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-01 08:04:25	--	irc.twit.tv: Welcome to TWiT!
+2015-06-01 08:04:25	--	Welcome to the TWiT IRC Network tsa20!tsa20@152.16.191.70
+2015-06-01 08:04:25	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-01 08:04:25	--	This server was created 18:05:37 Aug 21 2013
+2015-06-01 08:04:25	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-01 08:04:25	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-01 08:04:25	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-01 08:04:25	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-01 08:04:25	--	338AAR5B5 :your unique ID
+2015-06-01 08:04:25	--	irc.twit.tv message of the day
+2015-06-01 08:04:25	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-01 08:04:25	--	-
+2015-06-01 08:04:25	--	- ------------------------------------------------------
+2015-06-01 08:04:25	--	- Chat rules:
+2015-06-01 08:04:25	--	-
+2015-06-01 08:04:25	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-01 08:04:25	--	-
+2015-06-01 08:04:25	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-01 08:04:25	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-01 08:04:25	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-01 08:04:25	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-01 08:04:25	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-01 08:04:25	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-01 08:04:25	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-01 08:04:25	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-01 08:04:25	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-01 08:04:25	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-01 08:04:25	--	-
+2015-06-01 08:04:25	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-01 08:04:25	--	- ------------------------------------------------------
+2015-06-01 08:04:25	--	-
+2015-06-01 08:04:25	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-01 08:04:25	--	-
+2015-06-01 08:04:25	--	End of message of the day.
+2015-06-01 08:04:25	--	There are 346 users and 109 invisible on 2 servers
+2015-06-01 08:04:25	--	9 :operator(s) online
+2015-06-01 08:04:25	--	10 :channels formed
+2015-06-01 08:04:25	--	I have 447 clients and 1 servers
+2015-06-01 08:04:25	--	Current Local Users: 447  Max: 1712
+2015-06-01 08:04:25	--	Current Global Users: 455  Max: 1720
+2015-06-01 08:04:25	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-01 08:04:25	--	User mode [+x] by tsa20
+2015-06-01 08:04:28	--	You are now known as stevehnh
+2015-06-01 15:56:50	=!=	irc: reading data on socket: error 104 Connection reset by peer
+2015-06-01 15:56:50	--	irc: disconnecting from server...
+2015-06-01 15:56:50	--	irc: disconnected from server
+2015-06-01 15:56:50	--	irc: reconnecting to server in 10 seconds
+2015-06-01 15:57:00	--	irc: reconnecting to server...
+2015-06-01 15:57:00	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-01 15:57:00	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-01 15:57:00	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-01 15:57:00	--	irc: nickname "stevehnh" is already in use, trying nickname "stevehnh_"
+2015-06-01 15:57:00	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG zpTqoOLg@` or /raw PONG zpTqoOLg@` now.
+2015-06-01 15:57:00	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-01 15:57:01	--	irc.twit.tv: Welcome to TWiT!
+2015-06-01 15:57:01	--	Welcome to the TWiT IRC Network stevehnh_!tsa20@152.16.191.70
+2015-06-01 15:57:01	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-01 15:57:01	--	This server was created 18:05:37 Aug 21 2013
+2015-06-01 15:57:01	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-01 15:57:01	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-01 15:57:01	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-01 15:57:01	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-01 15:57:01	--	338AAR7Q5 :your unique ID
+2015-06-01 15:57:01	--	irc.twit.tv message of the day
+2015-06-01 15:57:01	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-01 15:57:01	--	-
+2015-06-01 15:57:01	--	- ------------------------------------------------------
+2015-06-01 15:57:01	--	- Chat rules:
+2015-06-01 15:57:01	--	-
+2015-06-01 15:57:01	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-01 15:57:01	--	-
+2015-06-01 15:57:01	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-01 15:57:01	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-01 15:57:01	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-01 15:57:01	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-01 15:57:01	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-01 15:57:01	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-01 15:57:01	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-01 15:57:01	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-01 15:57:01	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-01 15:57:01	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-01 15:57:01	--	-
+2015-06-01 15:57:01	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-01 15:57:01	--	- ------------------------------------------------------
+2015-06-01 15:57:01	--	-
+2015-06-01 15:57:01	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-01 15:57:01	--	-
+2015-06-01 15:57:01	--	End of message of the day.
+2015-06-01 15:57:01	--	There are 549 users and 115 invisible on 2 servers
+2015-06-01 15:57:01	--	8 :operator(s) online
+2015-06-01 15:57:01	--	10 :channels formed
+2015-06-01 15:57:01	--	I have 656 clients and 1 servers
+2015-06-01 15:57:01	--	Current Local Users: 656  Max: 1712
+2015-06-01 15:57:01	--	Current Global Users: 664  Max: 1720
+2015-06-01 15:57:01	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-01 15:57:01	--	User mode [+x] by stevehnh_
+2015-06-02 08:16:53	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-02 08:16:53	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-02 08:16:53	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-02 08:16:53	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG SJbo}pcYCr or /raw PONG SJbo}pcYCr now.
+2015-06-02 08:16:53	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-02 08:16:54	--	irc.twit.tv: Welcome to TWiT!
+2015-06-02 08:16:54	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-02 08:16:54	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-02 08:16:54	--	This server was created 18:05:37 Aug 21 2013
+2015-06-02 08:16:54	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-02 08:16:54	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-02 08:16:54	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-02 08:16:54	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-02 08:16:54	--	338AASBFJ :your unique ID
+2015-06-02 08:16:54	--	irc.twit.tv message of the day
+2015-06-02 08:16:54	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-02 08:16:54	--	-
+2015-06-02 08:16:54	--	- ------------------------------------------------------
+2015-06-02 08:16:54	--	- Chat rules:
+2015-06-02 08:16:54	--	-
+2015-06-02 08:16:54	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-02 08:16:54	--	-
+2015-06-02 08:16:54	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-02 08:16:54	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-02 08:16:54	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-02 08:16:54	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-02 08:16:54	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-02 08:16:54	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-02 08:16:54	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-02 08:16:54	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-02 08:16:54	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-02 08:16:54	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-02 08:16:54	--	-
+2015-06-02 08:16:54	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-02 08:16:54	--	- ------------------------------------------------------
+2015-06-02 08:16:54	--	-
+2015-06-02 08:16:54	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-02 08:16:54	--	-
+2015-06-02 08:16:54	--	End of message of the day.
+2015-06-02 08:16:54	--	There are 329 users and 105 invisible on 2 servers
+2015-06-02 08:16:54	--	8 :operator(s) online
+2015-06-02 08:16:54	--	10 :channels formed
+2015-06-02 08:16:54	--	I have 426 clients and 1 servers
+2015-06-02 08:16:54	--	Current Local Users: 426  Max: 1712
+2015-06-02 08:16:54	--	Current Global Users: 434  Max: 1720
+2015-06-02 08:16:54	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-02 08:16:54	--	User mode [+x] by stevehnh
+2015-06-03 08:26:46	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-03 08:26:46	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-03 08:26:46	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-03 08:26:46	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG WC{iGwOAtq or /raw PONG WC{iGwOAtq now.
+2015-06-03 08:26:46	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-03 08:26:47	--	irc.twit.tv: Welcome to TWiT!
+2015-06-03 08:26:47	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-03 08:26:47	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-03 08:26:47	--	This server was created 18:05:37 Aug 21 2013
+2015-06-03 08:26:47	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-03 08:26:47	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-03 08:26:47	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-03 08:26:47	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-03 08:26:47	--	338AASIWQ :your unique ID
+2015-06-03 08:26:47	--	irc.twit.tv message of the day
+2015-06-03 08:26:47	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-03 08:26:47	--	-
+2015-06-03 08:26:47	--	- ------------------------------------------------------
+2015-06-03 08:26:47	--	- Chat rules:
+2015-06-03 08:26:47	--	-
+2015-06-03 08:26:47	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-03 08:26:47	--	-
+2015-06-03 08:26:47	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-03 08:26:47	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-03 08:26:47	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-03 08:26:47	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-03 08:26:47	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-03 08:26:47	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-03 08:26:47	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-03 08:26:47	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-03 08:26:47	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-03 08:26:47	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-03 08:26:47	--	-
+2015-06-03 08:26:47	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-03 08:26:47	--	- ------------------------------------------------------
+2015-06-03 08:26:47	--	-
+2015-06-03 08:26:47	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-03 08:26:47	--	-
+2015-06-03 08:26:47	--	End of message of the day.
+2015-06-03 08:26:47	--	There are 340 users and 111 invisible on 2 servers
+2015-06-03 08:26:47	--	8 :operator(s) online
+2015-06-03 08:26:47	--	10 :channels formed
+2015-06-03 08:26:47	--	I have 443 clients and 1 servers
+2015-06-03 08:26:47	--	Current Local Users: 443  Max: 1712
+2015-06-03 08:26:47	--	Current Global Users: 451  Max: 1720
+2015-06-03 08:26:47	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-03 08:26:47	--	User mode [+x] by stevehnh
+2015-06-04 08:19:45	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-04 08:19:46	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-04 08:19:46	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-04 08:19:46	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG ~rjZO{H||b or /raw PONG ~rjZO{H||b now.
+2015-06-04 08:19:46	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-04 08:19:47	--	irc.twit.tv: Welcome to TWiT!
+2015-06-04 08:19:47	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-04 08:19:47	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-04 08:19:47	--	This server was created 18:05:37 Aug 21 2013
+2015-06-04 08:19:47	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-04 08:19:47	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-04 08:19:47	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-04 08:19:47	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-04 08:19:47	--	338AASPU2 :your unique ID
+2015-06-04 08:19:47	--	irc.twit.tv message of the day
+2015-06-04 08:19:47	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-04 08:19:47	--	-
+2015-06-04 08:19:47	--	- ------------------------------------------------------
+2015-06-04 08:19:47	--	- Chat rules:
+2015-06-04 08:19:47	--	-
+2015-06-04 08:19:47	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-04 08:19:47	--	-
+2015-06-04 08:19:47	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-04 08:19:47	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-04 08:19:47	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-04 08:19:47	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-04 08:19:47	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-04 08:19:47	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-04 08:19:47	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-04 08:19:47	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-04 08:19:47	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-04 08:19:47	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-04 08:19:47	--	-
+2015-06-04 08:19:47	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-04 08:19:47	--	- ------------------------------------------------------
+2015-06-04 08:19:47	--	-
+2015-06-04 08:19:47	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-04 08:19:47	--	-
+2015-06-04 08:19:47	--	End of message of the day.
+2015-06-04 08:19:47	--	There are 343 users and 108 invisible on 2 servers
+2015-06-04 08:19:47	--	7 :operator(s) online
+2015-06-04 08:19:47	--	10 :channels formed
+2015-06-04 08:19:47	--	I have 443 clients and 1 servers
+2015-06-04 08:19:47	--	Current Local Users: 443  Max: 1712
+2015-06-04 08:19:47	--	Current Global Users: 451  Max: 1720
+2015-06-04 08:19:47	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-04 08:19:47	--	User mode [+x] by stevehnh
+2015-06-08 11:52:44	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-08 11:52:44	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-08 11:52:44	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-08 11:52:44	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG H?d?nohOED or /raw PONG H?d?nohOED now.
+2015-06-08 11:52:44	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-08 11:52:45	--	irc.twit.tv: Welcome to TWiT!
+2015-06-08 11:52:45	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-08 11:52:45	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-08 11:52:45	--	This server was created 18:05:37 Aug 21 2013
+2015-06-08 11:52:45	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-08 11:52:45	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-08 11:52:45	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-08 11:52:45	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-08 11:52:45	--	338AATFJJ :your unique ID
+2015-06-08 11:52:45	--	irc.twit.tv message of the day
+2015-06-08 11:52:45	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-08 11:52:45	--	-
+2015-06-08 11:52:45	--	- ------------------------------------------------------
+2015-06-08 11:52:45	--	- Chat rules:
+2015-06-08 11:52:45	--	-
+2015-06-08 11:52:45	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-08 11:52:45	--	-
+2015-06-08 11:52:45	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-08 11:52:45	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-08 11:52:45	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-08 11:52:45	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-08 11:52:45	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-08 11:52:45	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-08 11:52:45	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-08 11:52:45	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-08 11:52:45	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-08 11:52:45	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-08 11:52:45	--	-
+2015-06-08 11:52:45	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-08 11:52:45	--	- ------------------------------------------------------
+2015-06-08 11:52:45	--	-
+2015-06-08 11:52:45	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-08 11:52:45	--	-
+2015-06-08 11:52:45	--	End of message of the day.
+2015-06-08 11:52:45	--	There are 403 users and 86 invisible on 2 servers
+2015-06-08 11:52:45	--	10 :operator(s) online
+2015-06-08 11:52:45	--	11 :channels formed
+2015-06-08 11:52:45	--	I have 481 clients and 1 servers
+2015-06-08 11:52:45	--	Current Local Users: 481  Max: 1712
+2015-06-08 11:52:45	--	Current Global Users: 489  Max: 1720
+2015-06-08 11:52:45	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-08 11:52:45	--	User mode [+x] by stevehnh
+2015-06-09 08:10:03	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-09 08:10:03	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-09 08:10:03	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-09 08:10:03	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG YEAzQmKCmE or /raw PONG YEAzQmKCmE now.
+2015-06-09 08:10:03	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-09 08:10:04	--	irc.twit.tv: Welcome to TWiT!
+2015-06-09 08:10:04	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-09 08:10:04	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-09 08:10:04	--	This server was created 18:05:37 Aug 21 2013
+2015-06-09 08:10:04	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-09 08:10:04	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-09 08:10:04	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-09 08:10:04	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-09 08:10:04	--	338AATPNW :your unique ID
+2015-06-09 08:10:04	--	irc.twit.tv message of the day
+2015-06-09 08:10:04	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-09 08:10:04	--	-
+2015-06-09 08:10:04	--	- ------------------------------------------------------
+2015-06-09 08:10:04	--	- Chat rules:
+2015-06-09 08:10:04	--	-
+2015-06-09 08:10:04	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-09 08:10:04	--	-
+2015-06-09 08:10:04	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-09 08:10:04	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-09 08:10:04	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-09 08:10:04	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-09 08:10:04	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-09 08:10:04	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-09 08:10:04	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-09 08:10:04	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-09 08:10:04	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-09 08:10:04	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-09 08:10:04	--	-
+2015-06-09 08:10:04	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-09 08:10:04	--	- ------------------------------------------------------
+2015-06-09 08:10:04	--	-
+2015-06-09 08:10:04	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-09 08:10:04	--	-
+2015-06-09 08:10:04	--	End of message of the day.
+2015-06-09 08:10:04	--	There are 337 users and 89 invisible on 2 servers
+2015-06-09 08:10:04	--	10 :operator(s) online
+2015-06-09 08:10:04	--	11 :channels formed
+2015-06-09 08:10:04	--	I have 418 clients and 1 servers
+2015-06-09 08:10:04	--	Current Local Users: 418  Max: 1712
+2015-06-09 08:10:04	--	Current Global Users: 426  Max: 1720
+2015-06-09 08:10:04	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-09 08:10:04	--	User mode [+x] by stevehnh
+2015-06-09 10:49:06	=!=	Closing link: (tsa20@152.16.191.70) [Ping timeout: 121 seconds]
+2015-06-09 10:49:06	=!=	irc: reading data on socket: error 1 (connection closed by peer)
+2015-06-09 10:49:06	--	irc: disconnecting from server...
+2015-06-09 10:49:06	--	irc: disconnected from server
+2015-06-09 10:49:06	--	irc: reconnecting to server in 10 seconds
+2015-06-09 10:49:16	--	irc: reconnecting to server...
+2015-06-09 10:49:16	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-09 10:49:16	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-09 10:49:16	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-09 10:49:16	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG lVQQAkiN~N or /raw PONG lVQQAkiN~N now.
+2015-06-09 10:49:16	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-09 10:49:17	--	irc.twit.tv: Welcome to TWiT!
+2015-06-09 10:49:17	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-09 10:49:17	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-09 10:49:17	--	This server was created 18:05:37 Aug 21 2013
+2015-06-09 10:49:17	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-09 10:49:17	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-09 10:49:17	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-09 10:49:17	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-09 10:49:17	--	338AATP8V :your unique ID
+2015-06-09 10:49:17	--	irc.twit.tv message of the day
+2015-06-09 10:49:17	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-09 10:49:17	--	-
+2015-06-09 10:49:17	--	- ------------------------------------------------------
+2015-06-09 10:49:17	--	- Chat rules:
+2015-06-09 10:49:17	--	-
+2015-06-09 10:49:17	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-09 10:49:17	--	-
+2015-06-09 10:49:17	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-09 10:49:17	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-09 10:49:17	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-09 10:49:17	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-09 10:49:17	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-09 10:49:17	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-09 10:49:17	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-09 10:49:17	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-09 10:49:17	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-09 10:49:17	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-09 10:49:17	--	-
+2015-06-09 10:49:17	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-09 10:49:17	--	- ------------------------------------------------------
+2015-06-09 10:49:17	--	-
+2015-06-09 10:49:17	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-09 10:49:17	--	-
+2015-06-09 10:49:17	--	End of message of the day.
+2015-06-09 10:49:17	--	There are 351 users and 89 invisible on 2 servers
+2015-06-09 10:49:17	--	10 :operator(s) online
+2015-06-09 10:49:17	--	11 :channels formed
+2015-06-09 10:49:17	--	I have 432 clients and 1 servers
+2015-06-09 10:49:17	--	Current Local Users: 432  Max: 1712
+2015-06-09 10:49:17	--	Current Global Users: 440  Max: 1720
+2015-06-09 10:49:17	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-09 10:49:17	--	User mode [+x] by stevehnh
+2015-06-10 08:02:50	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-10 08:02:50	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-10 08:02:50	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-10 08:02:50	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG CXwmMicQzi or /raw PONG CXwmMicQzi now.
+2015-06-10 08:02:50	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-10 08:02:51	--	irc.twit.tv: Welcome to TWiT!
+2015-06-10 08:02:51	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-10 08:02:51	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-10 08:02:51	--	This server was created 18:05:37 Aug 21 2013
+2015-06-10 08:02:51	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-10 08:02:51	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-10 08:02:51	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-10 08:02:51	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-10 08:02:51	--	338AATVNQ :your unique ID
+2015-06-10 08:02:51	--	irc.twit.tv message of the day
+2015-06-10 08:02:51	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-10 08:02:51	--	-
+2015-06-10 08:02:51	--	- ------------------------------------------------------
+2015-06-10 08:02:51	--	- Chat rules:
+2015-06-10 08:02:51	--	-
+2015-06-10 08:02:51	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-10 08:02:51	--	-
+2015-06-10 08:02:51	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-10 08:02:51	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-10 08:02:51	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-10 08:02:51	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-10 08:02:51	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-10 08:02:51	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-10 08:02:51	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-10 08:02:51	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-10 08:02:51	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-10 08:02:51	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-10 08:02:51	--	-
+2015-06-10 08:02:51	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-10 08:02:51	--	- ------------------------------------------------------
+2015-06-10 08:02:51	--	-
+2015-06-10 08:02:51	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-10 08:02:51	--	-
+2015-06-10 08:02:51	--	End of message of the day.
+2015-06-10 08:02:51	--	There are 304 users and 82 invisible on 2 servers
+2015-06-10 08:02:51	--	10 :operator(s) online
+2015-06-10 08:02:51	--	11 :channels formed
+2015-06-10 08:02:51	--	I have 378 clients and 1 servers
+2015-06-10 08:02:51	--	Current Local Users: 378  Max: 1712
+2015-06-10 08:02:51	--	Current Global Users: 386  Max: 1720
+2015-06-10 08:02:51	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-10 08:02:51	--	User mode [+x] by stevehnh
+2015-06-11 08:04:02	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-11 08:04:02	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-11 08:04:02	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-11 08:04:03	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG KHADbn{FAM or /raw PONG KHADbn{FAM now.
+2015-06-11 08:04:03	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-11 08:04:04	--	irc.twit.tv: Welcome to TWiT!
+2015-06-11 08:04:04	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-11 08:04:04	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-11 08:04:04	--	This server was created 18:05:37 Aug 21 2013
+2015-06-11 08:04:04	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-11 08:04:04	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-11 08:04:04	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-11 08:04:04	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-11 08:04:04	--	338AAT1EB :your unique ID
+2015-06-11 08:04:04	--	irc.twit.tv message of the day
+2015-06-11 08:04:04	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-11 08:04:04	--	-
+2015-06-11 08:04:04	--	- ------------------------------------------------------
+2015-06-11 08:04:04	--	- Chat rules:
+2015-06-11 08:04:04	--	-
+2015-06-11 08:04:04	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-11 08:04:04	--	-
+2015-06-11 08:04:04	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-11 08:04:04	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-11 08:04:04	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-11 08:04:04	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-11 08:04:04	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-11 08:04:04	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-11 08:04:04	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-11 08:04:04	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-11 08:04:04	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-11 08:04:04	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-11 08:04:04	--	-
+2015-06-11 08:04:04	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-11 08:04:04	--	- ------------------------------------------------------
+2015-06-11 08:04:04	--	-
+2015-06-11 08:04:04	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-11 08:04:04	--	-
+2015-06-11 08:04:04	--	End of message of the day.
+2015-06-11 08:04:04	--	There are 292 users and 85 invisible on 2 servers
+2015-06-11 08:04:04	--	12 :operator(s) online
+2015-06-11 08:04:04	--	1 :unknown connections
+2015-06-11 08:04:04	--	11 :channels formed
+2015-06-11 08:04:04	--	I have 369 clients and 1 servers
+2015-06-11 08:04:04	--	Current Local Users: 369  Max: 1712
+2015-06-11 08:04:04	--	Current Global Users: 377  Max: 1720
+2015-06-11 08:04:04	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-11 08:04:04	--	User mode [+x] by stevehnh
+2015-06-12 08:05:27	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-12 08:05:27	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-12 08:05:27	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-12 08:05:27	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG kruHiQgr[e or /raw PONG kruHiQgr[e now.
+2015-06-12 08:05:28	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-12 08:05:29	--	irc.twit.tv: Welcome to TWiT!
+2015-06-12 08:05:29	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-12 08:05:29	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-12 08:05:29	--	This server was created 18:05:37 Aug 21 2013
+2015-06-12 08:05:29	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-12 08:05:29	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-12 08:05:29	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-12 08:05:29	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-12 08:05:29	--	338AAT5IO :your unique ID
+2015-06-12 08:05:29	--	irc.twit.tv message of the day
+2015-06-12 08:05:29	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-12 08:05:29	--	-
+2015-06-12 08:05:29	--	- ------------------------------------------------------
+2015-06-12 08:05:29	--	- Chat rules:
+2015-06-12 08:05:29	--	-
+2015-06-12 08:05:29	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-12 08:05:29	--	-
+2015-06-12 08:05:29	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-12 08:05:29	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-12 08:05:29	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-12 08:05:29	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-12 08:05:29	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-12 08:05:29	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-12 08:05:29	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-12 08:05:29	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-12 08:05:29	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-12 08:05:29	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-12 08:05:29	--	-
+2015-06-12 08:05:29	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-12 08:05:29	--	- ------------------------------------------------------
+2015-06-12 08:05:29	--	-
+2015-06-12 08:05:29	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-12 08:05:29	--	-
+2015-06-12 08:05:29	--	End of message of the day.
+2015-06-12 08:05:29	--	There are 297 users and 92 invisible on 2 servers
+2015-06-12 08:05:29	--	12 :operator(s) online
+2015-06-12 08:05:29	--	11 :channels formed
+2015-06-12 08:05:29	--	I have 381 clients and 1 servers
+2015-06-12 08:05:29	--	Current Local Users: 381  Max: 1712
+2015-06-12 08:05:29	--	Current Global Users: 389  Max: 1720
+2015-06-12 08:05:29	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-12 08:05:29	--	User mode [+x] by stevehnh
+2015-06-15 07:58:19	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-15 07:58:19	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-15 07:58:19	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-15 07:58:19	--	irc: nickname "stevehnh" is already in use, trying nickname "stevehnh_"
+2015-06-15 07:58:19	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG MhF^@zP[}R or /raw PONG MhF^@zP[}R now.
+2015-06-15 07:58:19	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-15 07:58:20	--	irc.twit.tv: Welcome to TWiT!
+2015-06-15 07:58:20	--	Welcome to the TWiT IRC Network stevehnh_!tsa20@152.16.191.70
+2015-06-15 07:58:20	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-15 07:58:20	--	This server was created 18:05:37 Aug 21 2013
+2015-06-15 07:58:20	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-15 07:58:20	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-15 07:58:20	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-15 07:58:20	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-15 07:58:20	--	338AAUJ1R :your unique ID
+2015-06-15 07:58:20	--	irc.twit.tv message of the day
+2015-06-15 07:58:20	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-15 07:58:20	--	-
+2015-06-15 07:58:20	--	- ------------------------------------------------------
+2015-06-15 07:58:20	--	- Chat rules:
+2015-06-15 07:58:20	--	-
+2015-06-15 07:58:20	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-15 07:58:20	--	-
+2015-06-15 07:58:20	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-15 07:58:20	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-15 07:58:20	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-15 07:58:20	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-15 07:58:20	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-15 07:58:20	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-15 07:58:20	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-15 07:58:20	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-15 07:58:20	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-15 07:58:20	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-15 07:58:20	--	-
+2015-06-15 07:58:20	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-15 07:58:20	--	- ------------------------------------------------------
+2015-06-15 07:58:20	--	-
+2015-06-15 07:58:20	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-15 07:58:20	--	-
+2015-06-15 07:58:20	--	End of message of the day.
+2015-06-15 07:58:20	--	There are 305 users and 103 invisible on 2 servers
+2015-06-15 07:58:20	--	12 :operator(s) online
+2015-06-15 07:58:20	--	11 :channels formed
+2015-06-15 07:58:20	--	I have 400 clients and 1 servers
+2015-06-15 07:58:20	--	Current Local Users: 400  Max: 1712
+2015-06-15 07:58:20	--	Current Global Users: 408  Max: 1720
+2015-06-15 07:58:20	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-15 07:58:20	--	User mode [+x] by stevehnh_
+2015-06-16 08:08:37	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-16 08:08:37	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-16 08:08:37	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-16 08:08:37	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG BO{gJ{vFm} or /raw PONG BO{gJ{vFm} now.
+2015-06-16 08:08:37	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-16 08:08:38	--	irc.twit.tv: Welcome to TWiT!
+2015-06-16 08:08:38	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-16 08:08:38	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-16 08:08:38	--	This server was created 18:05:37 Aug 21 2013
+2015-06-16 08:08:38	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-16 08:08:38	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-16 08:08:38	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-16 08:08:38	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-16 08:08:38	--	338AAUOEJ :your unique ID
+2015-06-16 08:08:38	--	irc.twit.tv message of the day
+2015-06-16 08:08:38	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-16 08:08:38	--	-
+2015-06-16 08:08:38	--	- ------------------------------------------------------
+2015-06-16 08:08:38	--	- Chat rules:
+2015-06-16 08:08:38	--	-
+2015-06-16 08:08:38	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-16 08:08:38	--	-
+2015-06-16 08:08:38	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-16 08:08:38	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-16 08:08:38	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-16 08:08:38	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-16 08:08:38	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-16 08:08:38	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-16 08:08:38	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-16 08:08:38	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-16 08:08:38	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-16 08:08:38	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-16 08:08:38	--	-
+2015-06-16 08:08:38	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-16 08:08:38	--	- ------------------------------------------------------
+2015-06-16 08:08:38	--	-
+2015-06-16 08:08:38	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-16 08:08:38	--	-
+2015-06-16 08:08:38	--	End of message of the day.
+2015-06-16 08:08:38	--	There are 294 users and 102 invisible on 2 servers
+2015-06-16 08:08:38	--	12 :operator(s) online
+2015-06-16 08:08:38	--	11 :channels formed
+2015-06-16 08:08:38	--	I have 388 clients and 1 servers
+2015-06-16 08:08:38	--	Current Local Users: 388  Max: 1712
+2015-06-16 08:08:38	--	Current Global Users: 396  Max: 1720
+2015-06-16 08:08:38	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-16 08:08:38	--	User mode [+x] by stevehnh
+2015-06-17 08:05:45	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-17 08:05:45	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-17 08:05:45	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-17 08:05:45	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG eHeI|pCuhs or /raw PONG eHeI|pCuhs now.
+2015-06-17 08:05:46	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-17 08:05:47	--	irc.twit.tv: Welcome to TWiT!
+2015-06-17 08:05:47	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-17 08:05:47	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-17 08:05:47	--	This server was created 18:05:37 Aug 21 2013
+2015-06-17 08:05:47	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-17 08:05:47	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-17 08:05:47	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-17 08:05:47	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-17 08:05:47	--	338AAUUBZ :your unique ID
+2015-06-17 08:05:47	--	irc.twit.tv message of the day
+2015-06-17 08:05:47	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-17 08:05:47	--	-
+2015-06-17 08:05:47	--	- ------------------------------------------------------
+2015-06-17 08:05:47	--	- Chat rules:
+2015-06-17 08:05:47	--	-
+2015-06-17 08:05:47	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-17 08:05:47	--	-
+2015-06-17 08:05:47	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-17 08:05:47	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-17 08:05:47	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-17 08:05:47	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-17 08:05:47	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-17 08:05:47	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-17 08:05:47	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-17 08:05:47	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-17 08:05:47	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-17 08:05:47	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-17 08:05:47	--	-
+2015-06-17 08:05:47	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-17 08:05:47	--	- ------------------------------------------------------
+2015-06-17 08:05:47	--	-
+2015-06-17 08:05:47	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-17 08:05:47	--	-
+2015-06-17 08:05:47	--	End of message of the day.
+2015-06-17 08:05:47	--	There are 326 users and 98 invisible on 2 servers
+2015-06-17 08:05:47	--	11 :operator(s) online
+2015-06-17 08:05:47	--	11 :channels formed
+2015-06-17 08:05:47	--	I have 416 clients and 1 servers
+2015-06-17 08:05:47	--	Current Local Users: 416  Max: 1712
+2015-06-17 08:05:47	--	Current Global Users: 424  Max: 1720
+2015-06-17 08:05:47	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-17 08:05:47	--	User mode [+x] by stevehnh
+2015-06-18 08:21:32	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-18 08:21:32	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-18 08:21:32	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-18 08:21:32	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG nhtl]kaNI_ or /raw PONG nhtl]kaNI_ now.
+2015-06-18 08:21:32	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-18 08:21:33	--	irc.twit.tv: Welcome to TWiT!
+2015-06-18 08:21:33	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-18 08:21:33	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-18 08:21:33	--	This server was created 18:05:37 Aug 21 2013
+2015-06-18 08:21:33	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-18 08:21:33	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORScimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSUcmz FNC INVEX=I :are supported by this server
+2015-06-18 08:21:33	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 PREFIX=(qaohv)~&@%+ REMOVE SECURELIST SILENCE=32 :are supported by this server
+2015-06-18 08:21:33	--	SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-18 08:21:33	--	338AAUZRK :your unique ID
+2015-06-18 08:21:33	--	irc.twit.tv message of the day
+2015-06-18 08:21:33	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-18 08:21:33	--	-
+2015-06-18 08:21:33	--	- ------------------------------------------------------
+2015-06-18 08:21:33	--	- Chat rules:
+2015-06-18 08:21:33	--	-
+2015-06-18 08:21:33	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-18 08:21:33	--	-
+2015-06-18 08:21:33	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-18 08:21:33	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-18 08:21:33	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-18 08:21:33	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-18 08:21:33	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-18 08:21:33	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-18 08:21:33	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-18 08:21:33	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-18 08:21:33	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-18 08:21:33	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-18 08:21:33	--	-
+2015-06-18 08:21:33	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-18 08:21:33	--	- ------------------------------------------------------
+2015-06-18 08:21:33	--	-
+2015-06-18 08:21:33	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-18 08:21:33	--	-
+2015-06-18 08:21:33	--	End of message of the day.
+2015-06-18 08:21:33	--	There are 324 users and 103 invisible on 2 servers
+2015-06-18 08:21:33	--	12 :operator(s) online
+2015-06-18 08:21:33	--	11 :channels formed
+2015-06-18 08:21:33	--	I have 419 clients and 1 servers
+2015-06-18 08:21:33	--	Current Local Users: 419  Max: 1712
+2015-06-18 08:21:33	--	Current Global Users: 427  Max: 1720
+2015-06-18 08:21:33	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-18 08:21:33	--	User mode [+x] by stevehnh
+2015-06-19 08:22:14	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-19 08:22:15	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-19 08:22:15	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-19 08:22:15	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG e\Fsb]xcNh or /raw PONG e\Fsb]xcNh now.
+2015-06-19 08:22:15	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-19 08:22:16	--	irc.twit.tv: Welcome to TWiT!
+2015-06-19 08:22:16	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-19 08:22:16	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-19 08:22:16	--	This server was created 18:05:37 Aug 21 2013
+2015-06-19 08:22:16	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSTXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-19 08:22:16	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSTUcmz FNC INVEX=I :are supported by this server
+2015-06-19 08:22:16	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 OVERRIDE PREFIX=(qaohv)~&@%+ REMOVE SECURELIST :are supported by this server
+2015-06-19 08:22:16	--	SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-19 08:22:16	--	338AAU30Y :your unique ID
+2015-06-19 08:22:16	--	irc.twit.tv message of the day
+2015-06-19 08:22:16	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-19 08:22:16	--	-
+2015-06-19 08:22:16	--	- ------------------------------------------------------
+2015-06-19 08:22:16	--	- Chat rules:
+2015-06-19 08:22:16	--	-
+2015-06-19 08:22:16	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-19 08:22:16	--	-
+2015-06-19 08:22:16	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-19 08:22:16	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-19 08:22:16	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-19 08:22:16	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-19 08:22:16	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-19 08:22:16	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-19 08:22:16	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-19 08:22:16	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-19 08:22:16	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-19 08:22:16	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-19 08:22:16	--	-
+2015-06-19 08:22:16	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-19 08:22:16	--	- ------------------------------------------------------
+2015-06-19 08:22:16	--	-
+2015-06-19 08:22:16	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-19 08:22:16	--	-
+2015-06-19 08:22:16	--	End of message of the day.
+2015-06-19 08:22:16	--	There are 300 users and 101 invisible on 2 servers
+2015-06-19 08:22:16	--	12 :operator(s) online
+2015-06-19 08:22:16	--	11 :channels formed
+2015-06-19 08:22:16	--	I have 393 clients and 1 servers
+2015-06-19 08:22:16	--	Current Local Users: 393  Max: 1712
+2015-06-19 08:22:16	--	Current Global Users: 401  Max: 1720
+2015-06-19 08:22:16	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-19 08:22:16	--	User mode [+x] by stevehnh
+2015-06-29 08:17:11	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 08:17:11	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-29 08:17:11	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-29 08:17:11	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG vjM]f~UZs] or /raw PONG vjM]f~UZs] now.
+2015-06-29 08:17:11	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-29 08:17:12	--	irc.twit.tv: Welcome to TWiT!
+2015-06-29 08:17:12	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-29 08:17:12	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-29 08:17:12	--	This server was created 18:05:37 Aug 21 2013
+2015-06-29 08:17:12	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSTXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-29 08:17:12	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSTUcmz FNC INVEX=I :are supported by this server
+2015-06-29 08:17:12	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 OVERRIDE PREFIX=(qaohv)~&@%+ REMOVE SECURELIST :are supported by this server
+2015-06-29 08:17:12	--	SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-29 08:17:12	--	338AAWF6H :your unique ID
+2015-06-29 08:17:12	--	irc.twit.tv message of the day
+2015-06-29 08:17:12	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-29 08:17:12	--	-
+2015-06-29 08:17:12	--	- ------------------------------------------------------
+2015-06-29 08:17:12	--	- Chat rules:
+2015-06-29 08:17:12	--	-
+2015-06-29 08:17:12	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-29 08:17:12	--	-
+2015-06-29 08:17:12	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-29 08:17:12	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-29 08:17:12	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-29 08:17:12	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-29 08:17:12	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-29 08:17:12	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-29 08:17:12	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-29 08:17:12	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-29 08:17:12	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-29 08:17:12	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-29 08:17:12	--	-
+2015-06-29 08:17:12	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-29 08:17:12	--	- ------------------------------------------------------
+2015-06-29 08:17:12	--	-
+2015-06-29 08:17:12	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-29 08:17:12	--	-
+2015-06-29 08:17:12	--	End of message of the day.
+2015-06-29 08:17:12	--	There are 297 users and 97 invisible on 2 servers
+2015-06-29 08:17:12	--	10 :operator(s) online
+2015-06-29 08:17:12	--	10 :channels formed
+2015-06-29 08:17:12	--	I have 386 clients and 1 servers
+2015-06-29 08:17:12	--	Current Local Users: 386  Max: 1712
+2015-06-29 08:17:12	--	Current Global Users: 394  Max: 1720
+2015-06-29 08:17:12	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-29 08:17:12	--	User mode [+x] by stevehnh
+2015-06-29 14:02:42	=!=	Closing link: (tsa20@152.16.191.70) [Ping timeout: 121 seconds]
+2015-06-29 14:02:42	=!=	irc: reading data on socket: error 11 (connection closed by peer)
+2015-06-29 14:02:42	--	irc: disconnecting from server...
+2015-06-29 14:02:42	--	irc: disconnected from server
+2015-06-29 14:02:42	--	irc: reconnecting to server in 10 seconds
+2015-06-29 14:02:52	--	irc: reconnecting to server...
+2015-06-29 14:02:52	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 14:02:55	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-29 14:02:56	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-29 14:02:56	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG sVH~FJU~_a or /raw PONG sVH~FJU~_a now.
+2015-06-29 14:02:56	=!=	Closing link: (tsa20@152.16.191.70) [Server is busy - too many connects at once - temporary throttle active.]
+2015-06-29 14:02:56	=!=	irc: reading data on socket: error 11 (connection closed by peer)
+2015-06-29 14:02:56	--	irc: disconnecting from server...
+2015-06-29 14:02:56	--	irc: disconnected from server
+2015-06-29 14:02:56	--	irc: reconnecting to server in 20 seconds
+2015-06-29 14:03:16	--	irc: reconnecting to server...
+2015-06-29 14:03:16	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 14:03:23	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-29 14:03:23	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-29 14:03:23	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG eLdgFJD{e@ or /raw PONG eLdgFJD{e@ now.
+2015-06-29 14:03:28	--	irc.twit.tv: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-29 14:03:28	--	irc.twit.tv: Welcome to TWiT!
+2015-06-29 14:03:28	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-29 14:03:28	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-29 14:03:28	--	This server was created 18:05:37 Aug 21 2013
+2015-06-29 14:03:28	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSTXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-29 14:03:28	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSTUcmz FNC INVEX=I :are supported by this server
+2015-06-29 14:03:28	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 OVERRIDE PREFIX=(qaohv)~&@%+ REMOVE SECURELIST :are supported by this server
+2015-06-29 14:03:28	--	SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-29 14:03:28	--	338AAWG9K :your unique ID
+2015-06-29 14:03:28	--	irc.twit.tv message of the day
+2015-06-29 14:03:28	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-29 14:03:28	--	-
+2015-06-29 14:03:28	--	- ------------------------------------------------------
+2015-06-29 14:03:28	--	- Chat rules:
+2015-06-29 14:03:28	--	-
+2015-06-29 14:03:28	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-29 14:03:28	--	-
+2015-06-29 14:03:28	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-29 14:03:28	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-29 14:03:28	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-29 14:03:28	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-29 14:03:28	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-29 14:03:28	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-29 14:03:28	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-29 14:03:28	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-29 14:03:28	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-29 14:03:28	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-29 14:03:28	--	-
+2015-06-29 14:03:28	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-29 14:03:28	--	- ------------------------------------------------------
+2015-06-29 14:03:28	--	-
+2015-06-29 14:03:28	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-29 14:03:28	--	-
+2015-06-29 14:03:28	--	End of message of the day.
+2015-06-29 14:03:28	--	There are 139 users and 24 invisible on 2 servers
+2015-06-29 14:03:28	--	9 :operator(s) online
+2015-06-29 14:03:28	--	11 :unknown connections
+2015-06-29 14:03:28	--	10 :channels formed
+2015-06-29 14:03:28	--	I have 155 clients and 1 servers
+2015-06-29 14:03:28	--	Current Local Users: 155  Max: 1712
+2015-06-29 14:03:28	--	Current Global Users: 163  Max: 1720
+2015-06-29 14:03:28	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-29 14:03:28	--	User mode [+x] by stevehnh
+2015-06-29 14:23:45	=!=	irc: reading data on socket: error 110 Connection timed out
+2015-06-29 14:23:45	--	irc: disconnecting from server...
+2015-06-29 14:23:45	--	irc: disconnected from server
+2015-06-29 14:23:45	--	irc: reconnecting to server in 10 seconds
+2015-06-29 14:23:55	--	irc: reconnecting to server...
+2015-06-29 14:23:55	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 14:24:55	=!=	irc: timeout
+2015-06-29 14:24:55	--	irc: reconnecting to server in 20 seconds
+2015-06-29 14:25:15	--	irc: reconnecting to server...
+2015-06-29 14:25:15	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 14:26:15	=!=	irc: timeout
+2015-06-29 14:26:15	--	irc: reconnecting to server in 40 seconds
+2015-06-29 14:26:55	--	irc: reconnecting to server...
+2015-06-29 14:26:55	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 14:27:55	=!=	irc: timeout
+2015-06-29 14:27:55	--	irc: reconnecting to server in 1 minute, 20 seconds
+2015-06-29 14:29:15	--	irc: reconnecting to server...
+2015-06-29 14:29:15	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 14:30:15	=!=	irc: timeout
+2015-06-29 14:30:15	--	irc: reconnecting to server in 2 minutes, 40 seconds
+2015-06-29 14:32:55	--	irc: reconnecting to server...
+2015-06-29 14:32:55	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 14:33:55	=!=	irc: timeout
+2015-06-29 14:33:55	--	irc: reconnecting to server in 5 minutes, 20 seconds
+2015-06-29 14:39:15	--	irc: reconnecting to server...
+2015-06-29 14:39:15	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 14:40:15	=!=	irc: timeout
+2015-06-29 14:40:15	--	irc: reconnecting to server in 10 minutes
+2015-06-29 14:50:15	--	irc: reconnecting to server...
+2015-06-29 14:50:15	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 14:50:15	--	irc: connected to irc.twit.tv/6667 (174.37.23.130)
+2015-06-29 14:50:15	--	irc.twit.tv: *** Looking up your hostname...
+2015-06-29 14:50:15	--	irc.twit.tv: *** If you are having problems connecting due to ping timeouts, please type /quote PONG FXhLkEFn?J or /raw PONG FXhLkEFn?J now.
+2015-06-29 14:50:15	--	irc.twit.tv: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-06-29 14:50:16	--	irc.twit.tv: Welcome to TWiT!
+2015-06-29 14:50:16	--	Welcome to the TWiT IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-29 14:50:16	--	Your host is irc.twit.tv, running version InspIRCd-2.0
+2015-06-29 14:50:16	--	This server was created 18:05:37 Aug 21 2013
+2015-06-29 14:50:16	--	irc.twit.tv InspIRCd-2.0 BGIRSWdgiorswx BCFGIJLMORSTXabcdefhijklmnopqrstuvz FIJLXabdefhjkloqv
+2015-06-29 14:50:16	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbe,k,FJLdfjl,BCGMORSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,BCORSTUcmz FNC INVEX=I :are supported by this server
+2015-06-29 14:50:16	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=10 MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=TWiT NICKLEN=16 OVERRIDE PREFIX=(qaohv)~&@%+ REMOVE SECURELIST :are supported by this server
+2015-06-29 14:50:16	--	SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+ TOPICLEN=307 USERIP VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-29 14:50:16	--	338AAWH7Q :your unique ID
+2015-06-29 14:50:16	--	irc.twit.tv message of the day
+2015-06-29 14:50:16	--	- Welcome to irc.twit.tv - the home of TWiT!
+2015-06-29 14:50:16	--	-
+2015-06-29 14:50:16	--	- ------------------------------------------------------
+2015-06-29 14:50:16	--	- Chat rules:
+2015-06-29 14:50:16	--	-
+2015-06-29 14:50:16	--	- We want the chat to be a nice, safe place for all chatters. As a result, please follow these simple rules:
+2015-06-29 14:50:16	--	-
+2015-06-29 14:50:16	--	-     * Keep the conversation PG-rated, since there is a wide range of ages in the chat. Anything deemed offensive will not be tolerated.
+2015-06-29 14:50:16	--	-     * No offensive references to a person or group by race, religion, gender, or orientation.
+2015-06-29 14:50:16	--	-     * No illegal activity (e.g. discussing where to get warez, pirated movies, etc.) under any circumstances.
+2015-06-29 14:50:16	--	-     * Do not impersonate any other user in the chat. This includes moderators, show hosts, and well known guests.
+2015-06-29 14:50:16	--	-     * The use of Leo's name in a nickname is discouraged, as it creates confusion.
+2015-06-29 14:50:16	--	-     * No shouting (i.e., TYPING IN ALL CAPITAL LETTERS).
+2015-06-29 14:50:16	--	-     * Do not harass other chatters. You can respectfully disagree, but don't be rude.
+2015-06-29 14:50:16	--	-     * No spamming of web sites for either personal or commercial purposes. Posting a personal web site once is OK, just don't do it repeatedly.
+2015-06-29 14:50:16	--	-     * Politics, sports, or religion talk during the live shows should be avoided. Even if shows are not live, remember that politics and religion are still touchy issues that can degrade chat for everyone; use your best judgment when speaking in chat about these topics.
+2015-06-29 14:50:16	--	-     * Allow the moderators to do their jobs. Rather than correcting behavior, ignore people who bother you and inform a moderator if someone is being disruptive.
+2015-06-29 14:50:16	--	-
+2015-06-29 14:50:16	--	- The chat rules do not cover all possible things that can happen in an active IRC chat. Generally speaking, avoiding being disruptive to other user's chat experiences and being sensitive to some of the younger chatters will avoid any chance you might be removed. A little thinking before typing goes a long way.  :)
+2015-06-29 14:50:16	--	- ------------------------------------------------------
+2015-06-29 14:50:16	--	-
+2015-06-29 14:50:16	--	- Try #unfiltered for a less-filtered, more adult chat - or #offtopic for off topic ranting!
+2015-06-29 14:50:16	--	-
+2015-06-29 14:50:16	--	End of message of the day.
+2015-06-29 14:50:16	--	There are 321 users and 87 invisible on 2 servers
+2015-06-29 14:50:16	--	10 :operator(s) online
+2015-06-29 14:50:16	--	11 :channels formed
+2015-06-29 14:50:16	--	I have 400 clients and 1 servers
+2015-06-29 14:50:16	--	Current Local Users: 400  Max: 1712
+2015-06-29 14:50:16	--	Current Global Users: 408  Max: 1720
+2015-06-29 14:50:16	--	63F787.58C62F.1A08F9.28BA29 :is now your displayed host
+2015-06-29 14:50:16	--	User mode [+x] by stevehnh
+2015-06-29 15:08:24	=!=	irc: reading data on socket: error 110 Connection timed out
+2015-06-29 15:08:24	--	irc: disconnecting from server...
+2015-06-29 15:08:24	--	irc: disconnected from server
+2015-06-29 15:08:24	--	irc: reconnecting to server in 10 seconds
+2015-06-29 15:08:34	--	irc: reconnecting to server...
+2015-06-29 15:08:34	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 15:09:34	=!=	irc: timeout
+2015-06-29 15:09:34	--	irc: reconnecting to server in 20 seconds
+2015-06-29 15:09:54	--	irc: reconnecting to server...
+2015-06-29 15:09:54	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 15:10:54	=!=	irc: timeout
+2015-06-29 15:10:54	--	irc: reconnecting to server in 40 seconds
+2015-06-29 15:11:34	--	irc: reconnecting to server...
+2015-06-29 15:11:34	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 15:12:34	=!=	irc: timeout
+2015-06-29 15:12:34	--	irc: reconnecting to server in 1 minute, 20 seconds
+2015-06-29 15:13:54	--	irc: reconnecting to server...
+2015-06-29 15:13:54	--	irc: connecting to server irc.twit.tv/6667...
+2015-06-29 15:14:54	=!=	irc: timeout
+2015-06-29 15:14:54	--	irc: reconnecting to server in 2 minutes, 40 seconds

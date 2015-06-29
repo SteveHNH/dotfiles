@@ -1,0 +1,49 @@
+2015-05-28 08:20:39	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-05-28 08:20:39	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-05-28 08:20:39	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-05-28 08:20:44	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::29) instead.
+2015-05-28 08:20:45	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-05-28 08:20:45	--	Welcome to the chatrealm.net IRC Network tsa20!tsa20@2620:0:691:3::29
+2015-05-28 08:20:45	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-05-28 08:20:45	--	This server was created 23:05:07 Nov 11 2014
+2015-05-28 08:20:45	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-05-28 08:20:45	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-05-28 08:20:45	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-05-28 08:20:45	--	WALLVOICES :are supported by this server
+2015-05-28 08:20:45	--	108AACK5Z :your unique ID
+2015-05-28 08:20:45	--	usw.chatrealm.net message of the day
+2015-05-28 08:20:45	--	-
+2015-05-28 08:20:45	--	-
+2015-05-28 08:20:45	--	- _________ .__            __                        .__
+2015-05-28 08:20:45	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-05-28 08:20:45	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-05-28 08:20:45	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-05-28 08:20:45	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-05-28 08:20:45	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-05-28 08:20:45	--	-                        / /      \ \
+2015-05-28 08:20:45	--	-                        \ \      / /
+2015-05-28 08:20:45	--	-                         \_\    /_/
+2015-05-28 08:20:45	--	-
+2015-05-28 08:20:45	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-05-28 08:20:45	--	End of message of the day.
+2015-05-28 08:20:45	--	There are 146 users and 34 invisible on 3 servers
+2015-05-28 08:20:45	--	27 :channels formed
+2015-05-28 08:20:45	--	I have 155 clients and 2 servers
+2015-05-28 08:20:45	--	Current Local Users: 155  Max: 405
+2015-05-28 08:20:45	--	Current Global Users: 180  Max: 769
+2015-05-28 08:20:45	--	net-5mbrno.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-05-28 08:20:45	--	User mode [+x] by tsa20
+2015-05-28 08:20:45	--	NickServ (services@services.chatrealm.net): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2015-05-28 08:20:45	--	CTCP requested by StatServ: VERSION
+2015-05-28 08:20:45	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-05-28 08:20:57	--	You are now known as stevehnh
+2015-05-28 08:20:57	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-05-28 08:20:57	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-05-28 08:20:57	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-05-28 08:20:57	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-05-28 08:21:04	--	MSG(nickserv): identify ********
+2015-05-28 08:21:04	--	NickServ (services@services.chatrealm.net): Password incorrect.
+2015-05-28 08:21:10	--	MSG(nickserv): identify *********
+2015-05-28 08:21:10	--	NickServ (services@services.chatrealm.net): Password accepted - you are now recognized.
+2015-05-28 08:21:10	--	You are now logged in as SteveHNH (stevehnh!tsa20@net-5mbrno.qp5s.d6ei.0000.2620.IP)
+2015-05-28 08:21:10	--	User mode [+r] by NickServ

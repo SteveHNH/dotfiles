@@ -1,9 +1,14 @@
+" use base16 256 colors
+let base16colorspace=256
+
+set laststatus=2
 set number
 set t_Co=256
 
 set fo=tcq
 set nocompatible
 set modeline
+set background=dark
 
 syntax on
 
@@ -11,7 +16,7 @@ syntax on
 " which is not very legible on a black background
 highlight comment ctermfg=cyan
 
-set tabstop=2
+set tabstop=4
 set expandtab
 set softtabstop=2
 set shiftwidth=2
@@ -33,9 +38,9 @@ au BufRead,BufNewFile *_spec.rb
 " Enable indentation matching for =>'s
 filetype plugin indent on
 
-" use the molokai colorscheme
-" pulled from https://github.com/tomasr/molokai
-colorscheme molokai 
+" use base16-twilight
+colorscheme base16-twilight 
 
 " highlight the current line
 set cursorline
+

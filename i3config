@@ -11,15 +11,21 @@
 
 set $mod Mod4
 
+##################################
+# Global Gaps - i3-gaps-git only #
+##################################
+gaps inner 15 
+gaps outer 5 
+
 #################
 # Startup Execs #
 #################
 
 # Set background image
-exec --no-startup-id feh --bg-scale ~/pictures/wallpaper/railroad.jpg
+exec --no-startup-id feh --bg-scale ~/pictures/wallpaper/blue-whimsy.jpg 
 
 # Configure multi-monitor
-exec --no-startup-id xrandr --output HDMI-1 --auto --left-of DVI-1
+#exec --no-startup-id xrandr --output HDMI-1 --auto --left-of DVI-1
 
 # Configure xterm colors
 exec --no-startup-id [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
@@ -45,13 +51,15 @@ font pango:DejaVu Sans Mono 8
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
-# Set floating windows
+# Set floating windows and container settings
 for_window [class="VirtualBox"] floating enable
 for_window [class="Skype"] floating enable
 for_window [class="Steam"] floating enable
 for_window [class="Nautilus"] floating enable
 for_window [title="Hangouts"] move container to workspace $tag3
-
+for_window [title="Hangouts"] floating enable
+for_window [class="Wfica_Seamless"] floating enable
+for_window [class="Birdie"] floating enable
 
 # start a terminal
 bindsym $mod+Return exec i3-sensible-terminal
@@ -63,11 +71,15 @@ bindsym $mod+Shift+q kill
 #bindsym $mod+d exec dmenu_run
 # Replace standard dmenu with j4-dmenu. Only adds things with a desktop
 # shortcut to dmenu 
-bindsym $mod+d exec j4-dmenu-desktop
+#bindsym $mod+d exec j4-dmenu-desktop
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
-# bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+bindsym $mod+d exec --no-startup-id i3-dmenu-desktop --dmenu='rofi -dmenu -p "run:"'
+#
+# LOCK SCREEN
+#bindsym $mod+z exec i3lock -n -i /home/tsa20/pictures/wallpaper/grass-blur.png
+bindsym $mod+z exec /usr/local/bin/lock.sh
 
 # change focus
 bindsym $mod+j focus left
@@ -128,12 +140,13 @@ new_window 1pixel
 
 # Name workspaces
 
-set $tag1 "1: term"
-set $tag2 "2: www"
-set $tag3 "3: msg"
-set $tag4 "4: media"
-set $tag5 "5: gaming"
-set $tag6 "6: misc"
+set $tag1 "term"
+set $tag2 "www"
+set $tag3 "msg"
+set $tag4 "media"
+set $tag5 "gaming"
+set $tag6 "virtbox"
+set $tag7 "misc"
 
 # switch to workspace
 bindsym $mod+1 workspace $tag1
@@ -142,7 +155,7 @@ bindsym $mod+3 workspace $tag3
 bindsym $mod+4 workspace $tag4
 bindsym $mod+5 workspace $tag5
 bindsym $mod+6 workspace $tag6
-bindsym $mod+7 workspace 7
+bindsym $mod+7 workspace $tag7
 bindsym $mod+8 workspace 8
 bindsym $mod+9 workspace 9
 bindsym $mod+0 workspace 10
@@ -154,7 +167,7 @@ bindsym $mod+Shift+3 move container to workspace $tag3
 bindsym $mod+Shift+4 move container to workspace $tag4
 bindsym $mod+Shift+5 move container to workspace $tag5
 bindsym $mod+Shift+6 move container to workspace $tag6
-bindsym $mod+Shift+7 move container to workspace 7
+bindsym $mod+Shift+7 move container to workspace $tag7
 bindsym $mod+Shift+8 move container to workspace 8
 bindsym $mod+Shift+9 move container to workspace 9
 bindsym $mod+Shift+0 move container to workspace 10
@@ -227,6 +240,7 @@ bar {
     inactive_workspace #333333 #222222 #888888
     urgent_workspace   #aa0000 #990000 #ffffff
   }
-  status_command i3status
+#  status_command i3status
+   status_command py3status
 	position top
 }

@@ -1,0 +1,1391 @@
+2015-05-18 08:26:07	--	irc: connecting to server irc.thinstack.net/6667...
+2015-05-18 08:26:07	--	irc: connected to irc.thinstack.net/6667 (178.79.159.230)
+2015-05-18 08:26:08	--	jarvis.thinstack.net: *** Looking up your hostname...
+2015-05-18 08:26:09	--	jarvis.thinstack.net: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-05-18 08:26:10	--	jarvis.thinstack.net: Welcome to Thinstack!
+2015-05-18 08:26:10	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-05-18 08:26:10	--	Your host is jarvis.thinstack.net, running version InspIRCd-2.0
+2015-05-18 08:26:10	--	This server was created 22:51:51 Nov  4 2014
+2015-05-18 08:26:10	--	jarvis.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-05-18 08:26:10	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-05-18 08:26:10	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-05-18 08:26:10	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-05-18 08:26:10	--	324AAAWFZ :your unique ID
+2015-05-18 08:26:10	--	jarvis.thinstack.net message of the day
+2015-05-18 08:26:10	--	-  _____ _     _           _             _
+2015-05-18 08:26:10	--	- |_   _| |   (_)         | |           | |
+2015-05-18 08:26:10	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-05-18 08:26:10	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-05-18 08:26:10	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-05-18 08:26:10	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- /---------------------------------------------------------------------/
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-05-18 08:26:10	--	- community of individuals who come together within Internet Relay Chat
+2015-05-18 08:26:10	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-05-18 08:26:10	--	- Thinstack was built for those who are looking for a way to interact
+2015-05-18 08:26:10	--	- with like-minded people, without being forced to deal with the
+2015-05-18 08:26:10	--	- seemingly-endless chatter and power struggles of the larger,
+2015-05-18 08:26:10	--	- less-organized networks.
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- /---------------------------------------------------------------------/
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- You are currently connected to JARVIS.
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- /---------------------------------------------------------------------/
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-05-18 08:26:10	--	-                         Manuel, Flatface, eggy, gknee
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- /---------------------------------------------------------------------/
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- By connecting to this network, you indicate that you agree to the
+2015-05-18 08:26:10	--	- acceptable use policy located at http://thinstack.net/aup
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-05-18 08:26:10	--	- will result in a ban.
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- /---------------------------------------------------------------------/
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- Please consult http://thinstack.net/help for any problems you may
+2015-05-18 08:26:10	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- /---------------------------------------------------------------------/
+2015-05-18 08:26:10	--	-
+2015-05-18 08:26:10	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-05-18 08:26:10	--	End of message of the day.
+2015-05-18 08:26:10	--	There are 169 users and 81 invisible on 4 servers
+2015-05-18 08:26:10	--	8 :operator(s) online
+2015-05-18 08:26:10	--	109 :channels formed
+2015-05-18 08:26:10	--	I have 92 clients and 3 servers
+2015-05-18 08:26:10	--	Current Local Users: 92  Max: 162
+2015-05-18 08:26:10	--	Current Global Users: 250  Max: 406
+2015-05-18 08:26:10	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-05-18 08:26:10	--	User mode [+x] by stevehnh
+2015-05-18 08:26:10	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-05-18 08:26:15	--	MSG(nickserv): identify ********
+2015-05-18 08:26:15	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-05-18 08:26:15	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-05-19 13:03:53	--	irc: connecting to server irc.thinstack.net/6667...
+2015-05-19 13:03:53	--	irc: connected to irc.thinstack.net/6667 (178.79.159.230)
+2015-05-19 13:03:53	--	jarvis.thinstack.net: *** Looking up your hostname...
+2015-05-19 13:03:55	--	jarvis.thinstack.net: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-05-19 13:03:56	--	jarvis.thinstack.net: Welcome to Thinstack!
+2015-05-19 13:03:56	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-05-19 13:03:56	--	Your host is jarvis.thinstack.net, running version InspIRCd-2.0
+2015-05-19 13:03:56	--	This server was created 22:51:51 Nov  4 2014
+2015-05-19 13:03:56	--	jarvis.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-05-19 13:03:56	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-05-19 13:03:56	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-05-19 13:03:56	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-05-19 13:03:56	--	324AAAX4C :your unique ID
+2015-05-19 13:03:56	--	jarvis.thinstack.net message of the day
+2015-05-19 13:03:56	--	-  _____ _     _           _             _
+2015-05-19 13:03:56	--	- |_   _| |   (_)         | |           | |
+2015-05-19 13:03:56	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-05-19 13:03:56	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-05-19 13:03:56	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-05-19 13:03:56	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- /---------------------------------------------------------------------/
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-05-19 13:03:56	--	- community of individuals who come together within Internet Relay Chat
+2015-05-19 13:03:56	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-05-19 13:03:56	--	- Thinstack was built for those who are looking for a way to interact
+2015-05-19 13:03:56	--	- with like-minded people, without being forced to deal with the
+2015-05-19 13:03:56	--	- seemingly-endless chatter and power struggles of the larger,
+2015-05-19 13:03:56	--	- less-organized networks.
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- /---------------------------------------------------------------------/
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- You are currently connected to JARVIS.
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- /---------------------------------------------------------------------/
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-05-19 13:03:56	--	-                         Manuel, Flatface, eggy, gknee
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- /---------------------------------------------------------------------/
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- By connecting to this network, you indicate that you agree to the
+2015-05-19 13:03:56	--	- acceptable use policy located at http://thinstack.net/aup
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-05-19 13:03:56	--	- will result in a ban.
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- /---------------------------------------------------------------------/
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- Please consult http://thinstack.net/help for any problems you may
+2015-05-19 13:03:56	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- /---------------------------------------------------------------------/
+2015-05-19 13:03:56	--	-
+2015-05-19 13:03:56	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-05-19 13:03:56	--	End of message of the day.
+2015-05-19 13:03:56	--	There are 258 users and 88 invisible on 4 servers
+2015-05-19 13:03:56	--	8 :operator(s) online
+2015-05-19 13:03:56	--	111 :channels formed
+2015-05-19 13:03:56	--	I have 116 clients and 3 servers
+2015-05-19 13:03:56	--	Current Local Users: 116  Max: 162
+2015-05-19 13:03:56	--	Current Global Users: 346  Max: 406
+2015-05-19 13:03:56	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-05-19 13:03:56	--	User mode [+x] by stevehnh
+2015-05-19 13:03:56	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-05-19 13:04:00	--	MSG(nickserv): identify ********
+2015-05-19 13:04:00	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-05-19 13:04:00	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-05-20 08:19:49	--	irc: connecting to server irc.thinstack.net/6667...
+2015-05-20 08:19:49	--	irc: connected to irc.thinstack.net/6667 (178.79.159.230)
+2015-05-20 08:19:49	--	jarvis.thinstack.net: *** Looking up your hostname...
+2015-05-20 08:19:51	--	jarvis.thinstack.net: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-05-20 08:19:52	--	jarvis.thinstack.net: Welcome to Thinstack!
+2015-05-20 08:19:52	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-05-20 08:19:52	--	Your host is jarvis.thinstack.net, running version InspIRCd-2.0
+2015-05-20 08:19:52	--	This server was created 22:51:51 Nov  4 2014
+2015-05-20 08:19:52	--	jarvis.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-05-20 08:19:52	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-05-20 08:19:52	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-05-20 08:19:52	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-05-20 08:19:52	--	324AAAY6L :your unique ID
+2015-05-20 08:19:52	--	jarvis.thinstack.net message of the day
+2015-05-20 08:19:52	--	-  _____ _     _           _             _
+2015-05-20 08:19:52	--	- |_   _| |   (_)         | |           | |
+2015-05-20 08:19:52	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-05-20 08:19:52	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-05-20 08:19:52	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-05-20 08:19:52	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- /---------------------------------------------------------------------/
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-05-20 08:19:52	--	- community of individuals who come together within Internet Relay Chat
+2015-05-20 08:19:52	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-05-20 08:19:52	--	- Thinstack was built for those who are looking for a way to interact
+2015-05-20 08:19:52	--	- with like-minded people, without being forced to deal with the
+2015-05-20 08:19:52	--	- seemingly-endless chatter and power struggles of the larger,
+2015-05-20 08:19:52	--	- less-organized networks.
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- /---------------------------------------------------------------------/
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- You are currently connected to JARVIS.
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- /---------------------------------------------------------------------/
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-05-20 08:19:52	--	-                         Manuel, Flatface, eggy, gknee
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- /---------------------------------------------------------------------/
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- By connecting to this network, you indicate that you agree to the
+2015-05-20 08:19:52	--	- acceptable use policy located at http://thinstack.net/aup
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-05-20 08:19:52	--	- will result in a ban.
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- /---------------------------------------------------------------------/
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- Please consult http://thinstack.net/help for any problems you may
+2015-05-20 08:19:52	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- /---------------------------------------------------------------------/
+2015-05-20 08:19:52	--	-
+2015-05-20 08:19:52	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-05-20 08:19:52	--	End of message of the day.
+2015-05-20 08:19:52	--	There are 172 users and 81 invisible on 4 servers
+2015-05-20 08:19:52	--	8 :operator(s) online
+2015-05-20 08:19:52	--	110 :channels formed
+2015-05-20 08:19:52	--	I have 90 clients and 3 servers
+2015-05-20 08:19:52	--	Current Local Users: 90  Max: 162
+2015-05-20 08:19:52	--	Current Global Users: 253  Max: 406
+2015-05-20 08:19:52	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-05-20 08:19:52	--	User mode [+x] by stevehnh
+2015-05-20 08:19:52	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-05-20 08:19:54	--	MSG(nickserv): identify ********
+2015-05-20 08:19:54	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-05-20 08:19:54	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-05-27 09:12:26	--	irc: connecting to server irc.thinstack.net/6667...
+2015-05-27 09:12:26	--	irc: connected to irc.thinstack.net/6667 (198.27.82.83)
+2015-05-27 09:12:26	--	brad.thinstack.net: *** Looking up your hostname...
+2015-05-27 09:12:27	--	brad.thinstack.net: *** Could not resolve your hostname: Domain name not found; using your IP address (152.16.191.70) instead.
+2015-05-27 09:12:27	--	brad.thinstack.net: Welcome to Thinstack!
+2015-05-27 09:12:27	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-05-27 09:12:27	--	Your host is brad.thinstack.net, running version InspIRCd-2.0
+2015-05-27 09:12:27	--	This server was created 17:56:18 Mar  4 2015
+2015-05-27 09:12:27	--	brad.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-05-27 09:12:27	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-05-27 09:12:27	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-05-27 09:12:27	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-05-27 09:12:27	--	280AABDWQ :your unique ID
+2015-05-27 09:12:27	--	brad.thinstack.net message of the day
+2015-05-27 09:12:27	--	-  _____ _     _           _             _
+2015-05-27 09:12:27	--	- |_   _| |   (_)         | |           | |
+2015-05-27 09:12:27	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-05-27 09:12:27	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-05-27 09:12:27	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-05-27 09:12:27	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- /---------------------------------------------------------------------/
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-05-27 09:12:27	--	- community of individuals who come together within Internet Relay Chat
+2015-05-27 09:12:27	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-05-27 09:12:27	--	- Thinstack was built for those who are looking for a way to interact
+2015-05-27 09:12:27	--	- with like-minded people, without being forced to deal with the
+2015-05-27 09:12:27	--	- seemingly-endless chatter and power struggles of the larger,
+2015-05-27 09:12:27	--	- less-organized networks.
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- /---------------------------------------------------------------------/
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- You are currently connected to JARVIS.
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- /---------------------------------------------------------------------/
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-05-27 09:12:27	--	-                         Manuel, Flatface, eggy, gknee
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- /---------------------------------------------------------------------/
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- By connecting to this network, you indicate that you agree to the
+2015-05-27 09:12:27	--	- acceptable use policy located at http://thinstack.net/aup
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-05-27 09:12:27	--	- will result in a ban.
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- /---------------------------------------------------------------------/
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- Please consult http://thinstack.net/help for any problems you may
+2015-05-27 09:12:27	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- /---------------------------------------------------------------------/
+2015-05-27 09:12:27	--	-
+2015-05-27 09:12:27	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-05-27 09:12:27	--	End of message of the day.
+2015-05-27 09:12:27	--	There are 186 users and 81 invisible on 4 servers
+2015-05-27 09:12:27	--	8 :operator(s) online
+2015-05-27 09:12:27	--	114 :channels formed
+2015-05-27 09:12:27	--	I have 143 clients and 1 servers
+2015-05-27 09:12:27	--	Current Local Users: 143  Max: 249
+2015-05-27 09:12:27	--	Current Global Users: 267  Max: 406
+2015-05-27 09:12:27	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-05-27 09:12:27	--	User mode [+x] by stevehnh
+2015-05-27 09:12:27	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-05-27 09:12:32	--	MSG(nickserv): identify ********
+2015-05-27 09:12:32	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-05-27 09:12:32	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-05-28 08:19:35	--	irc: connecting to server irc.thinstack.net/6667...
+2015-05-28 08:19:35	--	irc: connected to irc.thinstack.net/6667 (198.27.82.83)
+2015-05-28 08:19:37	--	brad.thinstack.net: *** Looking up your hostname...
+2015-05-28 08:19:52	--	brad.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-05-28 08:19:52	--	brad.thinstack.net: Welcome to Thinstack!
+2015-05-28 08:19:52	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-05-28 08:19:52	--	Your host is brad.thinstack.net, running version InspIRCd-2.0
+2015-05-28 08:19:52	--	This server was created 17:56:18 Mar  4 2015
+2015-05-28 08:19:52	--	brad.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-05-28 08:19:52	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-05-28 08:19:52	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-05-28 08:19:52	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-05-28 08:19:52	--	280AABFCV :your unique ID
+2015-05-28 08:20:01	--	brad.thinstack.net message of the day
+2015-05-28 08:20:01	--	-  _____ _     _           _             _
+2015-05-28 08:20:01	--	- |_   _| |   (_)         | |           | |
+2015-05-28 08:20:01	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-05-28 08:20:01	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-05-28 08:20:01	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-05-28 08:20:01	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- /---------------------------------------------------------------------/
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-05-28 08:20:01	--	- community of individuals who come together within Internet Relay Chat
+2015-05-28 08:20:01	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-05-28 08:20:01	--	- Thinstack was built for those who are looking for a way to interact
+2015-05-28 08:20:01	--	- with like-minded people, without being forced to deal with the
+2015-05-28 08:20:01	--	- seemingly-endless chatter and power struggles of the larger,
+2015-05-28 08:20:01	--	- less-organized networks.
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- /---------------------------------------------------------------------/
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- You are currently connected to JARVIS.
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- /---------------------------------------------------------------------/
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-05-28 08:20:01	--	-                         Manuel, Flatface, eggy, gknee
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- /---------------------------------------------------------------------/
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- By connecting to this network, you indicate that you agree to the
+2015-05-28 08:20:01	--	- acceptable use policy located at http://thinstack.net/aup
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-05-28 08:20:01	--	- will result in a ban.
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- /---------------------------------------------------------------------/
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- Please consult http://thinstack.net/help for any problems you may
+2015-05-28 08:20:01	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- /---------------------------------------------------------------------/
+2015-05-28 08:20:01	--	-
+2015-05-28 08:20:01	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-05-28 08:20:01	--	End of message of the day.
+2015-05-28 08:20:01	--	There are 184 users and 77 invisible on 4 servers
+2015-05-28 08:20:01	--	8 :operator(s) online
+2015-05-28 08:20:01	--	114 :channels formed
+2015-05-28 08:20:01	--	I have 117 clients and 1 servers
+2015-05-28 08:20:01	--	Current Local Users: 117  Max: 249
+2015-05-28 08:20:01	--	Current Global Users: 261  Max: 406
+2015-05-28 08:20:01	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-05-28 08:20:01	--	User mode [+x] by stevehnh
+2015-05-28 08:20:02	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-05-28 08:20:03	--	MSG(nickserv): identify ********
+2015-05-28 08:20:04	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-05-28 08:20:04	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-01 08:04:02	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-01 08:04:03	--	irc: connected to irc.thinstack.net/6667 (178.79.159.230)
+2015-06-01 08:04:03	--	jarvis.thinstack.net: *** Looking up your hostname...
+2015-06-01 08:04:09	--	jarvis.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-01 08:04:09	--	jarvis.thinstack.net: Welcome to Thinstack!
+2015-06-01 08:04:09	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-01 08:04:09	--	Your host is jarvis.thinstack.net, running version InspIRCd-2.0
+2015-06-01 08:04:09	--	This server was created 22:51:51 Nov  4 2014
+2015-06-01 08:04:09	--	jarvis.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-01 08:04:09	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-01 08:04:09	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-01 08:04:09	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-01 08:04:09	--	324AABFHI :your unique ID
+2015-06-01 08:04:09	--	jarvis.thinstack.net message of the day
+2015-06-01 08:04:09	--	-  _____ _     _           _             _
+2015-06-01 08:04:09	--	- |_   _| |   (_)         | |           | |
+2015-06-01 08:04:09	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-01 08:04:09	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-01 08:04:09	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-01 08:04:09	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-01 08:04:09	--	- community of individuals who come together within Internet Relay Chat
+2015-06-01 08:04:09	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-01 08:04:09	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-01 08:04:09	--	- with like-minded people, without being forced to deal with the
+2015-06-01 08:04:09	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-01 08:04:09	--	- less-organized networks.
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- You are currently connected to JARVIS.
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-01 08:04:09	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- By connecting to this network, you indicate that you agree to the
+2015-06-01 08:04:09	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-01 08:04:09	--	- will result in a ban.
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-01 08:04:09	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-01 08:04:09	--	-
+2015-06-01 08:04:09	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-01 08:04:09	--	End of message of the day.
+2015-06-01 08:04:09	--	There are 164 users and 81 invisible on 4 servers
+2015-06-01 08:04:09	--	7 :operator(s) online
+2015-06-01 08:04:09	--	114 :channels formed
+2015-06-01 08:04:09	--	I have 98 clients and 3 servers
+2015-06-01 08:04:09	--	Current Local Users: 98  Max: 162
+2015-06-01 08:04:09	--	Current Global Users: 245  Max: 406
+2015-06-01 08:04:09	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-01 08:04:09	--	User mode [+x] by stevehnh
+2015-06-01 08:04:09	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-01 08:04:12	--	MSG(nickserv): identify ********
+2015-06-01 08:04:12	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-01 08:04:12	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-02 08:16:53	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-02 08:16:53	--	irc: connected to irc.thinstack.net/6667 (178.79.159.230)
+2015-06-02 08:16:53	--	jarvis.thinstack.net: *** Looking up your hostname...
+2015-06-02 08:16:59	--	jarvis.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-02 08:16:59	--	jarvis.thinstack.net: Welcome to Thinstack!
+2015-06-02 08:16:59	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-02 08:16:59	--	Your host is jarvis.thinstack.net, running version InspIRCd-2.0
+2015-06-02 08:16:59	--	This server was created 22:51:51 Nov  4 2014
+2015-06-02 08:16:59	--	jarvis.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-02 08:16:59	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-02 08:16:59	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-02 08:16:59	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-02 08:16:59	--	324AABGUF :your unique ID
+2015-06-02 08:16:59	--	jarvis.thinstack.net message of the day
+2015-06-02 08:16:59	--	-  _____ _     _           _             _
+2015-06-02 08:16:59	--	- |_   _| |   (_)         | |           | |
+2015-06-02 08:16:59	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-02 08:16:59	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-02 08:16:59	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-02 08:16:59	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- /---------------------------------------------------------------------/
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-02 08:16:59	--	- community of individuals who come together within Internet Relay Chat
+2015-06-02 08:16:59	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-02 08:16:59	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-02 08:16:59	--	- with like-minded people, without being forced to deal with the
+2015-06-02 08:16:59	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-02 08:16:59	--	- less-organized networks.
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- /---------------------------------------------------------------------/
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- You are currently connected to JARVIS.
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- /---------------------------------------------------------------------/
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-02 08:16:59	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- /---------------------------------------------------------------------/
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- By connecting to this network, you indicate that you agree to the
+2015-06-02 08:16:59	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-02 08:16:59	--	- will result in a ban.
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- /---------------------------------------------------------------------/
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-02 08:16:59	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- /---------------------------------------------------------------------/
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-02 08:16:59	--	End of message of the day.
+2015-06-02 08:16:59	--	There are 174 users and 80 invisible on 4 servers
+2015-06-02 08:16:59	--	8 :operator(s) online
+2015-06-02 08:16:59	--	111 :channels formed
+2015-06-02 08:16:59	--	I have 101 clients and 3 servers
+2015-06-02 08:16:59	--	Current Local Users: 101  Max: 162
+2015-06-02 08:16:59	--	Current Global Users: 254  Max: 406
+2015-06-02 08:16:59	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-02 08:16:59	--	User mode [+x] by stevehnh
+2015-06-02 08:16:59	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-02 08:17:31	--	MSG(nickserv): identify ********
+2015-06-02 08:17:32	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-02 08:17:32	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-03 08:26:46	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-03 08:26:46	--	irc: connected to irc.thinstack.net/6667 (198.27.82.83)
+2015-06-03 08:26:46	--	brad.thinstack.net: *** Looking up your hostname...
+2015-06-03 08:26:52	--	brad.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-03 08:26:52	--	brad.thinstack.net: Welcome to Thinstack!
+2015-06-03 08:26:52	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-03 08:26:52	--	Your host is brad.thinstack.net, running version InspIRCd-2.0
+2015-06-03 08:26:52	--	This server was created 17:56:18 Mar  4 2015
+2015-06-03 08:26:52	--	brad.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-03 08:26:52	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-03 08:26:52	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-03 08:26:52	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-03 08:26:52	--	280AABNW1 :your unique ID
+2015-06-03 08:26:52	--	brad.thinstack.net message of the day
+2015-06-03 08:26:52	--	-  _____ _     _           _             _
+2015-06-03 08:26:52	--	- |_   _| |   (_)         | |           | |
+2015-06-03 08:26:52	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-03 08:26:52	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-03 08:26:52	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-03 08:26:52	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- /---------------------------------------------------------------------/
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-03 08:26:52	--	- community of individuals who come together within Internet Relay Chat
+2015-06-03 08:26:52	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-03 08:26:52	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-03 08:26:52	--	- with like-minded people, without being forced to deal with the
+2015-06-03 08:26:52	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-03 08:26:52	--	- less-organized networks.
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- /---------------------------------------------------------------------/
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- You are currently connected to JARVIS.
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- /---------------------------------------------------------------------/
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-03 08:26:52	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- /---------------------------------------------------------------------/
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- By connecting to this network, you indicate that you agree to the
+2015-06-03 08:26:52	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-03 08:26:52	--	- will result in a ban.
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- /---------------------------------------------------------------------/
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-03 08:26:52	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- /---------------------------------------------------------------------/
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-03 08:26:52	--	End of message of the day.
+2015-06-03 08:26:52	--	There are 177 users and 81 invisible on 4 servers
+2015-06-03 08:26:52	--	8 :operator(s) online
+2015-06-03 08:26:52	--	112 :channels formed
+2015-06-03 08:26:52	--	I have 129 clients and 1 servers
+2015-06-03 08:26:52	--	Current Local Users: 129  Max: 249
+2015-06-03 08:26:52	--	Current Global Users: 258  Max: 406
+2015-06-03 08:26:52	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-03 08:26:52	--	User mode [+x] by stevehnh
+2015-06-03 08:26:52	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-03 08:27:29	--	MSG(nickserv): identify ********
+2015-06-03 08:27:29	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-03 08:27:29	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-04 08:19:45	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-04 08:19:46	--	irc: connected to irc.thinstack.net/6667 (198.27.82.83)
+2015-06-04 08:19:46	--	brad.thinstack.net: *** Looking up your hostname...
+2015-06-04 08:19:52	--	brad.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-04 08:19:52	--	brad.thinstack.net: Welcome to Thinstack!
+2015-06-04 08:19:52	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-04 08:19:52	--	Your host is brad.thinstack.net, running version InspIRCd-2.0
+2015-06-04 08:19:52	--	This server was created 17:56:18 Mar  4 2015
+2015-06-04 08:19:52	--	brad.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-04 08:19:52	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-04 08:19:52	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-04 08:19:52	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-04 08:19:52	--	280AABPDL :your unique ID
+2015-06-04 08:19:52	--	brad.thinstack.net message of the day
+2015-06-04 08:19:52	--	-  _____ _     _           _             _
+2015-06-04 08:19:52	--	- |_   _| |   (_)         | |           | |
+2015-06-04 08:19:52	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-04 08:19:52	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-04 08:19:52	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-04 08:19:52	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- /---------------------------------------------------------------------/
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-04 08:19:52	--	- community of individuals who come together within Internet Relay Chat
+2015-06-04 08:19:52	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-04 08:19:52	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-04 08:19:52	--	- with like-minded people, without being forced to deal with the
+2015-06-04 08:19:52	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-04 08:19:52	--	- less-organized networks.
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- /---------------------------------------------------------------------/
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- You are currently connected to JARVIS.
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- /---------------------------------------------------------------------/
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-04 08:19:52	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- /---------------------------------------------------------------------/
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- By connecting to this network, you indicate that you agree to the
+2015-06-04 08:19:52	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-04 08:19:52	--	- will result in a ban.
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- /---------------------------------------------------------------------/
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-04 08:19:52	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- /---------------------------------------------------------------------/
+2015-06-04 08:19:52	--	-
+2015-06-04 08:19:52	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-04 08:19:52	--	End of message of the day.
+2015-06-04 08:19:52	--	There are 177 users and 75 invisible on 4 servers
+2015-06-04 08:19:52	--	8 :operator(s) online
+2015-06-04 08:19:52	--	112 :channels formed
+2015-06-04 08:19:52	--	I have 137 clients and 1 servers
+2015-06-04 08:19:52	--	Current Local Users: 137  Max: 249
+2015-06-04 08:19:52	--	Current Global Users: 252  Max: 406
+2015-06-04 08:19:52	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-04 08:19:52	--	User mode [+x] by stevehnh
+2015-06-04 08:19:52	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-04 08:20:29	--	MSG(nickserv): identify ********
+2015-06-04 08:20:29	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-04 08:20:29	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-08 11:52:44	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-08 11:52:44	--	irc: connected to irc.thinstack.net/6667 (198.27.82.83)
+2015-06-08 11:52:44	--	brad.thinstack.net: *** Looking up your hostname...
+2015-06-08 11:52:49	--	brad.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-08 11:52:49	--	brad.thinstack.net: Welcome to Thinstack!
+2015-06-08 11:52:49	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-08 11:52:49	--	Your host is brad.thinstack.net, running version InspIRCd-2.0
+2015-06-08 11:52:49	--	This server was created 17:56:18 Mar  4 2015
+2015-06-08 11:52:49	--	brad.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-08 11:52:49	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-08 11:52:49	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-08 11:52:49	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-08 11:52:49	--	280AABVI3 :your unique ID
+2015-06-08 11:52:49	--	brad.thinstack.net message of the day
+2015-06-08 11:52:49	--	-  _____ _     _           _             _
+2015-06-08 11:52:49	--	- |_   _| |   (_)         | |           | |
+2015-06-08 11:52:49	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-08 11:52:49	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-08 11:52:49	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-08 11:52:49	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-08 11:52:49	--	-
+2015-06-08 11:52:49	--	- /---------------------------------------------------------------------/
+2015-06-08 11:52:49	--	-
+2015-06-08 11:52:49	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-08 11:52:49	--	- community of individuals who come together within Internet Relay Chat
+2015-06-08 11:52:49	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-08 11:52:49	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-08 11:52:49	--	- with like-minded people, without being forced to deal with the
+2015-06-08 11:52:49	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-08 11:52:49	--	- less-organized networks.
+2015-06-08 11:52:49	--	-
+2015-06-08 11:52:49	--	- /---------------------------------------------------------------------/
+2015-06-08 11:52:49	--	-
+2015-06-08 11:52:49	--	- You are currently connected to JARVIS.
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- /---------------------------------------------------------------------/
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-08 11:52:50	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- /---------------------------------------------------------------------/
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- By connecting to this network, you indicate that you agree to the
+2015-06-08 11:52:50	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-08 11:52:50	--	- will result in a ban.
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- /---------------------------------------------------------------------/
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-08 11:52:50	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- /---------------------------------------------------------------------/
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-08 11:52:50	--	End of message of the day.
+2015-06-08 11:52:50	--	There are 284 users and 89 invisible on 4 servers
+2015-06-08 11:52:50	--	8 :operator(s) online
+2015-06-08 11:52:50	--	108 :channels formed
+2015-06-08 11:52:50	--	I have 177 clients and 1 servers
+2015-06-08 11:52:50	--	Current Local Users: 177  Max: 249
+2015-06-08 11:52:50	--	Current Global Users: 373  Max: 406
+2015-06-08 11:52:50	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-08 11:52:50	--	User mode [+x] by stevehnh
+2015-06-08 11:52:50	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-08 11:53:20	--	MSG(nickserv): identify ********
+2015-06-08 11:53:20	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-08 11:53:20	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-09 08:10:03	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-09 08:10:03	--	irc: connected to irc.thinstack.net/6667 (178.79.159.230)
+2015-06-09 08:10:03	--	jarvis.thinstack.net: *** Looking up your hostname...
+2015-06-09 08:10:09	--	jarvis.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-09 08:10:09	--	jarvis.thinstack.net: Welcome to Thinstack!
+2015-06-09 08:10:09	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-09 08:10:09	--	Your host is jarvis.thinstack.net, running version InspIRCd-2.0
+2015-06-09 08:10:09	--	This server was created 22:51:51 Nov  4 2014
+2015-06-09 08:10:09	--	jarvis.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-09 08:10:09	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-09 08:10:09	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-09 08:10:09	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-09 08:10:09	--	324AABQEZ :your unique ID
+2015-06-09 08:10:09	--	jarvis.thinstack.net message of the day
+2015-06-09 08:10:09	--	-  _____ _     _           _             _
+2015-06-09 08:10:09	--	- |_   _| |   (_)         | |           | |
+2015-06-09 08:10:09	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-09 08:10:09	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-09 08:10:09	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-09 08:10:09	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- /---------------------------------------------------------------------/
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-09 08:10:09	--	- community of individuals who come together within Internet Relay Chat
+2015-06-09 08:10:09	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-09 08:10:09	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-09 08:10:09	--	- with like-minded people, without being forced to deal with the
+2015-06-09 08:10:09	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-09 08:10:09	--	- less-organized networks.
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- /---------------------------------------------------------------------/
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- You are currently connected to JARVIS.
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- /---------------------------------------------------------------------/
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-09 08:10:09	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- /---------------------------------------------------------------------/
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- By connecting to this network, you indicate that you agree to the
+2015-06-09 08:10:09	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-09 08:10:09	--	- will result in a ban.
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- /---------------------------------------------------------------------/
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-09 08:10:09	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- /---------------------------------------------------------------------/
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-09 08:10:09	--	End of message of the day.
+2015-06-09 08:10:09	--	There are 184 users and 74 invisible on 4 servers
+2015-06-09 08:10:09	--	8 :operator(s) online
+2015-06-09 08:10:09	--	116 :channels formed
+2015-06-09 08:10:09	--	I have 92 clients and 3 servers
+2015-06-09 08:10:09	--	Current Local Users: 92  Max: 162
+2015-06-09 08:10:09	--	Current Global Users: 258  Max: 406
+2015-06-09 08:10:09	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-09 08:10:09	--	User mode [+x] by stevehnh
+2015-06-09 08:10:09	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-09 08:10:45	--	MSG(nickserv): identify ********
+2015-06-09 08:10:45	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-09 08:10:45	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-10 08:02:50	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-10 08:02:50	--	irc: connected to irc.thinstack.net/6667 (178.79.159.230)
+2015-06-10 08:02:50	--	jarvis.thinstack.net: *** Looking up your hostname...
+2015-06-10 08:02:57	--	jarvis.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-10 08:02:57	--	jarvis.thinstack.net: Welcome to Thinstack!
+2015-06-10 08:02:57	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-10 08:02:57	--	Your host is jarvis.thinstack.net, running version InspIRCd-2.0
+2015-06-10 08:02:57	--	This server was created 22:51:51 Nov  4 2014
+2015-06-10 08:02:57	--	jarvis.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-10 08:02:57	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-10 08:02:57	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-10 08:02:57	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-10 08:02:57	--	324AABRTL :your unique ID
+2015-06-10 08:02:57	--	jarvis.thinstack.net message of the day
+2015-06-10 08:02:57	--	-  _____ _     _           _             _
+2015-06-10 08:02:57	--	- |_   _| |   (_)         | |           | |
+2015-06-10 08:02:57	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-10 08:02:57	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-10 08:02:57	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-10 08:02:57	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- /---------------------------------------------------------------------/
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-10 08:02:57	--	- community of individuals who come together within Internet Relay Chat
+2015-06-10 08:02:57	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-10 08:02:57	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-10 08:02:57	--	- with like-minded people, without being forced to deal with the
+2015-06-10 08:02:57	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-10 08:02:57	--	- less-organized networks.
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- /---------------------------------------------------------------------/
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- You are currently connected to JARVIS.
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- /---------------------------------------------------------------------/
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-10 08:02:57	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- /---------------------------------------------------------------------/
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- By connecting to this network, you indicate that you agree to the
+2015-06-10 08:02:57	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-10 08:02:57	--	- will result in a ban.
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- /---------------------------------------------------------------------/
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-10 08:02:57	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- /---------------------------------------------------------------------/
+2015-06-10 08:02:57	--	-
+2015-06-10 08:02:57	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-10 08:02:57	--	End of message of the day.
+2015-06-10 08:02:57	--	There are 173 users and 76 invisible on 4 servers
+2015-06-10 08:02:57	--	7 :operator(s) online
+2015-06-10 08:02:57	--	112 :channels formed
+2015-06-10 08:02:57	--	I have 94 clients and 3 servers
+2015-06-10 08:02:57	--	Current Local Users: 94  Max: 162
+2015-06-10 08:02:57	--	Current Global Users: 249  Max: 406
+2015-06-10 08:02:57	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-10 08:02:57	--	User mode [+x] by stevehnh
+2015-06-10 08:02:57	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-10 08:03:18	--	MSG(nickserv): identify ********
+2015-06-10 08:03:18	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-10 08:03:18	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-11 08:04:02	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-11 08:04:03	--	irc: connected to irc.thinstack.net/6667 (178.79.159.230)
+2015-06-11 08:04:03	--	jarvis.thinstack.net: *** Looking up your hostname...
+2015-06-11 08:04:09	--	jarvis.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-11 08:04:09	--	jarvis.thinstack.net: Welcome to Thinstack!
+2015-06-11 08:04:09	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-11 08:04:09	--	Your host is jarvis.thinstack.net, running version InspIRCd-2.0
+2015-06-11 08:04:09	--	This server was created 22:51:51 Nov  4 2014
+2015-06-11 08:04:09	--	jarvis.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-11 08:04:09	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-11 08:04:09	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-11 08:04:09	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-11 08:04:09	--	324AABS95 :your unique ID
+2015-06-11 08:04:09	--	jarvis.thinstack.net message of the day
+2015-06-11 08:04:09	--	-  _____ _     _           _             _
+2015-06-11 08:04:09	--	- |_   _| |   (_)         | |           | |
+2015-06-11 08:04:09	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-11 08:04:09	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-11 08:04:09	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-11 08:04:09	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-11 08:04:09	--	- community of individuals who come together within Internet Relay Chat
+2015-06-11 08:04:09	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-11 08:04:09	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-11 08:04:09	--	- with like-minded people, without being forced to deal with the
+2015-06-11 08:04:09	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-11 08:04:09	--	- less-organized networks.
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- You are currently connected to JARVIS.
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-11 08:04:09	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- By connecting to this network, you indicate that you agree to the
+2015-06-11 08:04:09	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-11 08:04:09	--	- will result in a ban.
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-11 08:04:09	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- /---------------------------------------------------------------------/
+2015-06-11 08:04:09	--	-
+2015-06-11 08:04:09	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-11 08:04:09	--	End of message of the day.
+2015-06-11 08:04:09	--	There are 175 users and 71 invisible on 4 servers
+2015-06-11 08:04:09	--	8 :operator(s) online
+2015-06-11 08:04:09	--	113 :channels formed
+2015-06-11 08:04:09	--	I have 87 clients and 3 servers
+2015-06-11 08:04:09	--	Current Local Users: 87  Max: 162
+2015-06-11 08:04:09	--	Current Global Users: 246  Max: 406
+2015-06-11 08:04:09	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-11 08:04:09	--	User mode [+x] by stevehnh
+2015-06-11 08:04:09	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-11 08:04:38	--	MSG(nickserv): identify ********
+2015-06-11 08:04:38	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-11 08:04:38	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-12 08:05:27	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-12 08:05:28	--	irc: connected to irc.thinstack.net/6667 (198.27.82.83)
+2015-06-12 08:05:28	--	brad.thinstack.net: *** Looking up your hostname...
+2015-06-12 08:05:35	--	brad.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-12 08:05:35	--	brad.thinstack.net: Welcome to Thinstack!
+2015-06-12 08:05:35	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-12 08:05:35	--	Your host is brad.thinstack.net, running version InspIRCd-2.0
+2015-06-12 08:05:35	--	This server was created 17:56:18 Mar  4 2015
+2015-06-12 08:05:35	--	brad.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-12 08:05:35	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-12 08:05:35	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-12 08:05:35	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-12 08:05:35	--	280AAB034 :your unique ID
+2015-06-12 08:05:35	--	brad.thinstack.net message of the day
+2015-06-12 08:05:35	--	-  _____ _     _           _             _
+2015-06-12 08:05:35	--	- |_   _| |   (_)         | |           | |
+2015-06-12 08:05:35	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-12 08:05:35	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-12 08:05:35	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-12 08:05:35	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- /---------------------------------------------------------------------/
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-12 08:05:35	--	- community of individuals who come together within Internet Relay Chat
+2015-06-12 08:05:35	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-12 08:05:35	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-12 08:05:35	--	- with like-minded people, without being forced to deal with the
+2015-06-12 08:05:35	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-12 08:05:35	--	- less-organized networks.
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- /---------------------------------------------------------------------/
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- You are currently connected to JARVIS.
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- /---------------------------------------------------------------------/
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-12 08:05:35	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- /---------------------------------------------------------------------/
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- By connecting to this network, you indicate that you agree to the
+2015-06-12 08:05:35	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-12 08:05:35	--	- will result in a ban.
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- /---------------------------------------------------------------------/
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-12 08:05:35	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- /---------------------------------------------------------------------/
+2015-06-12 08:05:35	--	-
+2015-06-12 08:05:35	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-12 08:05:35	--	End of message of the day.
+2015-06-12 08:05:35	--	There are 182 users and 79 invisible on 4 servers
+2015-06-12 08:05:35	--	7 :operator(s) online
+2015-06-12 08:05:35	--	115 :channels formed
+2015-06-12 08:05:35	--	I have 152 clients and 1 servers
+2015-06-12 08:05:35	--	Current Local Users: 152  Max: 249
+2015-06-12 08:05:35	--	Current Global Users: 261  Max: 406
+2015-06-12 08:05:35	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-12 08:05:35	--	User mode [+x] by stevehnh
+2015-06-12 08:05:35	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-12 08:06:03	--	MSG(nickserv): identify ********
+2015-06-12 08:06:03	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-12 08:06:03	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-15 07:58:19	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-15 07:58:19	--	irc: connected to irc.thinstack.net/6667 (198.27.82.83)
+2015-06-15 07:58:19	--	brad.thinstack.net: *** Looking up your hostname...
+2015-06-15 07:58:19	--	irc: nickname "stevehnh" is already in use, trying nickname "stevehnh_"
+2015-06-15 07:58:24	--	brad.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-15 07:58:24	--	brad.thinstack.net: Welcome to Thinstack!
+2015-06-15 07:58:24	--	Welcome to the Thinstack IRC Network stevehnh_!tsa20@152.16.191.70
+2015-06-15 07:58:24	--	Your host is brad.thinstack.net, running version InspIRCd-2.0
+2015-06-15 07:58:24	--	This server was created 17:56:18 Mar  4 2015
+2015-06-15 07:58:24	--	brad.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-15 07:58:24	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-15 07:58:24	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-15 07:58:24	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-15 07:58:24	--	280AAB5BS :your unique ID
+2015-06-15 07:58:24	--	brad.thinstack.net message of the day
+2015-06-15 07:58:24	--	-  _____ _     _           _             _
+2015-06-15 07:58:24	--	- |_   _| |   (_)         | |           | |
+2015-06-15 07:58:24	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-15 07:58:24	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-15 07:58:24	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-15 07:58:24	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- /---------------------------------------------------------------------/
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-15 07:58:24	--	- community of individuals who come together within Internet Relay Chat
+2015-06-15 07:58:24	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-15 07:58:24	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-15 07:58:24	--	- with like-minded people, without being forced to deal with the
+2015-06-15 07:58:24	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-15 07:58:24	--	- less-organized networks.
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- /---------------------------------------------------------------------/
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- You are currently connected to JARVIS.
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- /---------------------------------------------------------------------/
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-15 07:58:24	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- /---------------------------------------------------------------------/
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- By connecting to this network, you indicate that you agree to the
+2015-06-15 07:58:24	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-15 07:58:24	--	- will result in a ban.
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- /---------------------------------------------------------------------/
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-15 07:58:24	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- /---------------------------------------------------------------------/
+2015-06-15 07:58:24	--	-
+2015-06-15 07:58:24	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-15 07:58:24	--	End of message of the day.
+2015-06-15 07:58:24	--	There are 177 users and 70 invisible on 4 servers
+2015-06-15 07:58:24	--	8 :operator(s) online
+2015-06-15 07:58:24	--	112 :channels formed
+2015-06-15 07:58:24	--	I have 145 clients and 1 servers
+2015-06-15 07:58:24	--	Current Local Users: 145  Max: 249
+2015-06-15 07:58:24	--	Current Global Users: 247  Max: 406
+2015-06-15 07:58:24	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-15 07:58:24	--	User mode [+x] by stevehnh_
+2015-06-15 07:58:24	--	NickServ (NickServ@services.thinstack.net): Welcome to Thinstack, stevehnh_! Here on Thinstack, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ help and /msg ChanServ help.
+2015-06-15 07:58:49	--	MSG(nickserv): identify ********
+2015-06-15 07:58:49	--	NickServ (NickServ@services.thinstack.net): stevehnh_ is not a registered nickname.
+2015-06-15 07:59:35	--	MSG(nickserv): ghost stevehnh ********
+2015-06-15 07:59:35	--	NickServ (NickServ@services.thinstack.net): stevehnh has been ghosted.
+2015-06-15 07:59:40	--	You are now known as stevehnh
+2015-06-15 07:59:40	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-15 07:59:45	--	MSG(nickserv): identify ********
+2015-06-15 07:59:45	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-15 07:59:45	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-16 08:08:37	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-16 08:08:37	--	irc: connected to irc.thinstack.net/6667 (198.27.82.83)
+2015-06-16 08:08:37	--	brad.thinstack.net: *** Looking up your hostname...
+2015-06-16 08:08:43	--	brad.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-16 08:08:43	--	brad.thinstack.net: Welcome to Thinstack!
+2015-06-16 08:08:43	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-16 08:08:43	--	Your host is brad.thinstack.net, running version InspIRCd-2.0
+2015-06-16 08:08:43	--	This server was created 17:56:18 Mar  4 2015
+2015-06-16 08:08:43	--	brad.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-16 08:08:43	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-16 08:08:43	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-16 08:08:43	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-16 08:08:43	--	280AAB6T8 :your unique ID
+2015-06-16 08:08:43	--	brad.thinstack.net message of the day
+2015-06-16 08:08:43	--	-  _____ _     _           _             _
+2015-06-16 08:08:43	--	- |_   _| |   (_)         | |           | |
+2015-06-16 08:08:43	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-16 08:08:43	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-16 08:08:43	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-16 08:08:43	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- /---------------------------------------------------------------------/
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-16 08:08:43	--	- community of individuals who come together within Internet Relay Chat
+2015-06-16 08:08:43	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-16 08:08:43	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-16 08:08:43	--	- with like-minded people, without being forced to deal with the
+2015-06-16 08:08:43	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-16 08:08:43	--	- less-organized networks.
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- /---------------------------------------------------------------------/
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- You are currently connected to JARVIS.
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- /---------------------------------------------------------------------/
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-16 08:08:43	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- /---------------------------------------------------------------------/
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- By connecting to this network, you indicate that you agree to the
+2015-06-16 08:08:43	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-16 08:08:43	--	- will result in a ban.
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- /---------------------------------------------------------------------/
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-16 08:08:43	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- /---------------------------------------------------------------------/
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-16 08:08:43	--	End of message of the day.
+2015-06-16 08:08:43	--	There are 181 users and 77 invisible on 4 servers
+2015-06-16 08:08:43	--	8 :operator(s) online
+2015-06-16 08:08:43	--	114 :channels formed
+2015-06-16 08:08:43	--	I have 151 clients and 1 servers
+2015-06-16 08:08:43	--	Current Local Users: 151  Max: 249
+2015-06-16 08:08:43	--	Current Global Users: 258  Max: 406
+2015-06-16 08:08:43	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-16 08:08:43	--	User mode [+x] by stevehnh
+2015-06-16 08:08:43	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-16 08:09:11	--	MSG(nickserv): identify ********
+2015-06-16 08:09:11	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-16 08:09:11	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-17 08:05:45	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-17 08:05:45	--	irc: connected to irc.thinstack.net/6667 (178.79.159.230)
+2015-06-17 08:05:45	--	jarvis.thinstack.net: *** Looking up your hostname...
+2015-06-17 08:05:51	--	jarvis.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-17 08:05:51	--	jarvis.thinstack.net: Welcome to Thinstack!
+2015-06-17 08:05:51	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-17 08:05:51	--	Your host is jarvis.thinstack.net, running version InspIRCd-2.0
+2015-06-17 08:05:51	--	This server was created 22:51:51 Nov  4 2014
+2015-06-17 08:05:51	--	jarvis.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-17 08:05:51	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-17 08:05:51	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-17 08:05:51	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-17 08:05:51	--	324AAB1FM :your unique ID
+2015-06-17 08:05:51	--	jarvis.thinstack.net message of the day
+2015-06-17 08:05:51	--	-  _____ _     _           _             _
+2015-06-17 08:05:51	--	- |_   _| |   (_)         | |           | |
+2015-06-17 08:05:51	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-17 08:05:51	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-17 08:05:51	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-17 08:05:51	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- /---------------------------------------------------------------------/
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-17 08:05:51	--	- community of individuals who come together within Internet Relay Chat
+2015-06-17 08:05:51	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-17 08:05:51	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-17 08:05:51	--	- with like-minded people, without being forced to deal with the
+2015-06-17 08:05:51	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-17 08:05:51	--	- less-organized networks.
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- /---------------------------------------------------------------------/
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- You are currently connected to JARVIS.
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- /---------------------------------------------------------------------/
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-17 08:05:51	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- /---------------------------------------------------------------------/
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- By connecting to this network, you indicate that you agree to the
+2015-06-17 08:05:51	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-17 08:05:51	--	- will result in a ban.
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- /---------------------------------------------------------------------/
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-17 08:05:51	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- /---------------------------------------------------------------------/
+2015-06-17 08:05:51	--	-
+2015-06-17 08:05:51	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-17 08:05:51	--	End of message of the day.
+2015-06-17 08:05:51	--	There are 176 users and 72 invisible on 4 servers
+2015-06-17 08:05:51	--	8 :operator(s) online
+2015-06-17 08:05:51	--	113 :channels formed
+2015-06-17 08:05:51	--	I have 91 clients and 3 servers
+2015-06-17 08:05:51	--	Current Local Users: 91  Max: 162
+2015-06-17 08:05:51	--	Current Global Users: 248  Max: 406
+2015-06-17 08:05:51	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-17 08:05:51	--	User mode [+x] by stevehnh
+2015-06-17 08:05:51	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-17 08:06:35	--	MSG(nickserv): identify *********
+2015-06-17 08:06:35	--	NickServ (NickServ@services.thinstack.net): Invalid password for SteveHNH.
+2015-06-17 08:06:38	--	MSG(nickserv): identify ********
+2015-06-17 08:06:39	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-17 08:06:39	--	NickServ (NickServ@services.thinstack.net): 1 failed login since last login.
+2015-06-17 08:06:39	--	NickServ (NickServ@services.thinstack.net): Last failed attempt from: stevehnh!tsa20@TS-k30.uo0.964mh0.IP on Jun 17 12:06:34 2015 +0000.
+2015-06-17 08:06:39	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-18 08:21:32	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-18 08:21:32	--	irc: connected to irc.thinstack.net/6667 (178.79.159.230)
+2015-06-18 08:21:32	--	jarvis.thinstack.net: *** Looking up your hostname...
+2015-06-18 08:21:38	--	jarvis.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-18 08:21:38	--	jarvis.thinstack.net: Welcome to Thinstack!
+2015-06-18 08:21:38	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-18 08:21:38	--	Your host is jarvis.thinstack.net, running version InspIRCd-2.0
+2015-06-18 08:21:38	--	This server was created 22:51:51 Nov  4 2014
+2015-06-18 08:21:38	--	jarvis.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-18 08:21:38	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-18 08:21:38	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-18 08:21:38	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-18 08:21:38	--	324AAB2VV :your unique ID
+2015-06-18 08:21:38	--	jarvis.thinstack.net message of the day
+2015-06-18 08:21:38	--	-  _____ _     _           _             _
+2015-06-18 08:21:38	--	- |_   _| |   (_)         | |           | |
+2015-06-18 08:21:38	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-18 08:21:38	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-18 08:21:38	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-18 08:21:38	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- /---------------------------------------------------------------------/
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-18 08:21:38	--	- community of individuals who come together within Internet Relay Chat
+2015-06-18 08:21:38	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-18 08:21:38	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-18 08:21:38	--	- with like-minded people, without being forced to deal with the
+2015-06-18 08:21:38	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-18 08:21:38	--	- less-organized networks.
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- /---------------------------------------------------------------------/
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- You are currently connected to JARVIS.
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- /---------------------------------------------------------------------/
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-18 08:21:38	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- /---------------------------------------------------------------------/
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- By connecting to this network, you indicate that you agree to the
+2015-06-18 08:21:38	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-18 08:21:38	--	- will result in a ban.
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- /---------------------------------------------------------------------/
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-18 08:21:38	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- /---------------------------------------------------------------------/
+2015-06-18 08:21:38	--	-
+2015-06-18 08:21:38	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-18 08:21:38	--	End of message of the day.
+2015-06-18 08:21:38	--	There are 180 users and 80 invisible on 4 servers
+2015-06-18 08:21:38	--	8 :operator(s) online
+2015-06-18 08:21:38	--	114 :channels formed
+2015-06-18 08:21:38	--	I have 94 clients and 3 servers
+2015-06-18 08:21:38	--	Current Local Users: 94  Max: 162
+2015-06-18 08:21:38	--	Current Global Users: 260  Max: 406
+2015-06-18 08:21:38	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-18 08:21:38	--	User mode [+x] by stevehnh
+2015-06-18 08:21:38	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-18 08:21:58	--	MSG(nickserv): identify ********
+2015-06-18 08:21:58	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-18 08:21:58	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-19 08:22:14	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-19 08:22:14	--	irc: connected to irc.thinstack.net/6667 (198.27.82.83)
+2015-06-19 08:22:15	--	brad.thinstack.net: *** Looking up your hostname...
+2015-06-19 08:22:20	--	brad.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-19 08:22:20	--	brad.thinstack.net: Welcome to Thinstack!
+2015-06-19 08:22:20	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-19 08:22:20	--	Your host is brad.thinstack.net, running version InspIRCd-2.0
+2015-06-19 08:22:20	--	This server was created 17:56:18 Mar  4 2015
+2015-06-19 08:22:20	--	brad.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-19 08:22:20	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-19 08:22:20	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-19 08:22:20	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-19 08:22:20	--	280AACA71 :your unique ID
+2015-06-19 08:22:20	--	brad.thinstack.net message of the day
+2015-06-19 08:22:20	--	-  _____ _     _           _             _
+2015-06-19 08:22:20	--	- |_   _| |   (_)         | |           | |
+2015-06-19 08:22:20	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-19 08:22:20	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-19 08:22:20	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-19 08:22:20	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- /---------------------------------------------------------------------/
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-19 08:22:20	--	- community of individuals who come together within Internet Relay Chat
+2015-06-19 08:22:20	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-19 08:22:20	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-19 08:22:20	--	- with like-minded people, without being forced to deal with the
+2015-06-19 08:22:20	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-19 08:22:20	--	- less-organized networks.
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- /---------------------------------------------------------------------/
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- You are currently connected to JARVIS.
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- /---------------------------------------------------------------------/
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-19 08:22:20	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- /---------------------------------------------------------------------/
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- By connecting to this network, you indicate that you agree to the
+2015-06-19 08:22:20	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-19 08:22:20	--	- will result in a ban.
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- /---------------------------------------------------------------------/
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-19 08:22:20	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- /---------------------------------------------------------------------/
+2015-06-19 08:22:20	--	-
+2015-06-19 08:22:20	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-19 08:22:20	--	End of message of the day.
+2015-06-19 08:22:20	--	There are 180 users and 77 invisible on 4 servers
+2015-06-19 08:22:20	--	8 :operator(s) online
+2015-06-19 08:22:20	--	117 :channels formed
+2015-06-19 08:22:20	--	I have 145 clients and 1 servers
+2015-06-19 08:22:20	--	Current Local Users: 145  Max: 249
+2015-06-19 08:22:20	--	Current Global Users: 257  Max: 406
+2015-06-19 08:22:20	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-19 08:22:20	--	User mode [+x] by stevehnh
+2015-06-19 08:22:20	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-19 08:22:53	--	MSG(nickserv): identify ********
+2015-06-19 08:22:53	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-19 08:22:53	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)
+2015-06-29 08:17:11	--	irc: connecting to server irc.thinstack.net/6667...
+2015-06-29 08:17:11	--	irc: connected to irc.thinstack.net/6667 (198.27.82.83)
+2015-06-29 08:17:11	--	brad.thinstack.net: *** Looking up your hostname...
+2015-06-29 08:17:17	--	brad.thinstack.net: *** Could not resolve your hostname: Request timed out; using your IP address (152.16.191.70) instead.
+2015-06-29 08:17:17	--	brad.thinstack.net: Welcome to Thinstack!
+2015-06-29 08:17:17	--	Welcome to the Thinstack IRC Network stevehnh!tsa20@152.16.191.70
+2015-06-29 08:17:17	--	Your host is brad.thinstack.net, running version InspIRCd-2.0
+2015-06-29 08:17:17	--	This server was created 17:56:18 Mar  4 2015
+2015-06-29 08:17:17	--	brad.thinstack.net InspIRCd-2.0 BIRSWcdghikorswx ABCDFIKLMOPRSTXYabcefghijklmnoprstuvz FILXYabefghjklov
+2015-06-29 08:17:17	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FLfjl,ABCDKMOPRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCORSTUcjmprsz FNC INVEX=I :are supported by this server
+2015-06-29 08:17:17	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=40 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Thinstack NICKLEN=31 OPERLOG PREFIX=(Yaohv)!&@%+ SILENCE=32 :are supported by this server
+2015-06-29 08:17:17	--	SSL=0.0.0.0:6697 STARTTLS STATUSMSG=!&@%+ TOPICLEN=330 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+2015-06-29 08:17:17	--	280AACPL0 :your unique ID
+2015-06-29 08:17:17	--	brad.thinstack.net message of the day
+2015-06-29 08:17:17	--	-  _____ _     _           _             _
+2015-06-29 08:17:17	--	- |_   _| |   (_)         | |           | |
+2015-06-29 08:17:17	--	-   | | | |__  _ _ __  ___| |_ __ _  ___| | __
+2015-06-29 08:17:17	--	-   | | | '_ \| | '_ \/ __| __/ _` |/ __| |/ /
+2015-06-29 08:17:17	--	-   | | | | | | | | | \__ \ || (_| | (__|   <
+2015-06-29 08:17:17	--	-   \_/ |_| |_|_|_| |_|___/\__\__,_|\___|_|\_\
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- /---------------------------------------------------------------------/
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- Welcome to the Thinstack IRC network. Thinstack is a dedicated
+2015-06-29 08:17:17	--	- community of individuals who come together within Internet Relay Chat
+2015-06-29 08:17:17	--	- (IRC) to share ideas, collaborate on projects or just hang out.
+2015-06-29 08:17:17	--	- Thinstack was built for those who are looking for a way to interact
+2015-06-29 08:17:17	--	- with like-minded people, without being forced to deal with the
+2015-06-29 08:17:17	--	- seemingly-endless chatter and power struggles of the larger,
+2015-06-29 08:17:17	--	- less-organized networks.
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- /---------------------------------------------------------------------/
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- You are currently connected to JARVIS.
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- /---------------------------------------------------------------------/
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- Network Administrators: TestMAD, Grue, Jdhore, Fact, Famicoman,
+2015-06-29 08:17:17	--	-                         Manuel, Flatface, eggy, gknee
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- /---------------------------------------------------------------------/
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- By connecting to this network, you indicate that you agree to the
+2015-06-29 08:17:17	--	- acceptable use policy located at http://thinstack.net/aup
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- Use of this network is a privilege, and disruptive or abusive behavior
+2015-06-29 08:17:17	--	- will result in a ban.
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- /---------------------------------------------------------------------/
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- Please consult http://thinstack.net/help for any problems you may
+2015-06-29 08:17:17	--	- encounter, or join #Thinstack to receive support as soon as possible
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- /---------------------------------------------------------------------/
+2015-06-29 08:17:17	--	-
+2015-06-29 08:17:17	--	- Thank you for connecting to Thinstack, enjoy your stay!
+2015-06-29 08:17:17	--	End of message of the day.
+2015-06-29 08:17:17	--	There are 178 users and 78 invisible on 4 servers
+2015-06-29 08:17:17	--	8 :operator(s) online
+2015-06-29 08:17:17	--	121 :channels formed
+2015-06-29 08:17:17	--	I have 150 clients and 1 servers
+2015-06-29 08:17:17	--	Current Local Users: 150  Max: 249
+2015-06-29 08:17:17	--	Current Global Users: 256  Max: 406
+2015-06-29 08:17:17	--	TS-k30.uo0.964mh0.IP :is now your displayed host
+2015-06-29 08:17:17	--	User mode [+x] by stevehnh
+2015-06-29 08:17:17	--	NickServ (NickServ@services.thinstack.net): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2015-06-29 08:17:46	--	MSG(nickserv): identify ********
+2015-06-29 08:17:46	--	NickServ (NickServ@services.thinstack.net): You are now identified for SteveHNH.
+2015-06-29 08:17:46	--	You are now logged in as SteveHNH (stevehnh!tsa20@TS-k30.uo0.964mh0.IP)

@@ -1,0 +1,1995 @@
+2015-05-18 08:24:58	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-05-18 08:24:58	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-05-18 08:24:58	--	gnutls: receiving 1 certificate
+2015-05-18 08:24:58	--	 - certificate[1] info:
+2015-05-18 08:24:58	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-05-18 08:24:58	=!=	gnutls: peer's certificate is NOT trusted
+2015-05-18 08:24:58	=!=	gnutls: peer's certificate issuer is unknown
+2015-05-18 08:24:58	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-05-18 08:24:58	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-05-18 08:24:58	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.106) instead.
+2015-05-18 08:24:59	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-05-18 08:24:59	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.106
+2015-05-18 08:24:59	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-05-18 08:24:59	--	This server was created 10:57:20 Apr  3 2015
+2015-05-18 08:24:59	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-05-18 08:24:59	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-05-18 08:24:59	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-05-18 08:24:59	--	620AAAAKQ :your unique ID
+2015-05-18 08:24:59	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-05-18 08:24:59	--	- ##############################################################
+2015-05-18 08:24:59	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-05-18 08:24:59	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-05-18 08:24:59	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-05-18 08:24:59	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-05-18 08:24:59	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- #############################################################
+2015-05-18 08:24:59	--	-             A Collaborative Space for DHTS Admins
+2015-05-18 08:24:59	--	- -------------------------------------------------------------
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- /nick <your_name>  # if not already set
+2015-05-18 08:24:59	--	- /msg nickserv register <password> <email>
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- You will need to use this password each time you login to use
+2015-05-18 08:24:59	--	- your nickname.
+2015-05-18 08:24:59	--	- /msg nickserv identify <password>
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- ------------------
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- !! Logging is enabled and all chats are monitored !!
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- -----------------
+2015-05-18 08:24:59	--	- All Users are dropped into #lobby upon login.
+2015-05-18 08:24:59	--	- To create a new channel:
+2015-05-18 08:24:59	--	- /join #channel-name
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- A handy use for this is if an incident requires group effort
+2015-05-18 08:24:59	--	- /join #INC12345
+2015-05-18 08:24:59	--	- /join #TASK31234
+2015-05-18 08:24:59	--	- /join #PROJECT
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- Invite others to the room by requesting help in #lobby
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- Teams may also have channels:
+2015-05-18 08:24:59	--	- #dhts-os
+2015-05-18 08:24:59	--	- #dhts-network
+2015-05-18 08:24:59	--	- #dhts-vmware
+2015-05-18 08:24:59	--	- #dhts-citrix
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- ============================================================
+2015-05-18 08:24:59	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-05-18 08:24:59	--	- IRC Clients: mIRC, XChat, HexChat
+2015-05-18 08:24:59	--	- Command Line IRC Client: weechat, irssi
+2015-05-18 08:24:59	--	-
+2015-05-18 08:24:59	--	- ===========================================================
+2015-05-18 08:24:59	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-05-18 08:24:59	--	End of message of the day.
+2015-05-18 08:24:59	--	There are 16 users and 0 invisible on 2 servers
+2015-05-18 08:24:59	--	2 :channels formed
+2015-05-18 08:24:59	--	I have 9 clients and 1 servers
+2015-05-18 08:24:59	--	Current Local Users: 9  Max: 16
+2015-05-18 08:24:59	--	Current Global Users: 16  Max: 23
+2015-05-18 08:24:59	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-05-18 08:24:59	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-05-18 08:24:59	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-05-18 08:24:59	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-05-18 08:25:03	--	MSG(nickserv): identify ********
+2015-05-18 08:25:03	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-05-18 08:25:03	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.106)
+2015-05-18 08:25:03	--	User mode [+r] by NickServ
+2015-05-18 11:13:39	--	You have been marked as being away
+2015-05-18 11:13:50	--	You are now known as Stephen_Adams-FITZE
+2015-05-18 11:13:50	--	User mode [-r] by vlp-dhtsirc.dhe.duke.edu
+2015-05-18 12:18:50	--	You are no longer marked as being away
+2015-05-18 12:18:56	--	You are now known as Stephen_Adams
+2015-05-18 12:18:56	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.106)
+2015-05-18 12:18:56	--	User mode [+r] by NickServ
+2015-05-19 07:57:01	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-05-19 07:57:01	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-05-19 07:57:01	--	gnutls: receiving 1 certificate
+2015-05-19 07:57:01	--	 - certificate[1] info:
+2015-05-19 07:57:01	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-05-19 07:57:01	=!=	gnutls: peer's certificate is NOT trusted
+2015-05-19 07:57:01	=!=	gnutls: peer's certificate issuer is unknown
+2015-05-19 07:57:01	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-05-19 07:57:01	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-05-19 07:57:01	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.132) instead.
+2015-05-19 07:57:02	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-05-19 07:57:02	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.132
+2015-05-19 07:57:02	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-05-19 07:57:02	--	This server was created 10:57:20 Apr  3 2015
+2015-05-19 07:57:02	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-05-19 07:57:02	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-05-19 07:57:02	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-05-19 07:57:02	--	620AAAALE :your unique ID
+2015-05-19 07:57:02	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-05-19 07:57:02	--	- ##############################################################
+2015-05-19 07:57:02	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-05-19 07:57:02	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-05-19 07:57:02	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-05-19 07:57:02	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-05-19 07:57:02	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- #############################################################
+2015-05-19 07:57:02	--	-             A Collaborative Space for DHTS Admins
+2015-05-19 07:57:02	--	- -------------------------------------------------------------
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- /nick <your_name>  # if not already set
+2015-05-19 07:57:02	--	- /msg nickserv register <password> <email>
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- You will need to use this password each time you login to use
+2015-05-19 07:57:02	--	- your nickname.
+2015-05-19 07:57:02	--	- /msg nickserv identify <password>
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- ------------------
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- !! Logging is enabled and all chats are monitored !!
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- -----------------
+2015-05-19 07:57:02	--	- All Users are dropped into #lobby upon login.
+2015-05-19 07:57:02	--	- To create a new channel:
+2015-05-19 07:57:02	--	- /join #channel-name
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- A handy use for this is if an incident requires group effort
+2015-05-19 07:57:02	--	- /join #INC12345
+2015-05-19 07:57:02	--	- /join #TASK31234
+2015-05-19 07:57:02	--	- /join #PROJECT
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- Invite others to the room by requesting help in #lobby
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- Teams may also have channels:
+2015-05-19 07:57:02	--	- #dhts-os
+2015-05-19 07:57:02	--	- #dhts-network
+2015-05-19 07:57:02	--	- #dhts-vmware
+2015-05-19 07:57:02	--	- #dhts-citrix
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- ============================================================
+2015-05-19 07:57:02	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-05-19 07:57:02	--	- IRC Clients: mIRC, XChat, HexChat
+2015-05-19 07:57:02	--	- Command Line IRC Client: weechat, irssi
+2015-05-19 07:57:02	--	-
+2015-05-19 07:57:02	--	- ===========================================================
+2015-05-19 07:57:02	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-05-19 07:57:02	--	End of message of the day.
+2015-05-19 07:57:02	--	There are 17 users and 1 invisible on 2 servers
+2015-05-19 07:57:02	--	6 :channels formed
+2015-05-19 07:57:02	--	I have 11 clients and 1 servers
+2015-05-19 07:57:02	--	Current Local Users: 11  Max: 16
+2015-05-19 07:57:02	--	Current Global Users: 18  Max: 23
+2015-05-19 07:57:02	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-05-19 07:57:02	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-05-19 07:57:02	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-05-19 07:57:02	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-05-19 07:57:07	--	MSG(nickserv): identify ********
+2015-05-19 07:57:07	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-05-19 07:57:07	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.132)
+2015-05-19 07:57:07	--	User mode [+r] by NickServ
+2015-05-20 08:19:28	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-05-20 08:19:28	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-05-20 08:19:28	--	gnutls: receiving 1 certificate
+2015-05-20 08:19:28	--	 - certificate[1] info:
+2015-05-20 08:19:28	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-05-20 08:19:28	=!=	gnutls: peer's certificate is NOT trusted
+2015-05-20 08:19:28	=!=	gnutls: peer's certificate issuer is unknown
+2015-05-20 08:19:28	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-05-20 08:19:28	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-05-20 08:19:28	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.148) instead.
+2015-05-20 08:19:29	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-05-20 08:19:29	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.148
+2015-05-20 08:19:29	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-05-20 08:19:29	--	This server was created 10:57:20 Apr  3 2015
+2015-05-20 08:19:29	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-05-20 08:19:29	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-05-20 08:19:29	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-05-20 08:19:29	--	620AAAAMB :your unique ID
+2015-05-20 08:19:29	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-05-20 08:19:29	--	- ##############################################################
+2015-05-20 08:19:29	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-05-20 08:19:29	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-05-20 08:19:29	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-05-20 08:19:29	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-05-20 08:19:29	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- #############################################################
+2015-05-20 08:19:29	--	-             A Collaborative Space for DHTS Admins
+2015-05-20 08:19:29	--	- -------------------------------------------------------------
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- /nick <your_name>  # if not already set
+2015-05-20 08:19:29	--	- /msg nickserv register <password> <email>
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- You will need to use this password each time you login to use
+2015-05-20 08:19:29	--	- your nickname.
+2015-05-20 08:19:29	--	- /msg nickserv identify <password>
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- ------------------
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- !! Logging is enabled and all chats are monitored !!
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- -----------------
+2015-05-20 08:19:29	--	- All Users are dropped into #lobby upon login.
+2015-05-20 08:19:29	--	- To create a new channel:
+2015-05-20 08:19:29	--	- /join #channel-name
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- A handy use for this is if an incident requires group effort
+2015-05-20 08:19:29	--	- /join #INC12345
+2015-05-20 08:19:29	--	- /join #TASK31234
+2015-05-20 08:19:29	--	- /join #PROJECT
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- Invite others to the room by requesting help in #lobby
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- Teams may also have channels:
+2015-05-20 08:19:29	--	- #dhts-os
+2015-05-20 08:19:29	--	- #dhts-network
+2015-05-20 08:19:29	--	- #dhts-vmware
+2015-05-20 08:19:29	--	- #dhts-citrix
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- ============================================================
+2015-05-20 08:19:29	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-05-20 08:19:29	--	- IRC Clients: mIRC, XChat, HexChat
+2015-05-20 08:19:29	--	- Command Line IRC Client: weechat, irssi
+2015-05-20 08:19:29	--	-
+2015-05-20 08:19:29	--	- ===========================================================
+2015-05-20 08:19:29	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-05-20 08:19:29	--	End of message of the day.
+2015-05-20 08:19:29	--	There are 16 users and 1 invisible on 2 servers
+2015-05-20 08:19:29	--	2 :channels formed
+2015-05-20 08:19:29	--	I have 10 clients and 1 servers
+2015-05-20 08:19:29	--	Current Local Users: 10  Max: 16
+2015-05-20 08:19:29	--	Current Global Users: 17  Max: 23
+2015-05-20 08:19:29	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-05-20 08:19:29	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-05-20 08:19:29	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-05-20 08:19:29	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-05-20 08:19:36	--	MSG(nickserv): identify ********
+2015-05-20 08:19:36	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-05-20 08:19:36	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.148)
+2015-05-20 08:19:36	--	User mode [+r] by NickServ
+2015-05-21 08:43:11	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-05-21 08:43:11	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-05-21 08:43:11	--	gnutls: receiving 1 certificate
+2015-05-21 08:43:11	--	 - certificate[1] info:
+2015-05-21 08:43:11	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-05-21 08:43:11	=!=	gnutls: peer's certificate is NOT trusted
+2015-05-21 08:43:11	=!=	gnutls: peer's certificate issuer is unknown
+2015-05-21 08:43:12	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-05-21 08:43:12	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-05-21 08:43:12	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.162) instead.
+2015-05-21 08:43:13	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-05-21 08:43:13	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.162
+2015-05-21 08:43:13	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-05-21 08:43:13	--	This server was created 10:57:20 Apr  3 2015
+2015-05-21 08:43:13	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-05-21 08:43:13	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-05-21 08:43:13	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-05-21 08:43:13	--	620AAAAMJ :your unique ID
+2015-05-21 08:43:13	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-05-21 08:43:13	--	- ##############################################################
+2015-05-21 08:43:13	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-05-21 08:43:13	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-05-21 08:43:13	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-05-21 08:43:13	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-05-21 08:43:13	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- #############################################################
+2015-05-21 08:43:13	--	-             A Collaborative Space for DHTS Admins
+2015-05-21 08:43:13	--	- -------------------------------------------------------------
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- /nick <your_name>  # if not already set
+2015-05-21 08:43:13	--	- /msg nickserv register <password> <email>
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- You will need to use this password each time you login to use
+2015-05-21 08:43:13	--	- your nickname.
+2015-05-21 08:43:13	--	- /msg nickserv identify <password>
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- ------------------
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- !! Logging is enabled and all chats are monitored !!
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- -----------------
+2015-05-21 08:43:13	--	- All Users are dropped into #lobby upon login.
+2015-05-21 08:43:13	--	- To create a new channel:
+2015-05-21 08:43:13	--	- /join #channel-name
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- A handy use for this is if an incident requires group effort
+2015-05-21 08:43:13	--	- /join #INC12345
+2015-05-21 08:43:13	--	- /join #TASK31234
+2015-05-21 08:43:13	--	- /join #PROJECT
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- Invite others to the room by requesting help in #lobby
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- Teams may also have channels:
+2015-05-21 08:43:13	--	- #dhts-os
+2015-05-21 08:43:13	--	- #dhts-network
+2015-05-21 08:43:13	--	- #dhts-vmware
+2015-05-21 08:43:13	--	- #dhts-citrix
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- ============================================================
+2015-05-21 08:43:13	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-05-21 08:43:13	--	- IRC Clients: mIRC, XChat, HexChat
+2015-05-21 08:43:13	--	- Command Line IRC Client: weechat, irssi
+2015-05-21 08:43:13	--	-
+2015-05-21 08:43:13	--	- ===========================================================
+2015-05-21 08:43:13	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-05-21 08:43:13	--	End of message of the day.
+2015-05-21 08:43:13	--	There are 13 users and 1 invisible on 2 servers
+2015-05-21 08:43:13	--	2 :channels formed
+2015-05-21 08:43:13	--	I have 7 clients and 1 servers
+2015-05-21 08:43:13	--	Current Local Users: 7  Max: 16
+2015-05-21 08:43:13	--	Current Global Users: 14  Max: 23
+2015-05-21 08:43:13	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-05-21 08:43:13	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-05-21 08:43:13	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-05-21 08:43:13	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-05-21 08:43:19	--	MSG(nickserv): identify ********
+2015-05-21 08:43:19	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-05-21 08:43:19	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.162)
+2015-05-21 08:43:19	--	User mode [+r] by NickServ
+2015-05-21 13:53:08	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-05-21 13:53:08	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-05-21 13:53:08	--	gnutls: receiving 1 certificate
+2015-05-21 13:53:08	--	 - certificate[1] info:
+2015-05-21 13:53:08	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-05-21 13:53:08	=!=	gnutls: peer's certificate is NOT trusted
+2015-05-21 13:53:08	=!=	gnutls: peer's certificate issuer is unknown
+2015-05-21 13:53:08	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-05-21 13:53:08	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-05-21 13:53:08	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.162) instead.
+2015-05-21 13:53:09	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-05-21 13:53:09	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.162
+2015-05-21 13:53:09	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-05-21 13:53:09	--	This server was created 10:57:20 Apr  3 2015
+2015-05-21 13:53:09	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-05-21 13:53:09	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-05-21 13:53:09	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-05-21 13:53:09	--	620AAAAMM :your unique ID
+2015-05-21 13:53:09	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-05-21 13:53:09	--	- ##############################################################
+2015-05-21 13:53:09	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-05-21 13:53:09	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-05-21 13:53:09	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-05-21 13:53:09	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-05-21 13:53:09	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- #############################################################
+2015-05-21 13:53:09	--	-             A Collaborative Space for DHTS Admins
+2015-05-21 13:53:09	--	- -------------------------------------------------------------
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- /nick <your_name>  # if not already set
+2015-05-21 13:53:09	--	- /msg nickserv register <password> <email>
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- You will need to use this password each time you login to use
+2015-05-21 13:53:09	--	- your nickname.
+2015-05-21 13:53:09	--	- /msg nickserv identify <password>
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- ------------------
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- !! Logging is enabled and all chats are monitored !!
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- -----------------
+2015-05-21 13:53:09	--	- All Users are dropped into #lobby upon login.
+2015-05-21 13:53:09	--	- To create a new channel:
+2015-05-21 13:53:09	--	- /join #channel-name
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- A handy use for this is if an incident requires group effort
+2015-05-21 13:53:09	--	- /join #INC12345
+2015-05-21 13:53:09	--	- /join #TASK31234
+2015-05-21 13:53:09	--	- /join #PROJECT
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- Invite others to the room by requesting help in #lobby
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- Teams may also have channels:
+2015-05-21 13:53:09	--	- #dhts-os
+2015-05-21 13:53:09	--	- #dhts-network
+2015-05-21 13:53:09	--	- #dhts-vmware
+2015-05-21 13:53:09	--	- #dhts-citrix
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- ============================================================
+2015-05-21 13:53:09	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-05-21 13:53:09	--	- IRC Clients: mIRC, XChat, HexChat
+2015-05-21 13:53:09	--	- Command Line IRC Client: weechat, irssi
+2015-05-21 13:53:09	--	-
+2015-05-21 13:53:09	--	- ===========================================================
+2015-05-21 13:53:09	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-05-21 13:53:09	--	End of message of the day.
+2015-05-21 13:53:09	--	There are 12 users and 2 invisible on 2 servers
+2015-05-21 13:53:09	--	2 :channels formed
+2015-05-21 13:53:09	--	I have 7 clients and 1 servers
+2015-05-21 13:53:09	--	Current Local Users: 7  Max: 16
+2015-05-21 13:53:09	--	Current Global Users: 14  Max: 23
+2015-05-21 13:53:09	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-05-21 13:53:09	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-05-21 13:53:09	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-05-21 13:53:09	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-05-21 13:53:18	--	MSG(nickserv): identify ********
+2015-05-21 13:53:18	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-05-21 13:53:18	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.162)
+2015-05-21 13:53:18	--	User mode [+r] by NickServ
+2015-05-26 08:14:02	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-05-26 08:14:02	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-05-26 08:14:02	--	gnutls: receiving 1 certificate
+2015-05-26 08:14:02	--	 - certificate[1] info:
+2015-05-26 08:14:02	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-05-26 08:14:02	=!=	gnutls: peer's certificate is NOT trusted
+2015-05-26 08:14:02	=!=	gnutls: peer's certificate issuer is unknown
+2015-05-26 08:14:02	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-05-26 08:14:02	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-05-26 08:14:02	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.206) instead.
+2015-05-26 08:14:03	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-05-26 08:14:03	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.206
+2015-05-26 08:14:03	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-05-26 08:14:03	--	This server was created 10:57:20 Apr  3 2015
+2015-05-26 08:14:03	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-05-26 08:14:03	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-05-26 08:14:03	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-05-26 08:14:03	--	620AAAAM0 :your unique ID
+2015-05-26 08:14:03	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-05-26 08:14:03	--	- ##############################################################
+2015-05-26 08:14:03	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-05-26 08:14:03	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-05-26 08:14:03	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-05-26 08:14:03	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-05-26 08:14:03	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- #############################################################
+2015-05-26 08:14:03	--	-             A Collaborative Space for DHTS Admins
+2015-05-26 08:14:03	--	- -------------------------------------------------------------
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- /nick <your_name>  # if not already set
+2015-05-26 08:14:03	--	- /msg nickserv register <password> <email>
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- You will need to use this password each time you login to use
+2015-05-26 08:14:03	--	- your nickname.
+2015-05-26 08:14:03	--	- /msg nickserv identify <password>
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- ------------------
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- !! Logging is enabled and all chats are monitored !!
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- -----------------
+2015-05-26 08:14:03	--	- All Users are dropped into #lobby upon login.
+2015-05-26 08:14:03	--	- To create a new channel:
+2015-05-26 08:14:03	--	- /join #channel-name
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- A handy use for this is if an incident requires group effort
+2015-05-26 08:14:03	--	- /join #INC12345
+2015-05-26 08:14:03	--	- /join #TASK31234
+2015-05-26 08:14:03	--	- /join #PROJECT
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- Invite others to the room by requesting help in #lobby
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- Teams may also have channels:
+2015-05-26 08:14:03	--	- #dhts-os
+2015-05-26 08:14:03	--	- #dhts-network
+2015-05-26 08:14:03	--	- #dhts-vmware
+2015-05-26 08:14:03	--	- #dhts-citrix
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- ============================================================
+2015-05-26 08:14:03	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-05-26 08:14:03	--	- IRC Clients: mIRC, XChat, HexChat
+2015-05-26 08:14:03	--	- Command Line IRC Client: weechat, irssi
+2015-05-26 08:14:03	--	-
+2015-05-26 08:14:03	--	- ===========================================================
+2015-05-26 08:14:03	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-05-26 08:14:03	--	End of message of the day.
+2015-05-26 08:14:03	--	There are 12 users and 1 invisible on 2 servers
+2015-05-26 08:14:03	--	2 :channels formed
+2015-05-26 08:14:03	--	I have 6 clients and 1 servers
+2015-05-26 08:14:03	--	Current Local Users: 6  Max: 16
+2015-05-26 08:14:03	--	Current Global Users: 13  Max: 23
+2015-05-26 08:14:03	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-05-26 08:14:03	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-05-26 08:14:03	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-05-26 08:14:03	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-05-26 08:14:10	--	MSG(nickserv): identify ********
+2015-05-26 08:14:10	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-05-26 08:14:10	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.206)
+2015-05-26 08:14:10	--	User mode [+r] by NickServ
+2015-05-27 08:30:22	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-05-27 08:30:22	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-05-27 08:30:22	--	gnutls: receiving 1 certificate
+2015-05-27 08:30:22	--	 - certificate[1] info:
+2015-05-27 08:30:22	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-05-27 08:30:22	=!=	gnutls: peer's certificate is NOT trusted
+2015-05-27 08:30:22	=!=	gnutls: peer's certificate issuer is unknown
+2015-05-27 08:30:22	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-05-27 08:30:22	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-05-27 08:30:22	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.245) instead.
+2015-05-27 08:30:23	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-05-27 08:30:23	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.245
+2015-05-27 08:30:23	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-05-27 08:30:23	--	This server was created 10:57:20 Apr  3 2015
+2015-05-27 08:30:23	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-05-27 08:30:23	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-05-27 08:30:23	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-05-27 08:30:23	--	620AAAAND :your unique ID
+2015-05-27 08:30:23	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-05-27 08:30:23	--	- ##############################################################
+2015-05-27 08:30:23	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-05-27 08:30:23	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-05-27 08:30:23	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-05-27 08:30:23	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-05-27 08:30:23	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- #############################################################
+2015-05-27 08:30:23	--	-             A Collaborative Space for DHTS Admins
+2015-05-27 08:30:23	--	- -------------------------------------------------------------
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- /nick <your_name>  # if not already set
+2015-05-27 08:30:23	--	- /msg nickserv register <password> <email>
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- You will need to use this password each time you login to use
+2015-05-27 08:30:23	--	- your nickname.
+2015-05-27 08:30:23	--	- /msg nickserv identify <password>
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- ------------------
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- !! Logging is enabled and all chats are monitored !!
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- -----------------
+2015-05-27 08:30:23	--	- All Users are dropped into #lobby upon login.
+2015-05-27 08:30:23	--	- To create a new channel:
+2015-05-27 08:30:23	--	- /join #channel-name
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- A handy use for this is if an incident requires group effort
+2015-05-27 08:30:23	--	- /join #INC12345
+2015-05-27 08:30:23	--	- /join #TASK31234
+2015-05-27 08:30:23	--	- /join #PROJECT
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- Invite others to the room by requesting help in #lobby
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- Teams may also have channels:
+2015-05-27 08:30:23	--	- #dhts-os
+2015-05-27 08:30:23	--	- #dhts-network
+2015-05-27 08:30:23	--	- #dhts-vmware
+2015-05-27 08:30:23	--	- #dhts-citrix
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- ============================================================
+2015-05-27 08:30:23	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-05-27 08:30:23	--	- IRC Clients: mIRC, XChat, HexChat
+2015-05-27 08:30:23	--	- Command Line IRC Client: weechat, irssi
+2015-05-27 08:30:23	--	-
+2015-05-27 08:30:23	--	- ===========================================================
+2015-05-27 08:30:23	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-05-27 08:30:23	--	End of message of the day.
+2015-05-27 08:30:23	--	There are 15 users and 1 invisible on 2 servers
+2015-05-27 08:30:23	--	2 :channels formed
+2015-05-27 08:30:23	--	I have 9 clients and 1 servers
+2015-05-27 08:30:23	--	Current Local Users: 9  Max: 16
+2015-05-27 08:30:23	--	Current Global Users: 16  Max: 23
+2015-05-27 08:30:23	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-05-27 08:30:23	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-05-27 08:30:23	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-05-27 08:30:23	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-05-27 08:30:29	--	MSG(nickserv): identify ********
+2015-05-27 08:30:29	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-05-27 08:30:29	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.245)
+2015-05-27 08:30:29	--	User mode [+r] by NickServ
+2015-05-27 10:32:52	--	MSG(Alex_Martin): You want to have the staff meeting or no?
+2015-05-27 10:32:52	--	[Alex_Martin] is away: I'm not here right now
+2015-05-27 10:36:54	--	MSG(marti133_sa): is your account still jacked?
+2015-05-28 08:19:23	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-05-28 08:19:23	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-05-28 08:19:23	--	gnutls: receiving 1 certificate
+2015-05-28 08:19:23	--	 - certificate[1] info:
+2015-05-28 08:19:23	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-05-28 08:19:23	=!=	gnutls: peer's certificate is NOT trusted
+2015-05-28 08:19:23	=!=	gnutls: peer's certificate issuer is unknown
+2015-05-28 08:19:23	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-05-28 08:19:23	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-05-28 08:19:23	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.167) instead.
+2015-05-28 08:19:24	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-05-28 08:19:24	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.167
+2015-05-28 08:19:24	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-05-28 08:19:24	--	This server was created 10:57:20 Apr  3 2015
+2015-05-28 08:19:24	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-05-28 08:19:24	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-05-28 08:19:24	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-05-28 08:19:24	--	620AAAANI :your unique ID
+2015-05-28 08:19:24	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-05-28 08:19:24	--	- ##############################################################
+2015-05-28 08:19:24	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-05-28 08:19:24	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-05-28 08:19:24	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-05-28 08:19:24	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-05-28 08:19:24	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- #############################################################
+2015-05-28 08:19:24	--	-             A Collaborative Space for DHTS Admins
+2015-05-28 08:19:24	--	- -------------------------------------------------------------
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- /nick <your_name>  # if not already set
+2015-05-28 08:19:24	--	- /msg nickserv register <password> <email>
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- You will need to use this password each time you login to use
+2015-05-28 08:19:24	--	- your nickname.
+2015-05-28 08:19:24	--	- /msg nickserv identify <password>
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- ------------------
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- !! Logging is enabled and all chats are monitored !!
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- -----------------
+2015-05-28 08:19:24	--	- All Users are dropped into #lobby upon login.
+2015-05-28 08:19:24	--	- To create a new channel:
+2015-05-28 08:19:24	--	- /join #channel-name
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- A handy use for this is if an incident requires group effort
+2015-05-28 08:19:24	--	- /join #INC12345
+2015-05-28 08:19:24	--	- /join #TASK31234
+2015-05-28 08:19:24	--	- /join #PROJECT
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- Invite others to the room by requesting help in #lobby
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- Teams may also have channels:
+2015-05-28 08:19:24	--	- #dhts-os
+2015-05-28 08:19:24	--	- #dhts-network
+2015-05-28 08:19:24	--	- #dhts-vmware
+2015-05-28 08:19:24	--	- #dhts-citrix
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- ============================================================
+2015-05-28 08:19:24	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-05-28 08:19:24	--	- IRC Clients: mIRC, XChat, HexChat
+2015-05-28 08:19:24	--	- Command Line IRC Client: weechat, irssi
+2015-05-28 08:19:24	--	-
+2015-05-28 08:19:24	--	- ===========================================================
+2015-05-28 08:19:24	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-05-28 08:19:24	--	End of message of the day.
+2015-05-28 08:19:24	--	There are 16 users and 1 invisible on 2 servers
+2015-05-28 08:19:24	--	2 :channels formed
+2015-05-28 08:19:24	--	I have 10 clients and 1 servers
+2015-05-28 08:19:24	--	Current Local Users: 10  Max: 16
+2015-05-28 08:19:24	--	Current Global Users: 17  Max: 23
+2015-05-28 08:19:24	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-05-28 08:19:24	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-05-28 08:19:24	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-05-28 08:19:24	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-05-28 08:19:29	--	MSG(nickserv): identify ********
+2015-05-28 08:19:29	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-05-28 08:19:29	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.167)
+2015-05-28 08:19:29	--	User mode [+r] by NickServ
+2015-06-01 08:04:44	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-01 08:04:44	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-01 08:04:44	--	gnutls: receiving 1 certificate
+2015-06-01 08:04:44	--	 - certificate[1] info:
+2015-06-01 08:04:44	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-01 08:04:44	=!=	gnutls: certificate has expired
+2015-06-01 08:04:44	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-01 08:04:44	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-01 08:04:44	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-01 08:04:44	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-01 08:04:44	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.251) instead.
+2015-06-01 08:04:45	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-01 08:04:45	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.251
+2015-06-01 08:04:45	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-01 08:04:45	--	This server was created 10:57:20 Apr  3 2015
+2015-06-01 08:04:45	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-01 08:04:45	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-01 08:04:46	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-01 08:04:46	--	620AAAAR1 :your unique ID
+2015-06-01 08:04:46	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-01 08:04:46	--	- ##############################################################
+2015-06-01 08:04:46	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-01 08:04:46	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-01 08:04:46	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-01 08:04:46	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-01 08:04:46	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- #############################################################
+2015-06-01 08:04:46	--	-             A Collaborative Space for DHTS Admins
+2015-06-01 08:04:46	--	- -------------------------------------------------------------
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- /nick <your_name>  # if not already set
+2015-06-01 08:04:46	--	- /msg nickserv register <password> <email>
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- You will need to use this password each time you login to use
+2015-06-01 08:04:46	--	- your nickname.
+2015-06-01 08:04:46	--	- /msg nickserv identify <password>
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- ------------------
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- -----------------
+2015-06-01 08:04:46	--	- All Users are dropped into #lobby upon login.
+2015-06-01 08:04:46	--	- To create a new channel:
+2015-06-01 08:04:46	--	- /join #channel-name
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- A handy use for this is if an incident requires group effort
+2015-06-01 08:04:46	--	- /join #INC12345
+2015-06-01 08:04:46	--	- /join #TASK31234
+2015-06-01 08:04:46	--	- /join #PROJECT
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- Invite others to the room by requesting help in #lobby
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- Teams may also have channels:
+2015-06-01 08:04:46	--	- #dhts-os
+2015-06-01 08:04:46	--	- #dhts-network
+2015-06-01 08:04:46	--	- #dhts-vmware
+2015-06-01 08:04:46	--	- #dhts-citrix
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- ============================================================
+2015-06-01 08:04:46	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-01 08:04:46	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-01 08:04:46	--	- Command Line IRC Client: weechat, irssi
+2015-06-01 08:04:46	--	-
+2015-06-01 08:04:46	--	- ===========================================================
+2015-06-01 08:04:46	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-01 08:04:46	--	End of message of the day.
+2015-06-01 08:04:46	--	There are 13 users and 0 invisible on 2 servers
+2015-06-01 08:04:46	--	2 :channels formed
+2015-06-01 08:04:46	--	I have 6 clients and 1 servers
+2015-06-01 08:04:46	--	Current Local Users: 6  Max: 16
+2015-06-01 08:04:46	--	Current Global Users: 13  Max: 23
+2015-06-01 08:04:46	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-01 08:04:46	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-01 08:04:46	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-01 08:04:46	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-01 08:04:51	--	MSG(nickserv): identify ********
+2015-06-01 08:04:51	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-01 08:04:51	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.251)
+2015-06-01 08:04:51	--	User mode [+r] by NickServ
+2015-06-01 10:31:05	--	MSG(Anthony_Hoivik): foood today?
+2015-06-01 16:16:54	--	MSG(marti133): Can I get some help on this one? TASK0952002
+2015-06-02 08:17:40	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-02 08:17:40	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-02 08:17:40	--	gnutls: receiving 1 certificate
+2015-06-02 08:17:40	--	 - certificate[1] info:
+2015-06-02 08:17:40	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-02 08:17:40	=!=	gnutls: certificate has expired
+2015-06-02 08:17:40	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-02 08:17:40	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-02 08:17:40	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-02 08:17:40	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-02 08:17:40	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.58) instead.
+2015-06-02 08:17:41	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-02 08:17:41	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.58
+2015-06-02 08:17:41	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-02 08:17:41	--	This server was created 10:57:20 Apr  3 2015
+2015-06-02 08:17:41	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-02 08:17:41	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-02 08:17:41	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-02 08:17:41	--	620AAAASE :your unique ID
+2015-06-02 08:17:41	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-02 08:17:41	--	- ##############################################################
+2015-06-02 08:17:41	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-02 08:17:41	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-02 08:17:41	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-02 08:17:41	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-02 08:17:41	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- #############################################################
+2015-06-02 08:17:41	--	-             A Collaborative Space for DHTS Admins
+2015-06-02 08:17:41	--	- -------------------------------------------------------------
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- /nick <your_name>  # if not already set
+2015-06-02 08:17:41	--	- /msg nickserv register <password> <email>
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- You will need to use this password each time you login to use
+2015-06-02 08:17:41	--	- your nickname.
+2015-06-02 08:17:41	--	- /msg nickserv identify <password>
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- ------------------
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- -----------------
+2015-06-02 08:17:41	--	- All Users are dropped into #lobby upon login.
+2015-06-02 08:17:41	--	- To create a new channel:
+2015-06-02 08:17:41	--	- /join #channel-name
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- A handy use for this is if an incident requires group effort
+2015-06-02 08:17:41	--	- /join #INC12345
+2015-06-02 08:17:41	--	- /join #TASK31234
+2015-06-02 08:17:41	--	- /join #PROJECT
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- Invite others to the room by requesting help in #lobby
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- Teams may also have channels:
+2015-06-02 08:17:41	--	- #dhts-os
+2015-06-02 08:17:41	--	- #dhts-network
+2015-06-02 08:17:41	--	- #dhts-vmware
+2015-06-02 08:17:41	--	- #dhts-citrix
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- ============================================================
+2015-06-02 08:17:41	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-02 08:17:41	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-02 08:17:41	--	- Command Line IRC Client: weechat, irssi
+2015-06-02 08:17:41	--	-
+2015-06-02 08:17:41	--	- ===========================================================
+2015-06-02 08:17:41	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-02 08:17:41	--	End of message of the day.
+2015-06-02 08:17:41	--	There are 14 users and 0 invisible on 2 servers
+2015-06-02 08:17:41	--	2 :channels formed
+2015-06-02 08:17:41	--	I have 7 clients and 1 servers
+2015-06-02 08:17:41	--	Current Local Users: 7  Max: 16
+2015-06-02 08:17:41	--	Current Global Users: 14  Max: 23
+2015-06-02 08:17:41	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-02 08:17:41	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-02 08:17:41	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-02 08:17:41	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-02 08:17:49	--	MSG(nickserv): identify ********
+2015-06-02 08:17:49	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-02 08:17:49	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.58)
+2015-06-02 08:17:50	--	User mode [+r] by NickServ
+2015-06-03 08:28:11	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-03 08:28:11	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-03 08:28:11	--	gnutls: receiving 1 certificate
+2015-06-03 08:28:11	--	 - certificate[1] info:
+2015-06-03 08:28:11	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-03 08:28:11	=!=	gnutls: certificate has expired
+2015-06-03 08:28:11	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-03 08:28:11	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-03 08:28:11	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-03 08:28:11	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-03 08:28:11	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.18) instead.
+2015-06-03 08:28:12	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-03 08:28:12	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.18
+2015-06-03 08:28:12	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-03 08:28:12	--	This server was created 10:57:20 Apr  3 2015
+2015-06-03 08:28:12	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-03 08:28:12	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-03 08:28:12	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-03 08:28:12	--	620AAAASM :your unique ID
+2015-06-03 08:28:12	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-03 08:28:12	--	- ##############################################################
+2015-06-03 08:28:12	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-03 08:28:12	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-03 08:28:12	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-03 08:28:12	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-03 08:28:12	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- #############################################################
+2015-06-03 08:28:12	--	-             A Collaborative Space for DHTS Admins
+2015-06-03 08:28:12	--	- -------------------------------------------------------------
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- /nick <your_name>  # if not already set
+2015-06-03 08:28:12	--	- /msg nickserv register <password> <email>
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- You will need to use this password each time you login to use
+2015-06-03 08:28:12	--	- your nickname.
+2015-06-03 08:28:12	--	- /msg nickserv identify <password>
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- ------------------
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- -----------------
+2015-06-03 08:28:12	--	- All Users are dropped into #lobby upon login.
+2015-06-03 08:28:12	--	- To create a new channel:
+2015-06-03 08:28:12	--	- /join #channel-name
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- A handy use for this is if an incident requires group effort
+2015-06-03 08:28:12	--	- /join #INC12345
+2015-06-03 08:28:12	--	- /join #TASK31234
+2015-06-03 08:28:12	--	- /join #PROJECT
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- Invite others to the room by requesting help in #lobby
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- Teams may also have channels:
+2015-06-03 08:28:12	--	- #dhts-os
+2015-06-03 08:28:12	--	- #dhts-network
+2015-06-03 08:28:12	--	- #dhts-vmware
+2015-06-03 08:28:12	--	- #dhts-citrix
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- ============================================================
+2015-06-03 08:28:12	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-03 08:28:12	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-03 08:28:12	--	- Command Line IRC Client: weechat, irssi
+2015-06-03 08:28:12	--	-
+2015-06-03 08:28:12	--	- ===========================================================
+2015-06-03 08:28:12	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-03 08:28:12	--	End of message of the day.
+2015-06-03 08:28:12	--	There are 14 users and 0 invisible on 2 servers
+2015-06-03 08:28:12	--	1 :channels formed
+2015-06-03 08:28:12	--	I have 7 clients and 1 servers
+2015-06-03 08:28:12	--	Current Local Users: 7  Max: 16
+2015-06-03 08:28:12	--	Current Global Users: 14  Max: 23
+2015-06-03 08:28:12	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-03 08:28:12	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-03 08:28:12	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-03 08:28:12	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-03 08:28:21	--	MSG(nickserv): identify ********
+2015-06-03 08:28:21	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-03 08:28:21	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.18)
+2015-06-03 08:28:21	--	User mode [+r] by NickServ
+2015-06-04 08:20:34	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-04 08:20:34	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-04 08:20:34	--	gnutls: receiving 1 certificate
+2015-06-04 08:20:34	--	 - certificate[1] info:
+2015-06-04 08:20:34	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-04 08:20:34	=!=	gnutls: certificate has expired
+2015-06-04 08:20:34	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-04 08:20:34	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-04 08:20:34	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-04 08:20:34	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-04 08:20:34	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.29) instead.
+2015-06-04 08:20:36	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-04 08:20:36	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.29
+2015-06-04 08:20:36	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-04 08:20:36	--	This server was created 10:57:20 Apr  3 2015
+2015-06-04 08:20:36	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-04 08:20:36	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-04 08:20:36	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-04 08:20:36	--	620AAAASU :your unique ID
+2015-06-04 08:20:36	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-04 08:20:36	--	- ##############################################################
+2015-06-04 08:20:36	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-04 08:20:36	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-04 08:20:36	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-04 08:20:36	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-04 08:20:36	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- #############################################################
+2015-06-04 08:20:36	--	-             A Collaborative Space for DHTS Admins
+2015-06-04 08:20:36	--	- -------------------------------------------------------------
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- /nick <your_name>  # if not already set
+2015-06-04 08:20:36	--	- /msg nickserv register <password> <email>
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- You will need to use this password each time you login to use
+2015-06-04 08:20:36	--	- your nickname.
+2015-06-04 08:20:36	--	- /msg nickserv identify <password>
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- ------------------
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- -----------------
+2015-06-04 08:20:36	--	- All Users are dropped into #lobby upon login.
+2015-06-04 08:20:36	--	- To create a new channel:
+2015-06-04 08:20:36	--	- /join #channel-name
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- A handy use for this is if an incident requires group effort
+2015-06-04 08:20:36	--	- /join #INC12345
+2015-06-04 08:20:36	--	- /join #TASK31234
+2015-06-04 08:20:36	--	- /join #PROJECT
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- Invite others to the room by requesting help in #lobby
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- Teams may also have channels:
+2015-06-04 08:20:36	--	- #dhts-os
+2015-06-04 08:20:36	--	- #dhts-network
+2015-06-04 08:20:36	--	- #dhts-vmware
+2015-06-04 08:20:36	--	- #dhts-citrix
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- ============================================================
+2015-06-04 08:20:36	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-04 08:20:36	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-04 08:20:36	--	- Command Line IRC Client: weechat, irssi
+2015-06-04 08:20:36	--	-
+2015-06-04 08:20:36	--	- ===========================================================
+2015-06-04 08:20:36	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-04 08:20:36	--	End of message of the day.
+2015-06-04 08:20:36	--	There are 13 users and 0 invisible on 2 servers
+2015-06-04 08:20:36	--	1 :channels formed
+2015-06-04 08:20:36	--	I have 6 clients and 1 servers
+2015-06-04 08:20:36	--	Current Local Users: 6  Max: 16
+2015-06-04 08:20:36	--	Current Global Users: 13  Max: 23
+2015-06-04 08:20:36	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-04 08:20:36	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-04 08:20:36	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-04 08:20:36	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-04 08:20:41	--	MSG(nickserv): identify ********
+2015-06-04 08:20:41	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-04 08:20:41	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.29)
+2015-06-04 08:20:41	--	User mode [+r] by NickServ
+2015-06-08 11:53:33	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-08 11:53:33	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-08 11:53:33	--	gnutls: receiving 1 certificate
+2015-06-08 11:53:33	--	 - certificate[1] info:
+2015-06-08 11:53:33	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-08 11:53:33	=!=	gnutls: certificate has expired
+2015-06-08 11:53:33	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-08 11:53:33	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-08 11:53:33	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-08 11:53:33	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-08 11:53:33	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.114) instead.
+2015-06-08 11:53:34	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-08 11:53:34	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.114
+2015-06-08 11:53:34	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-08 11:53:34	--	This server was created 10:57:20 Apr  3 2015
+2015-06-08 11:53:34	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-08 11:53:34	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-08 11:53:34	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-08 11:53:34	--	620AAAATF :your unique ID
+2015-06-08 11:53:34	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-08 11:53:34	--	- ##############################################################
+2015-06-08 11:53:34	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-08 11:53:34	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-08 11:53:34	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-08 11:53:34	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-08 11:53:34	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- #############################################################
+2015-06-08 11:53:34	--	-             A Collaborative Space for DHTS Admins
+2015-06-08 11:53:34	--	- -------------------------------------------------------------
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- /nick <your_name>  # if not already set
+2015-06-08 11:53:34	--	- /msg nickserv register <password> <email>
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- You will need to use this password each time you login to use
+2015-06-08 11:53:34	--	- your nickname.
+2015-06-08 11:53:34	--	- /msg nickserv identify <password>
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- ------------------
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- -----------------
+2015-06-08 11:53:34	--	- All Users are dropped into #lobby upon login.
+2015-06-08 11:53:34	--	- To create a new channel:
+2015-06-08 11:53:34	--	- /join #channel-name
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- A handy use for this is if an incident requires group effort
+2015-06-08 11:53:34	--	- /join #INC12345
+2015-06-08 11:53:34	--	- /join #TASK31234
+2015-06-08 11:53:34	--	- /join #PROJECT
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- Invite others to the room by requesting help in #lobby
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- Teams may also have channels:
+2015-06-08 11:53:34	--	- #dhts-os
+2015-06-08 11:53:34	--	- #dhts-network
+2015-06-08 11:53:34	--	- #dhts-vmware
+2015-06-08 11:53:34	--	- #dhts-citrix
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- ============================================================
+2015-06-08 11:53:34	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-08 11:53:34	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-08 11:53:34	--	- Command Line IRC Client: weechat, irssi
+2015-06-08 11:53:34	--	-
+2015-06-08 11:53:34	--	- ===========================================================
+2015-06-08 11:53:34	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-08 11:53:34	--	End of message of the day.
+2015-06-08 11:53:34	--	There are 16 users and 1 invisible on 2 servers
+2015-06-08 11:53:34	--	1 :channels formed
+2015-06-08 11:53:34	--	I have 10 clients and 1 servers
+2015-06-08 11:53:34	--	Current Local Users: 10  Max: 16
+2015-06-08 11:53:34	--	Current Global Users: 17  Max: 23
+2015-06-08 11:53:34	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-08 11:53:34	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-08 11:53:34	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-08 11:53:34	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-08 11:53:42	--	MSG(nickserv): identify ********
+2015-06-08 11:53:42	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-08 11:53:42	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.114)
+2015-06-08 11:53:42	--	User mode [+r] by NickServ
+2015-06-08 13:29:44	--	MSG(Anthony_Hoivik): I'm in a food coma
+2015-06-09 08:10:56	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-09 08:10:56	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-09 08:10:56	--	gnutls: receiving 1 certificate
+2015-06-09 08:10:56	--	 - certificate[1] info:
+2015-06-09 08:10:56	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-09 08:10:56	=!=	gnutls: certificate has expired
+2015-06-09 08:10:56	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-09 08:10:56	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-09 08:10:56	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-09 08:10:56	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-09 08:10:56	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.170) instead.
+2015-06-09 08:10:57	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-09 08:10:57	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.170
+2015-06-09 08:10:57	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-09 08:10:57	--	This server was created 10:57:20 Apr  3 2015
+2015-06-09 08:10:57	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-09 08:10:57	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-09 08:10:57	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-09 08:10:57	--	620AAAATI :your unique ID
+2015-06-09 08:10:57	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-09 08:10:57	--	- ##############################################################
+2015-06-09 08:10:57	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-09 08:10:57	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-09 08:10:57	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-09 08:10:57	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-09 08:10:57	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- #############################################################
+2015-06-09 08:10:57	--	-             A Collaborative Space for DHTS Admins
+2015-06-09 08:10:57	--	- -------------------------------------------------------------
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- /nick <your_name>  # if not already set
+2015-06-09 08:10:57	--	- /msg nickserv register <password> <email>
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- You will need to use this password each time you login to use
+2015-06-09 08:10:57	--	- your nickname.
+2015-06-09 08:10:57	--	- /msg nickserv identify <password>
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- ------------------
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- -----------------
+2015-06-09 08:10:57	--	- All Users are dropped into #lobby upon login.
+2015-06-09 08:10:57	--	- To create a new channel:
+2015-06-09 08:10:57	--	- /join #channel-name
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- A handy use for this is if an incident requires group effort
+2015-06-09 08:10:57	--	- /join #INC12345
+2015-06-09 08:10:57	--	- /join #TASK31234
+2015-06-09 08:10:57	--	- /join #PROJECT
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- Invite others to the room by requesting help in #lobby
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- Teams may also have channels:
+2015-06-09 08:10:57	--	- #dhts-os
+2015-06-09 08:10:57	--	- #dhts-network
+2015-06-09 08:10:57	--	- #dhts-vmware
+2015-06-09 08:10:57	--	- #dhts-citrix
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- ============================================================
+2015-06-09 08:10:57	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-09 08:10:57	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-09 08:10:57	--	- Command Line IRC Client: weechat, irssi
+2015-06-09 08:10:57	--	-
+2015-06-09 08:10:57	--	- ===========================================================
+2015-06-09 08:10:57	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-09 08:10:57	--	End of message of the day.
+2015-06-09 08:10:57	--	There are 13 users and 0 invisible on 2 servers
+2015-06-09 08:10:57	--	1 :channels formed
+2015-06-09 08:10:57	--	I have 6 clients and 1 servers
+2015-06-09 08:10:57	--	Current Local Users: 6  Max: 16
+2015-06-09 08:10:57	--	Current Global Users: 13  Max: 23
+2015-06-09 08:10:57	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-09 08:10:57	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-09 08:10:57	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-09 08:10:57	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-09 08:11:05	--	MSG(nickserv): identify ********
+2015-06-09 08:11:05	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-09 08:11:05	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.170)
+2015-06-09 08:11:05	--	User mode [+r] by NickServ
+2015-06-10 08:03:25	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-10 08:03:25	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-10 08:03:25	--	gnutls: receiving 1 certificate
+2015-06-10 08:03:25	--	 - certificate[1] info:
+2015-06-10 08:03:25	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-10 08:03:25	=!=	gnutls: certificate has expired
+2015-06-10 08:03:25	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-10 08:03:25	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-10 08:03:25	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-10 08:03:25	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-10 08:03:25	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.208) instead.
+2015-06-10 08:03:26	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-10 08:03:26	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.208
+2015-06-10 08:03:26	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-10 08:03:26	--	This server was created 10:57:20 Apr  3 2015
+2015-06-10 08:03:26	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-10 08:03:26	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-10 08:03:26	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-10 08:03:26	--	620AAAATS :your unique ID
+2015-06-10 08:03:26	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-10 08:03:26	--	- ##############################################################
+2015-06-10 08:03:26	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-10 08:03:26	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-10 08:03:26	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-10 08:03:26	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-10 08:03:26	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- #############################################################
+2015-06-10 08:03:26	--	-             A Collaborative Space for DHTS Admins
+2015-06-10 08:03:26	--	- -------------------------------------------------------------
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- /nick <your_name>  # if not already set
+2015-06-10 08:03:26	--	- /msg nickserv register <password> <email>
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- You will need to use this password each time you login to use
+2015-06-10 08:03:26	--	- your nickname.
+2015-06-10 08:03:26	--	- /msg nickserv identify <password>
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- ------------------
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- -----------------
+2015-06-10 08:03:26	--	- All Users are dropped into #lobby upon login.
+2015-06-10 08:03:26	--	- To create a new channel:
+2015-06-10 08:03:26	--	- /join #channel-name
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- A handy use for this is if an incident requires group effort
+2015-06-10 08:03:26	--	- /join #INC12345
+2015-06-10 08:03:26	--	- /join #TASK31234
+2015-06-10 08:03:26	--	- /join #PROJECT
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- Invite others to the room by requesting help in #lobby
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- Teams may also have channels:
+2015-06-10 08:03:26	--	- #dhts-os
+2015-06-10 08:03:26	--	- #dhts-network
+2015-06-10 08:03:26	--	- #dhts-vmware
+2015-06-10 08:03:26	--	- #dhts-citrix
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- ============================================================
+2015-06-10 08:03:26	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-10 08:03:26	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-10 08:03:26	--	- Command Line IRC Client: weechat, irssi
+2015-06-10 08:03:26	--	-
+2015-06-10 08:03:26	--	- ===========================================================
+2015-06-10 08:03:26	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-10 08:03:26	--	End of message of the day.
+2015-06-10 08:03:26	--	There are 14 users and 0 invisible on 2 servers
+2015-06-10 08:03:26	--	1 :channels formed
+2015-06-10 08:03:26	--	I have 7 clients and 1 servers
+2015-06-10 08:03:26	--	Current Local Users: 7  Max: 16
+2015-06-10 08:03:26	--	Current Global Users: 14  Max: 23
+2015-06-10 08:03:26	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-10 08:03:27	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-10 08:03:27	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-10 08:03:27	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-10 08:03:32	--	MSG(nickserv): identify ********
+2015-06-10 08:03:32	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-10 08:03:32	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.208)
+2015-06-10 08:03:32	--	User mode [+r] by NickServ
+2015-06-11 08:04:43	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-11 08:04:43	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-11 08:04:43	--	gnutls: receiving 1 certificate
+2015-06-11 08:04:43	--	 - certificate[1] info:
+2015-06-11 08:04:43	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-11 08:04:43	=!=	gnutls: certificate has expired
+2015-06-11 08:04:43	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-11 08:04:43	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-11 08:04:43	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-11 08:04:43	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-11 08:04:43	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.228) instead.
+2015-06-11 08:04:44	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-11 08:04:44	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.228
+2015-06-11 08:04:44	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-11 08:04:44	--	This server was created 10:57:20 Apr  3 2015
+2015-06-11 08:04:44	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-11 08:04:44	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-11 08:04:44	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-11 08:04:44	--	620AAAATW :your unique ID
+2015-06-11 08:04:44	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-11 08:04:44	--	- ##############################################################
+2015-06-11 08:04:44	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-11 08:04:44	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-11 08:04:44	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-11 08:04:44	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-11 08:04:44	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- #############################################################
+2015-06-11 08:04:44	--	-             A Collaborative Space for DHTS Admins
+2015-06-11 08:04:44	--	- -------------------------------------------------------------
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- /nick <your_name>  # if not already set
+2015-06-11 08:04:44	--	- /msg nickserv register <password> <email>
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- You will need to use this password each time you login to use
+2015-06-11 08:04:44	--	- your nickname.
+2015-06-11 08:04:44	--	- /msg nickserv identify <password>
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- ------------------
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- -----------------
+2015-06-11 08:04:44	--	- All Users are dropped into #lobby upon login.
+2015-06-11 08:04:44	--	- To create a new channel:
+2015-06-11 08:04:44	--	- /join #channel-name
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- A handy use for this is if an incident requires group effort
+2015-06-11 08:04:44	--	- /join #INC12345
+2015-06-11 08:04:44	--	- /join #TASK31234
+2015-06-11 08:04:44	--	- /join #PROJECT
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- Invite others to the room by requesting help in #lobby
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- Teams may also have channels:
+2015-06-11 08:04:44	--	- #dhts-os
+2015-06-11 08:04:44	--	- #dhts-network
+2015-06-11 08:04:44	--	- #dhts-vmware
+2015-06-11 08:04:44	--	- #dhts-citrix
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- ============================================================
+2015-06-11 08:04:44	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-11 08:04:44	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-11 08:04:44	--	- Command Line IRC Client: weechat, irssi
+2015-06-11 08:04:44	--	-
+2015-06-11 08:04:44	--	- ===========================================================
+2015-06-11 08:04:44	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-11 08:04:44	--	End of message of the day.
+2015-06-11 08:04:44	--	There are 13 users and 0 invisible on 2 servers
+2015-06-11 08:04:44	--	1 :channels formed
+2015-06-11 08:04:44	--	I have 6 clients and 1 servers
+2015-06-11 08:04:44	--	Current Local Users: 6  Max: 16
+2015-06-11 08:04:44	--	Current Global Users: 13  Max: 23
+2015-06-11 08:04:44	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-11 08:04:44	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-11 08:04:44	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-11 08:04:44	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-11 08:04:48	--	MSG(nickserv): identify ********
+2015-06-11 08:04:48	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-11 08:04:48	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.228)
+2015-06-11 08:04:48	--	User mode [+r] by NickServ
+2015-06-12 08:06:13	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-12 08:06:13	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-12 08:06:13	--	gnutls: receiving 1 certificate
+2015-06-12 08:06:13	--	 - certificate[1] info:
+2015-06-12 08:06:13	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-12 08:06:13	=!=	gnutls: certificate has expired
+2015-06-12 08:06:13	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-12 08:06:13	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-12 08:06:13	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-12 08:06:13	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-12 08:06:13	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.253) instead.
+2015-06-12 08:06:14	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-12 08:06:14	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.253
+2015-06-12 08:06:14	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-12 08:06:14	--	This server was created 10:57:20 Apr  3 2015
+2015-06-12 08:06:14	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-12 08:06:14	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-12 08:06:14	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-12 08:06:14	--	620AAAAT6 :your unique ID
+2015-06-12 08:06:14	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-12 08:06:14	--	- ##############################################################
+2015-06-12 08:06:14	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-12 08:06:14	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-12 08:06:14	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-12 08:06:14	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-12 08:06:14	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- #############################################################
+2015-06-12 08:06:14	--	-             A Collaborative Space for DHTS Admins
+2015-06-12 08:06:14	--	- -------------------------------------------------------------
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- /nick <your_name>  # if not already set
+2015-06-12 08:06:14	--	- /msg nickserv register <password> <email>
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- You will need to use this password each time you login to use
+2015-06-12 08:06:14	--	- your nickname.
+2015-06-12 08:06:14	--	- /msg nickserv identify <password>
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- ------------------
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- -----------------
+2015-06-12 08:06:14	--	- All Users are dropped into #lobby upon login.
+2015-06-12 08:06:14	--	- To create a new channel:
+2015-06-12 08:06:14	--	- /join #channel-name
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- A handy use for this is if an incident requires group effort
+2015-06-12 08:06:14	--	- /join #INC12345
+2015-06-12 08:06:14	--	- /join #TASK31234
+2015-06-12 08:06:14	--	- /join #PROJECT
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- Invite others to the room by requesting help in #lobby
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- Teams may also have channels:
+2015-06-12 08:06:14	--	- #dhts-os
+2015-06-12 08:06:14	--	- #dhts-network
+2015-06-12 08:06:14	--	- #dhts-vmware
+2015-06-12 08:06:14	--	- #dhts-citrix
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- ============================================================
+2015-06-12 08:06:14	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-12 08:06:14	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-12 08:06:14	--	- Command Line IRC Client: weechat, irssi
+2015-06-12 08:06:14	--	-
+2015-06-12 08:06:14	--	- ===========================================================
+2015-06-12 08:06:14	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-12 08:06:14	--	End of message of the day.
+2015-06-12 08:06:14	--	There are 13 users and 0 invisible on 2 servers
+2015-06-12 08:06:14	--	1 :channels formed
+2015-06-12 08:06:14	--	I have 6 clients and 1 servers
+2015-06-12 08:06:14	--	Current Local Users: 6  Max: 16
+2015-06-12 08:06:14	--	Current Global Users: 13  Max: 23
+2015-06-12 08:06:14	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-12 08:06:14	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-12 08:06:14	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-12 08:06:14	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-12 08:06:22	--	MSG(nickserv): identify ********
+2015-06-12 08:06:22	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-12 08:06:22	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.253)
+2015-06-12 08:06:22	--	User mode [+r] by NickServ
+2015-06-15 07:59:51	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-15 07:59:51	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-15 07:59:51	--	gnutls: receiving 1 certificate
+2015-06-15 07:59:51	--	 - certificate[1] info:
+2015-06-15 07:59:51	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-15 07:59:51	=!=	gnutls: certificate has expired
+2015-06-15 07:59:51	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-15 07:59:51	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-15 07:59:51	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-15 07:59:51	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-15 07:59:51	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.215) instead.
+2015-06-15 07:59:52	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-15 07:59:52	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.215
+2015-06-15 07:59:52	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-15 07:59:52	--	This server was created 10:57:20 Apr  3 2015
+2015-06-15 07:59:52	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-15 07:59:52	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-15 07:59:52	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-15 07:59:52	--	620AAAAUE :your unique ID
+2015-06-15 07:59:52	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-15 07:59:52	--	- ##############################################################
+2015-06-15 07:59:52	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-15 07:59:52	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-15 07:59:52	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-15 07:59:52	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-15 07:59:52	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-15 07:59:52	--	-
+2015-06-15 07:59:52	--	- #############################################################
+2015-06-15 07:59:52	--	-             A Collaborative Space for DHTS Admins
+2015-06-15 07:59:52	--	- -------------------------------------------------------------
+2015-06-15 07:59:52	--	-
+2015-06-15 07:59:52	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-15 07:59:52	--	-
+2015-06-15 07:59:52	--	- /nick <your_name>  # if not already set
+2015-06-15 07:59:52	--	- /msg nickserv register <password> <email>
+2015-06-15 07:59:52	--	-
+2015-06-15 07:59:52	--	- You will need to use this password each time you login to use
+2015-06-15 07:59:52	--	- your nickname.
+2015-06-15 07:59:52	--	- /msg nickserv identify <password>
+2015-06-15 07:59:52	--	-
+2015-06-15 07:59:52	--	- ------------------
+2015-06-15 07:59:52	--	-
+2015-06-15 07:59:52	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-15 07:59:52	--	-
+2015-06-15 07:59:52	--	- -----------------
+2015-06-15 07:59:52	--	- All Users are dropped into #lobby upon login.
+2015-06-15 07:59:52	--	- To create a new channel:
+2015-06-15 07:59:52	--	- /join #channel-name
+2015-06-15 07:59:52	--	-
+2015-06-15 07:59:52	--	- A handy use for this is if an incident requires group effort
+2015-06-15 07:59:52	--	- /join #INC12345
+2015-06-15 07:59:52	--	- /join #TASK31234
+2015-06-15 07:59:52	--	- /join #PROJECT
+2015-06-15 07:59:52	--	-
+2015-06-15 07:59:52	--	- Invite others to the room by requesting help in #lobby
+2015-06-15 07:59:52	--	-
+2015-06-15 07:59:52	--	- Teams may also have channels:
+2015-06-15 07:59:53	--	- #dhts-os
+2015-06-15 07:59:53	--	- #dhts-network
+2015-06-15 07:59:53	--	- #dhts-vmware
+2015-06-15 07:59:53	--	- #dhts-citrix
+2015-06-15 07:59:53	--	-
+2015-06-15 07:59:53	--	- ============================================================
+2015-06-15 07:59:53	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-15 07:59:53	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-15 07:59:53	--	- Command Line IRC Client: weechat, irssi
+2015-06-15 07:59:53	--	-
+2015-06-15 07:59:53	--	- ===========================================================
+2015-06-15 07:59:53	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-15 07:59:53	--	End of message of the day.
+2015-06-15 07:59:53	--	There are 13 users and 0 invisible on 2 servers
+2015-06-15 07:59:53	--	1 :channels formed
+2015-06-15 07:59:53	--	I have 6 clients and 1 servers
+2015-06-15 07:59:53	--	Current Local Users: 6  Max: 16
+2015-06-15 07:59:53	--	Current Global Users: 13  Max: 23
+2015-06-15 07:59:53	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-15 07:59:53	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-15 07:59:53	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-15 07:59:53	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-15 08:00:04	--	MSG(nickserv): identify ********
+2015-06-15 08:00:04	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-15 08:00:04	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.215)
+2015-06-15 08:00:04	--	User mode [+r] by NickServ
+2015-06-16 08:09:24	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-16 08:09:24	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-16 08:09:24	--	gnutls: receiving 1 certificate
+2015-06-16 08:09:24	--	 - certificate[1] info:
+2015-06-16 08:09:24	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-16 08:09:24	=!=	gnutls: certificate has expired
+2015-06-16 08:09:24	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-16 08:09:24	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-16 08:09:24	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-16 08:09:24	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-16 08:09:24	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.252) instead.
+2015-06-16 08:09:25	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-16 08:09:25	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.252
+2015-06-16 08:09:25	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-16 08:09:25	--	This server was created 10:57:20 Apr  3 2015
+2015-06-16 08:09:25	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-16 08:09:25	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-16 08:09:25	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-16 08:09:25	--	620AAAAUV :your unique ID
+2015-06-16 08:09:25	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-16 08:09:25	--	- ##############################################################
+2015-06-16 08:09:25	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-16 08:09:25	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-16 08:09:25	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-16 08:09:25	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-16 08:09:25	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- #############################################################
+2015-06-16 08:09:25	--	-             A Collaborative Space for DHTS Admins
+2015-06-16 08:09:25	--	- -------------------------------------------------------------
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- /nick <your_name>  # if not already set
+2015-06-16 08:09:25	--	- /msg nickserv register <password> <email>
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- You will need to use this password each time you login to use
+2015-06-16 08:09:25	--	- your nickname.
+2015-06-16 08:09:25	--	- /msg nickserv identify <password>
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- ------------------
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- -----------------
+2015-06-16 08:09:25	--	- All Users are dropped into #lobby upon login.
+2015-06-16 08:09:25	--	- To create a new channel:
+2015-06-16 08:09:25	--	- /join #channel-name
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- A handy use for this is if an incident requires group effort
+2015-06-16 08:09:25	--	- /join #INC12345
+2015-06-16 08:09:25	--	- /join #TASK31234
+2015-06-16 08:09:25	--	- /join #PROJECT
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- Invite others to the room by requesting help in #lobby
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- Teams may also have channels:
+2015-06-16 08:09:25	--	- #dhts-os
+2015-06-16 08:09:25	--	- #dhts-network
+2015-06-16 08:09:25	--	- #dhts-vmware
+2015-06-16 08:09:25	--	- #dhts-citrix
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- ============================================================
+2015-06-16 08:09:25	--	- IRC Web Access: http://vlp-dhtsirc.dhe.duke.edu
+2015-06-16 08:09:25	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-16 08:09:25	--	- Command Line IRC Client: weechat, irssi
+2015-06-16 08:09:25	--	-
+2015-06-16 08:09:25	--	- ===========================================================
+2015-06-16 08:09:25	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-16 08:09:25	--	End of message of the day.
+2015-06-16 08:09:25	--	There are 12 users and 0 invisible on 2 servers
+2015-06-16 08:09:25	--	1 :channels formed
+2015-06-16 08:09:25	--	I have 5 clients and 1 servers
+2015-06-16 08:09:25	--	Current Local Users: 5  Max: 16
+2015-06-16 08:09:25	--	Current Global Users: 12  Max: 23
+2015-06-16 08:09:25	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-16 08:09:25	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-16 08:09:25	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-16 08:09:25	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-16 08:09:43	--	MSG(nickserv): ghost Alex_Martin
+2015-06-16 08:09:43	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Unknown command ghost Alex_Martin. "/msg NickServ HELP" for help.
+2015-06-16 08:10:49	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-16 08:10:49	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-16 08:10:49	--	gnutls: receiving 1 certificate
+2015-06-16 08:10:49	--	 - certificate[1] info:
+2015-06-16 08:10:49	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-16 08:10:49	=!=	gnutls: certificate has expired
+2015-06-16 08:10:49	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-16 08:10:49	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-16 08:10:50	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-16 08:10:50	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-16 08:10:50	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.252) instead.
+2015-06-16 08:10:51	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-16 08:10:51	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.252
+2015-06-16 08:10:51	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-16 08:10:51	--	This server was created 10:57:20 Apr  3 2015
+2015-06-16 08:10:51	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-16 08:10:51	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-16 08:10:51	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-16 08:10:51	--	620AAAAAB :your unique ID
+2015-06-16 08:10:51	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-16 08:10:51	--	- ##############################################################
+2015-06-16 08:10:51	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-16 08:10:51	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-16 08:10:51	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-16 08:10:51	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-16 08:10:51	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- #############################################################
+2015-06-16 08:10:51	--	-             A Collaborative Space for DHTS Admins
+2015-06-16 08:10:51	--	- -------------------------------------------------------------
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- /nick <your_name>  # if not already set
+2015-06-16 08:10:51	--	- /msg nickserv register <password> <email>
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- You will need to use this password each time you login to use
+2015-06-16 08:10:51	--	- your nickname.
+2015-06-16 08:10:51	--	- /msg nickserv identify <password>
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- ------------------
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- -----------------
+2015-06-16 08:10:51	--	- All Users are dropped into #lobby upon login.
+2015-06-16 08:10:51	--	- To create a new channel:
+2015-06-16 08:10:51	--	- /join #channel-name
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- A handy use for this is if an incident requires group effort
+2015-06-16 08:10:51	--	- /join #INC12345
+2015-06-16 08:10:51	--	- /join #TASK31234
+2015-06-16 08:10:51	--	- /join #PROJECT
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- Invite others to the room by requesting help in #lobby
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- Teams may also have channels:
+2015-06-16 08:10:51	--	- #dhts-os
+2015-06-16 08:10:51	--	- #dhts-network
+2015-06-16 08:10:51	--	- #dhts-vmware
+2015-06-16 08:10:51	--	- #dhts-citrix
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- ============================================================
+2015-06-16 08:10:51	--	- IRC Web Access: https://vlp-dhtsirc.dhe.duke.edu:7778
+2015-06-16 08:10:51	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-16 08:10:51	--	- Command Line IRC Client: weechat, irssi
+2015-06-16 08:10:51	--	-
+2015-06-16 08:10:51	--	- ===========================================================
+2015-06-16 08:10:51	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-16 08:10:51	--	End of message of the day.
+2015-06-16 08:10:51	--	There are 9 users and 0 invisible on 2 servers
+2015-06-16 08:10:51	--	1 :channels formed
+2015-06-16 08:10:51	--	I have 2 clients and 1 servers
+2015-06-16 08:10:51	--	Current Local Users: 2  Max: 2
+2015-06-16 08:10:51	--	Current Global Users: 9  Max: 9
+2015-06-16 08:10:51	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-16 08:10:51	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-16 08:10:51	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-16 08:10:51	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-16 08:11:00	--	MSG(nickserv): identify ********
+2015-06-16 08:11:00	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-16 08:11:00	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.252)
+2015-06-16 08:11:00	--	User mode [+r] by NickServ
+2015-06-17 08:06:46	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-17 08:06:46	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-17 08:06:46	--	gnutls: receiving 1 certificate
+2015-06-17 08:06:46	--	 - certificate[1] info:
+2015-06-17 08:06:46	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-17 08:06:46	=!=	gnutls: certificate has expired
+2015-06-17 08:06:46	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-17 08:06:46	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-17 08:06:47	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-17 08:06:47	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-17 08:06:47	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.200) instead.
+2015-06-17 08:06:48	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-17 08:06:48	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.200
+2015-06-17 08:06:48	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-17 08:06:48	--	This server was created 10:57:20 Apr  3 2015
+2015-06-17 08:06:48	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-17 08:06:48	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-17 08:06:48	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-17 08:06:48	--	620AAAAAT :your unique ID
+2015-06-17 08:06:48	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-17 08:06:48	--	- ##############################################################
+2015-06-17 08:06:48	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-17 08:06:48	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-17 08:06:48	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-17 08:06:48	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-17 08:06:48	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- #############################################################
+2015-06-17 08:06:48	--	-             A Collaborative Space for DHTS Admins
+2015-06-17 08:06:48	--	- -------------------------------------------------------------
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- /nick <your_name>  # if not already set
+2015-06-17 08:06:48	--	- /msg nickserv register <password> <email>
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- You will need to use this password each time you login to use
+2015-06-17 08:06:48	--	- your nickname.
+2015-06-17 08:06:48	--	- /msg nickserv identify <password>
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- ------------------
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- -----------------
+2015-06-17 08:06:48	--	- All Users are dropped into #lobby upon login.
+2015-06-17 08:06:48	--	- To create a new channel:
+2015-06-17 08:06:48	--	- /join #channel-name
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- A handy use for this is if an incident requires group effort
+2015-06-17 08:06:48	--	- /join #INC12345
+2015-06-17 08:06:48	--	- /join #TASK31234
+2015-06-17 08:06:48	--	- /join #PROJECT
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- Invite others to the room by requesting help in #lobby
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- Teams may also have channels:
+2015-06-17 08:06:48	--	- #dhts-os
+2015-06-17 08:06:48	--	- #dhts-network
+2015-06-17 08:06:48	--	- #dhts-vmware
+2015-06-17 08:06:48	--	- #dhts-citrix
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- ============================================================
+2015-06-17 08:06:48	--	- IRC Web Access: https://vlp-dhtsirc.dhe.duke.edu:7778
+2015-06-17 08:06:48	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-17 08:06:48	--	- Command Line IRC Client: weechat, irssi
+2015-06-17 08:06:48	--	-
+2015-06-17 08:06:48	--	- ===========================================================
+2015-06-17 08:06:48	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-17 08:06:48	--	End of message of the day.
+2015-06-17 08:06:48	--	There are 13 users and 0 invisible on 2 servers
+2015-06-17 08:06:48	--	1 :channels formed
+2015-06-17 08:06:48	--	I have 6 clients and 1 servers
+2015-06-17 08:06:48	--	Current Local Users: 6  Max: 8
+2015-06-17 08:06:48	--	Current Global Users: 13  Max: 15
+2015-06-17 08:06:48	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-17 08:06:48	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-17 08:06:48	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-17 08:06:48	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-17 08:07:00	--	MSG(nickserv): identify ********
+2015-06-17 08:07:00	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-17 08:07:00	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.200)
+2015-06-17 08:07:00	--	User mode [+r] by NickServ
+2015-06-18 08:22:04	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-18 08:22:04	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-18 08:22:04	--	gnutls: receiving 1 certificate
+2015-06-18 08:22:04	--	 - certificate[1] info:
+2015-06-18 08:22:04	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-18 08:22:04	=!=	gnutls: certificate has expired
+2015-06-18 08:22:04	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-18 08:22:04	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-18 08:22:04	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-18 08:22:04	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-18 08:22:04	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.233) instead.
+2015-06-18 08:22:05	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-18 08:22:05	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.233
+2015-06-18 08:22:05	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-18 08:22:05	--	This server was created 10:57:20 Apr  3 2015
+2015-06-18 08:22:05	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-18 08:22:05	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-18 08:22:05	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-18 08:22:05	--	620AAAAAW :your unique ID
+2015-06-18 08:22:05	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-18 08:22:05	--	- ##############################################################
+2015-06-18 08:22:05	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-18 08:22:05	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-18 08:22:05	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-18 08:22:05	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-18 08:22:05	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- #############################################################
+2015-06-18 08:22:05	--	-             A Collaborative Space for DHTS Admins
+2015-06-18 08:22:05	--	- -------------------------------------------------------------
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- /nick <your_name>  # if not already set
+2015-06-18 08:22:05	--	- /msg nickserv register <password> <email>
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- You will need to use this password each time you login to use
+2015-06-18 08:22:05	--	- your nickname.
+2015-06-18 08:22:05	--	- /msg nickserv identify <password>
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- ------------------
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- -----------------
+2015-06-18 08:22:05	--	- All Users are dropped into #lobby upon login.
+2015-06-18 08:22:05	--	- To create a new channel:
+2015-06-18 08:22:05	--	- /join #channel-name
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- A handy use for this is if an incident requires group effort
+2015-06-18 08:22:05	--	- /join #INC12345
+2015-06-18 08:22:05	--	- /join #TASK31234
+2015-06-18 08:22:05	--	- /join #PROJECT
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- Invite others to the room by requesting help in #lobby
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- Teams may also have channels:
+2015-06-18 08:22:05	--	- #dhts-os
+2015-06-18 08:22:05	--	- #dhts-network
+2015-06-18 08:22:05	--	- #dhts-vmware
+2015-06-18 08:22:05	--	- #dhts-citrix
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- ============================================================
+2015-06-18 08:22:05	--	- IRC Web Access: https://vlp-dhtsirc.dhe.duke.edu:7778
+2015-06-18 08:22:05	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-18 08:22:05	--	- Command Line IRC Client: weechat, irssi
+2015-06-18 08:22:05	--	-
+2015-06-18 08:22:05	--	- ===========================================================
+2015-06-18 08:22:05	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-18 08:22:05	--	End of message of the day.
+2015-06-18 08:22:05	--	There are 12 users and 0 invisible on 2 servers
+2015-06-18 08:22:05	--	1 :channels formed
+2015-06-18 08:22:05	--	I have 5 clients and 1 servers
+2015-06-18 08:22:05	--	Current Local Users: 5  Max: 8
+2015-06-18 08:22:05	--	Current Global Users: 12  Max: 15
+2015-06-18 08:22:05	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-18 08:22:05	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-18 08:22:05	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-18 08:22:05	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-18 08:22:13	--	MSG(nickserv): identify ********
+2015-06-18 08:22:13	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-18 08:22:13	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.233)
+2015-06-18 08:22:13	--	User mode [+r] by NickServ
+2015-06-19 08:23:00	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-19 08:23:00	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-19 08:23:00	--	gnutls: receiving 1 certificate
+2015-06-19 08:23:00	--	 - certificate[1] info:
+2015-06-19 08:23:00	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-19 08:23:00	=!=	gnutls: certificate has expired
+2015-06-19 08:23:00	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-19 08:23:00	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-19 08:23:00	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-19 08:23:00	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-19 08:23:00	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.233) instead.
+2015-06-19 08:23:01	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-19 08:23:01	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.233
+2015-06-19 08:23:01	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-19 08:23:01	--	This server was created 10:57:20 Apr  3 2015
+2015-06-19 08:23:01	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-19 08:23:01	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-19 08:23:01	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-19 08:23:01	--	620AAAAA3 :your unique ID
+2015-06-19 08:23:01	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-19 08:23:01	--	- ##############################################################
+2015-06-19 08:23:01	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-19 08:23:01	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-19 08:23:01	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-19 08:23:01	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-19 08:23:01	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- #############################################################
+2015-06-19 08:23:01	--	-             A Collaborative Space for DHTS Admins
+2015-06-19 08:23:01	--	- -------------------------------------------------------------
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- /nick <your_name>  # if not already set
+2015-06-19 08:23:01	--	- /msg nickserv register <password> <email>
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- You will need to use this password each time you login to use
+2015-06-19 08:23:01	--	- your nickname.
+2015-06-19 08:23:01	--	- /msg nickserv identify <password>
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- ------------------
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- -----------------
+2015-06-19 08:23:01	--	- All Users are dropped into #lobby upon login.
+2015-06-19 08:23:01	--	- To create a new channel:
+2015-06-19 08:23:01	--	- /join #channel-name
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- A handy use for this is if an incident requires group effort
+2015-06-19 08:23:01	--	- /join #INC12345
+2015-06-19 08:23:01	--	- /join #TASK31234
+2015-06-19 08:23:01	--	- /join #PROJECT
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- Invite others to the room by requesting help in #lobby
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- Teams may also have channels:
+2015-06-19 08:23:01	--	- #dhts-os
+2015-06-19 08:23:01	--	- #dhts-network
+2015-06-19 08:23:01	--	- #dhts-vmware
+2015-06-19 08:23:01	--	- #dhts-citrix
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- ============================================================
+2015-06-19 08:23:01	--	- IRC Web Access: https://vlp-dhtsirc.dhe.duke.edu:7778
+2015-06-19 08:23:01	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-19 08:23:01	--	- Command Line IRC Client: weechat, irssi
+2015-06-19 08:23:01	--	-
+2015-06-19 08:23:01	--	- ===========================================================
+2015-06-19 08:23:01	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-19 08:23:01	--	End of message of the day.
+2015-06-19 08:23:01	--	There are 13 users and 0 invisible on 2 servers
+2015-06-19 08:23:01	--	1 :channels formed
+2015-06-19 08:23:01	--	I have 6 clients and 1 servers
+2015-06-19 08:23:01	--	Current Local Users: 6  Max: 8
+2015-06-19 08:23:01	--	Current Global Users: 13  Max: 15
+2015-06-19 08:23:01	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-19 08:23:01	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-19 08:23:01	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-19 08:23:01	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-19 08:23:06	--	MSG(nickserv): identify ********
+2015-06-19 08:23:06	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-19 08:23:06	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.233)
+2015-06-19 08:23:06	--	User mode [+r] by NickServ
+2015-06-29 08:17:56	--	irc: connecting to server vlp-dhtsirc.dhe.duke.edu/6667 (SSL)...
+2015-06-29 08:17:56	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2015-06-29 08:17:56	--	gnutls: receiving 1 certificate
+2015-06-29 08:17:56	--	 - certificate[1] info:
+2015-06-29 08:17:56	--	   - subject `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', issuer `C=US,ST=North Carolina,L=Durham,O=Duke,OU=DHTS,CN=vlp-dhtsirc.dhe.duke.edu', RSA key 2048 bits, signed using RSA-SHA1, activated `2015-04-29 17:26:05 UTC', expires `2015-05-29 17:26:05 UTC', SHA-1 fingerprint `5681ea71e67dc790cc1986cd45723132986f8a32'
+2015-06-29 08:17:56	=!=	gnutls: certificate has expired
+2015-06-29 08:17:56	=!=	gnutls: peer's certificate is NOT trusted
+2015-06-29 08:17:56	=!=	gnutls: peer's certificate issuer is unknown
+2015-06-29 08:17:56	--	irc: connected to vlp-dhtsirc.dhe.duke.edu/6667 (10.12.12.247)
+2015-06-29 08:17:56	--	vlp-dhtsirc.dhe.duke.edu: *** Looking up your hostname...
+2015-06-29 08:17:56	--	vlp-dhtsirc.dhe.duke.edu: *** Could not resolve your hostname: Domain name not found; using your IP address (10.14.255.237) instead.
+2015-06-29 08:17:57	--	vlp-dhtsirc.dhe.duke.edu: Welcome to DHTSIRC!
+2015-06-29 08:17:57	--	Welcome to the DHTSIRC IRC Network Stephen_Adams!tsa20@10.14.255.237
+2015-06-29 08:17:57	--	Your host is vlp-dhtsirc.dhe.duke.edu, running version InspIRCd-2.0
+2015-06-29 08:17:57	--	This server was created 10:57:20 Apr  3 2015
+2015-06-29 08:17:57	--	vlp-dhtsirc.dhe.duke.edu InspIRCd-2.0 BIRiorsw BHMNPRabfiklmnopqrstvw Habfkloqvw
+2015-06-29 08:17:57	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=bw,k,Hfl,BMNPRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,BNRU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-29 08:17:57	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=DHTSIRC NICKLEN=31 PREFIX=(qaov)~&@+ SSL=[::]:6667 STARTTLS STATUSMSG=~&@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+2015-06-29 08:17:57	--	620AAAACU :your unique ID
+2015-06-29 08:17:57	--	vlp-dhtsirc.dhe.duke.edu message of the day
+2015-06-29 08:17:57	--	- ##############################################################
+2015-06-29 08:17:57	--	-          ____  _   _ _____ ____       ___ ____   ____
+2015-06-29 08:17:57	--	-         |  _ \| | | |_   _/ ___|     |_ _|  _ \ / ___|
+2015-06-29 08:17:57	--	-         | | | | |_| | | | \___ \ _____| || |_) | |
+2015-06-29 08:17:57	--	-         | |_| |  _  | | |  ___) |_____| ||  _ <| |___
+2015-06-29 08:17:57	--	-         |____/|_| |_| |_| |____/     |___|_| \_\\____|
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- #############################################################
+2015-06-29 08:17:57	--	-             A Collaborative Space for DHTS Admins
+2015-06-29 08:17:57	--	- -------------------------------------------------------------
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- Upon Login, please register your nickname (ie. John_Doe)
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- /nick <your_name>  # if not already set
+2015-06-29 08:17:57	--	- /msg nickserv register <password> <email>
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- You will need to use this password each time you login to use
+2015-06-29 08:17:57	--	- your nickname.
+2015-06-29 08:17:57	--	- /msg nickserv identify <password>
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- ------------------
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- !! Logging is enabled and all chats are monitored !!
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- -----------------
+2015-06-29 08:17:57	--	- All Users are dropped into #lobby upon login.
+2015-06-29 08:17:57	--	- To create a new channel:
+2015-06-29 08:17:57	--	- /join #channel-name
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- A handy use for this is if an incident requires group effort
+2015-06-29 08:17:57	--	- /join #INC12345
+2015-06-29 08:17:57	--	- /join #TASK31234
+2015-06-29 08:17:57	--	- /join #PROJECT
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- Invite others to the room by requesting help in #lobby
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- Teams may also have channels:
+2015-06-29 08:17:57	--	- #dhts-os
+2015-06-29 08:17:57	--	- #dhts-network
+2015-06-29 08:17:57	--	- #dhts-vmware
+2015-06-29 08:17:57	--	- #dhts-citrix
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- ============================================================
+2015-06-29 08:17:57	--	- IRC Web Access: https://vlp-dhtsirc.dhe.duke.edu:7778
+2015-06-29 08:17:57	--	- IRC Clients: mIRC, XChat, HexChat
+2015-06-29 08:17:57	--	- Command Line IRC Client: weechat, irssi
+2015-06-29 08:17:57	--	-
+2015-06-29 08:17:57	--	- ===========================================================
+2015-06-29 08:17:57	--	- For help, contact Stephen Adams <stephen.adams@dm.duke.edu>
+2015-06-29 08:17:57	--	End of message of the day.
+2015-06-29 08:17:57	--	There are 11 users and 0 invisible on 2 servers
+2015-06-29 08:17:57	--	1 :channels formed
+2015-06-29 08:17:57	--	I have 4 clients and 1 servers
+2015-06-29 08:17:57	--	Current Local Users: 4  Max: 8
+2015-06-29 08:17:57	--	Current Global Users: 11  Max: 15
+2015-06-29 08:17:57	--	vlp-dhtsirc.dhe.duke.edu: *** You are connected using SSL cipher "RSA-AES-128-CBC-SHA1"
+2015-06-29 08:17:57	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): This nickname is registered and protected.  If it is your
+2015-06-29 08:17:57	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-29 08:17:57	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): please choose a different nick.
+2015-06-29 08:18:07	--	MSG(nickserv): identify ********
+2015-06-29 08:18:07	--	NickServ (services@services.vlp-dhtsirc.dhe.duke.edu): Password accepted - you are now recognized.
+2015-06-29 08:18:07	--	You are now logged in as Stephen_Adams (Stephen_Adams!tsa20@10.14.255.237)
+2015-06-29 08:18:07	--	User mode [+r] by NickServ

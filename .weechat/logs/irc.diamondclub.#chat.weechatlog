@@ -1,0 +1,1312 @@
+2015-05-28 08:21:14	-->	stevehnh (tsa20@net-5mbrno.qp5s.d6ei.0000.2620.IP) has joined #chat
+2015-05-28 08:21:14	--	Topic for #chat is "<> | When's a show? Type "!schedule" | TWiT Refugees: http://redd.it/37e16x | Suggest & Vote for show titles: http://showbot.tv | Calendar: http://bit.ly/dctvshows | http://diamondclub.tv | Unless I happen to lie"
+2015-05-28 08:21:14	--	Topic set by neshcom (brycas_@net-41l9on.ia5h.q9i2.6000.2605.IP) on Wed, 27 May 2015 19:18:46
+2015-05-28 08:21:14	--	Channel #chat: 148 nicks (3 ops, 0 halfops, 4 voices, 141 normals)
+2015-05-28 08:21:14	--	Notice(usw.chatrealm.net): Replaying up to 10 lines of pre-join history spanning up to 60 seconds
+2015-05-28 08:21:17	--	Channel created on Tue, 18 Nov 2014 23:15:42
+2015-05-28 08:25:16	-->	GMcCourt_MB (GMcCourt_MB@net-am0n09.biz.rr.com) has joined #chat
+2015-05-28 08:29:17	-->	tomgehrke (quassel@net-mpj99g.res.rr.com) has joined #chat
+2015-05-28 08:29:17	--	Mode #chat [+o tomgehrke] by ChanServ
+2015-05-28 08:33:37	-->	jell_ (quassel@net-rh02aj.8nge.uchu.6000.2606.IP) has joined #chat
+2015-05-28 08:34:19	-->	Echelon (ryan@net-fbo3q4.fuzzyconcepts.net) has joined #chat
+2015-05-28 08:35:34	<--	jell (quassel@net-rh02aj.8nge.uchu.6000.2606.IP) has quit (Ping timeout: 121 seconds)
+2015-05-28 08:35:53	-->	SAJ (SAJewers@net-otka97.ns.bellaliant.net) has joined #chat
+2015-05-28 08:36:10	<--	GMcCourt_MB (GMcCourt_MB@net-am0n09.biz.rr.com) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2015-05-28 08:36:51	<--	TVsEgon (Greg@net-c60i0j.ph.cox.net) has quit (Quit: Leaving)
+2015-05-28 08:51:46	Zach	I got a raise yesterday.
+2015-05-28 08:52:26	Zach	Surprising at how much they gave me. But they had to raise me up since they're raising the min. wage here in a few months anyways.
+2015-05-28 08:54:44	<--	GMeola (GMeola@net-27n.igb.185.199.IP) has quit (Quit: This computer has gone to sleep)
+2015-05-28 08:55:19	-->	Robby_ (Robby@net-plvhkk.dhcp.embarqhsd.net) has joined #chat
+2015-05-28 08:58:14	-->	web_54703 (web_54703@net-n12.09b.7.24.IP) has joined #chat
+2015-05-28 08:58:21	<--	Robby (Robby@net-plvhkk.dhcp.embarqhsd.net) has quit (Ping timeout: 121 seconds)
+2015-05-28 09:01:25	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 09:03:56	+SgtMuffin	Zach: happy to hear that!
+2015-05-28 09:04:42	-->	shn (shn@net-h24g5b.internode.on.net) has joined #chat
+2015-05-28 09:05:01	<--	donaldkelly (DonaldK@net-c7711h.phnx.qwest.net) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2015-05-28 09:05:11	Zach	They are raising the minimum wage from 8-9, and they basically raised me double that difference.
+2015-05-28 09:05:14	-->	SpecsMcGee (specs@net-vvuh61.ga.comcast.net) has joined #chat
+2015-05-28 09:08:29	+SgtMuffin	Every penny counts, even a quarter raise for full time is $520 over a year
+2015-05-28 09:13:35	-->	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has joined #chat
+2015-05-28 09:13:41	+SgtMuffin	Hah that Ben guy that was in #chat last night constantly switching from ben to guest(xxxxx) and vice versa has been in drama doing that for the past several hours.
+2015-05-28 09:18:04	-->	Hackingamer (Hackingamer@net-dd417a.mi.charter.com) has joined #chat
+2015-05-28 09:19:32	SpecsMcGee	wow. such drama
+2015-05-28 09:21:08	<--	dctv_26995 (dctv_26995@net-r57i61.range86-138.btcentralplus.com) has quit (Quit: Quit)
+2015-05-28 09:25:35	-->	wigglesgrn (Wiggles@net-jlaeqs.cable.virginm.net) has joined #chat
+2015-05-28 09:25:35	--	wigglesgrn is now known as Wigglesgrn
+2015-05-28 09:28:50	~t2t2	ugh so all the alarms yesterday was over a person having a misconfigured client? >.>
+2015-05-28 09:33:07	<--	scotth (textual@net-r3ug0o.mi.charter.com) has quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+2015-05-28 09:33:23	~t2t2	double ugh doing a kline would require me to update the configuration to allow an ssh tunnel or something
+2015-05-28 09:34:54	shn	leave it. its making the channel look busy
+2015-05-28 09:35:34	-->	squishy (chatzilla@net-dn9bml.evn.ngl.ninja) has joined #chat
+2015-05-28 09:37:49	BruceS	well its driving all us dramatists away, amybe a good thing
+2015-05-28 09:38:06	Zach	new activity! *looks* oh. right.
+2015-05-28 09:44:08	<--	Hackingamer (Hackingamer@net-dd417a.mi.charter.com) has quit (Quit: Leaving)
+2015-05-28 09:44:20	-->	Hackingamer (Hackingamer@net-dd417a.mi.charter.com) has joined #chat
+2015-05-28 09:44:56	-->	cracker64 (cracker64@net-kgdecq.dyn.suddenlink.net) has joined #chat
+2015-05-28 09:45:39	-->	ToddWhitehead (ToddWhitehe@net-3qqmkh.ph.cox.net) has joined #chat
+2015-05-28 09:45:39	--	Mode #chat [+v ToddWhitehead] by ChanServ
+2015-05-28 09:46:54	-->	W0196783 (SAJewers@net-otka97.ns.bellaliant.net) has joined #chat
+2015-05-28 09:48:43	<--	SAJ (SAJewers@net-otka97.ns.bellaliant.net) has quit (Ping timeout: 121 seconds)
+2015-05-28 09:59:56	 *	tinnvec peeks in
+2015-05-28 09:59:59	@tinnvec	oO
+2015-05-28 10:07:09	-->	deko_polis (deko_polis@net-86l.3mi.64.216.IP) has joined #chat
+2015-05-28 10:08:57	-->	iSting (iSting@net-4s4q4f.vn3q.0jlt.fb90.2607.IP) has joined #chat
+2015-05-28 10:11:06	<--	deko_polis_ (deko_polis@net-uog3sr.iatmgu.com) has quit (Ping timeout: 121 seconds)
+2015-05-28 10:12:52	<--	shn (shn@net-h24g5b.internode.on.net) has quit (Quit: This computer has gone to sleep)
+2015-05-28 10:14:02	-->	Jester (Jester@net-ubog2q.biz.rr.com) has joined #chat
+2015-05-28 10:24:18	-->	Sean (Sean@net-ah8fqe.cable.rcn.com) has joined #chat
+2015-05-28 10:26:48	-->	GMeola (GMeola@net-gf489j.sta.embarqhsd.net) has joined #chat
+2015-05-28 10:26:56	-->	ErikaG (Adium@net-as51b1.l1ui.322l.a601.2605.IP) has joined #chat
+2015-05-28 10:30:12	-->	unfed (unfed@net-lg7kos.PUBLIC.monkeybrains.net) has joined #chat
+2015-05-28 10:30:48	<--	Virtual__ (Virtual@net-im1v65.waterford.eircom.net) has quit (Ping timeout: 121 seconds)
+2015-05-28 10:31:06	<--	GMeola (GMeola@net-gf489j.sta.embarqhsd.net) has quit (Ping timeout: 121 seconds)
+2015-05-28 10:31:18	-->	GMeola (GMeola@net-gf489j.sta.embarqhsd.net) has joined #chat
+2015-05-28 10:35:30	-->	mek (mek4321@net-l2so2r.east.verizon.net) has joined #chat
+2015-05-28 10:38:21	-->	sebgonz (quassel@net-iblrc6.hfc.comcastbusiness.net) has joined #chat
+2015-05-28 10:38:21	--	Mode #chat [+o sebgonz] by ChanServ
+2015-05-28 10:38:33	@sebgonz	My #boiled shirt fits okay.
+2015-05-28 10:38:33	dctvbot	 BBBBBOOOOOIIILLLED!! 
+2015-05-28 10:38:54	@tinnvec	lol
+2015-05-28 10:40:05	-->	web_94573 (web_94573@net-tiqaa4.mci.googlefiber.net) has joined #chat
+2015-05-28 10:41:09	<--	web_94573 (web_94573@net-tiqaa4.mci.googlefiber.net) has left #chat
+2015-05-28 10:46:33	<--	LauRoman|Alt (LauRoman@net-k607he.residential.rdsnet.ro) has quit (Quit: Leaving)
+2015-05-28 10:46:48	<--	andrei (andreiu@net-ahe.a62.149.49.IP) has quit (Connection closed)
+2015-05-28 10:47:27	mek	get ready https://www.youtube.com/watch?v=WvyaURnDvp0
+2015-05-28 10:48:49	@tomgehrke	i am unprepared
+2015-05-28 10:49:40	mek	hopefully that will be an actual stream of the movie and not just them talking about it
+2015-05-28 10:50:45	@tomgehrke	i ran into that yesterday with another video. instead of the think i wanted to see it was some sweaty dude watching the thing i wanted to see. :/
+2015-05-28 10:50:55	@tomgehrke	think = thing
+2015-05-28 10:51:02	<--	MAD_JIHAD (MAD_JIHAD@net-ombvnv.gv.shawcable.net) has quit (Connection closed)
+2015-05-28 10:51:15	mek	lol
+2015-05-28 10:51:45	mek	sorry about that i though i made that video privately listed
+2015-05-28 10:52:22	@tomgehrke	i have my ways of getting to your privates
+2015-05-28 10:52:37	mek	o and that reminds me when will danger5 season 2 be on hulu, cant wait for that
+2015-05-28 10:53:08	<--	dctvbot (dctvbot@net-28gcmd.50ef.ca94.0180.2604.IP) has quit (Client exited)
+2015-05-28 10:53:10	-->	dctvbot (dctvbot@net-28gcmd.50ef.ca94.0180.2604.IP) has joined #chat
+2015-05-28 10:53:43	@tomgehrke	i need to watch season 1 still. so you recommend?
+2015-05-28 10:53:57	@tinnvec	new dctvbot, now with more jennie annoyance!
+2015-05-28 10:54:43	mek	i liked it, its crazy and cheesy on purpose
+2015-05-28 10:55:22	<--	Biocow (Biocow@net-nia.prd.77.209.IP) has quit (Quit: Quit)
+2015-05-28 10:55:27	-->	Biocow (Biocow@net-nia.prd.77.209.IP) has joined #chat
+2015-05-28 10:55:44	@tomgehrke	i'll watch and blame you accordingly. you know... just like always.
+2015-05-28 10:56:09	mek	sounds like a plan
+2015-05-28 10:56:29	dctvbot	Frogpants Studios is  LIVE  on Channel 2 - http://diamondclub.tv/#2 
+2015-05-28 10:56:42	mek	i just logged into hulu for the first time in ages, looks like they have a lot of new stuff and a few new networks like cartoon network and nickelodean
+2015-05-28 10:56:42	<--	GMeola (GMeola@net-gf489j.sta.embarqhsd.net) has quit (Quit: This computer has gone to sleep)
+2015-05-28 10:56:56	-->	CurtisB (curtisboyle@net-stfjg6.sasknet.sk.ca) has joined #chat
+2015-05-28 10:57:24	<--	CurtisB (curtisboyle@net-stfjg6.sasknet.sk.ca) has quit (Connection closed)
+2015-05-28 10:57:25	@tomgehrke	i do most of my "current tv" watching via hulu
+2015-05-28 10:57:36	-->	CurtisB (curtisboyle@net-stfjg6.sasknet.sk.ca) has joined #chat
+2015-05-28 10:58:35	<--	web_54703 (web_54703@net-n12.09b.7.24.IP) has quit (Quit: Quit)
+2015-05-28 10:58:54	mek	ive been watching way to much random youtube stuff, my dvr is way overloaded with stuff i need to watch and my hulu queue is packed with anime i need to watch
+2015-05-28 10:59:47	-->	web_54703 (web_54703@net-n12.09b.7.24.IP) has joined #chat
+2015-05-28 11:00:03	-->	GMcCourt_MB (GMcCourt_MB@net-am0n09.biz.rr.com) has joined #chat
+2015-05-28 11:00:32	mek	ooo hulu has a cable providor thing now lets see what this does
+2015-05-28 11:01:34	-->	LauRoman|Alt (LauRoman@net-k607he.residential.rdsnet.ro) has joined #chat
+2015-05-28 11:01:53	@tomgehrke	DON'T DO IT!!!
+2015-05-28 11:02:16	-->	James_mo (James_mo@net-d6f.4pp.82.208.IP) has joined #chat
+2015-05-28 11:03:01	James_mo	!next
+2015-05-28 11:03:01	dctvbot	Next scheduled show: DTNS (5 hours, 26 minutes, 58 seconds)
+2015-05-28 11:04:06	Strengths	that's odd, http://diamondclub.tv/#2 is blank for me, is there a direct youtube or twitch link to Scott Johnson live?
+2015-05-28 11:04:06	@tomgehrke	i'll have to go update the wiki now... "mek's final words were 'now lets see what this does'"
+2015-05-28 11:04:54	@tinnvec	Strengths: http://frogpants.com/the-frogpants-live-stream/
+2015-05-28 11:05:00	@tinnvec	though you may just have to refresh
+2015-05-28 11:05:33	@tomgehrke	didn't work for me either. clicked on channel 2 in the sidebar and it came right up.
+2015-05-28 11:05:42	Strengths	thanks tinnvec. It may be some third party blocking in my browser that I can't be bothered finding a setting for
+2015-05-28 11:05:54	@tinnvec	lol
+2015-05-28 11:06:11	@tinnvec	scott started then restarted the stream this morning, so that may have thrown a wrench into things
+2015-05-28 11:06:46	@tomgehrke	clicking the link from chat results in a <>.tv page that does nothing. it's not just Strengths 
+2015-05-28 11:06:53	mek	it says Watch More With Your Pay TV Provider but i dont see anything different
+2015-05-28 11:06:53	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 11:07:09	<--	James_mo (James_mo@net-d6f.4pp.82.208.IP) has quit (Quit: Quit)
+2015-05-28 11:07:13	@tinnvec	hmmmm interesting tomgehrke. Did SgtMuffin change url things?
+2015-05-28 11:07:39	-->	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has joined #chat
+2015-05-28 11:07:40	 *	Strengths wonders where the twitch option for a lower bandwidth stream is.. I usually see "Mobile" on OMGChad's twitch, which I need being in Australia :/
+2015-05-28 11:08:09	@tomgehrke	no clue. i'm not in the loop on... well... anything.
+2015-05-28 11:08:26	@tinnvec	I don't know that one, Strengths, I rarely see any options for bandwidth on twitch streams
+2015-05-28 11:08:52	@tinnvec	I don't think they do multiple qualitites for streams unless you're in top 1% of viewers or soemthing
+2015-05-28 11:08:59	Strengths	this just proves once more how superior to the rest of us OMGChad is :)
+2015-05-28 11:10:06	-->	GMeola (GMeola@net-gf489j.sta.embarqhsd.net) has joined #chat
+2015-05-28 11:10:13	<--	GMeola (GMeola@net-gf489j.sta.embarqhsd.net) has quit (Connection closed)
+2015-05-28 11:10:45	-->	juanabos (Adium@net-6cmnd5.slkc.qwest.net) has joined #chat
+2015-05-28 11:10:48	@tomgehrke	once again i've achieved my tms quota for the month
+2015-05-28 11:10:49	-->	andrei (andreiu@net-ahe.a62.149.49.IP) has joined #chat
+2015-05-28 11:13:06	+SgtMuffin	Ooops that may have been me
+2015-05-28 11:13:10	+SgtMuffin	I was tweaking it last night
+2015-05-28 11:13:18	@tinnvec	no worries heh
+2015-05-28 11:13:55	+SgtMuffin	easy fix it just needs an ! in there
+2015-05-28 11:14:08	@tinnvec	oh my or your side?
+2015-05-28 11:14:12	@tinnvec	*on
+2015-05-28 11:14:18	+SgtMuffin	server
+2015-05-28 11:14:21	@tinnvec	ah k
+2015-05-28 11:15:55	<--	RJ_Lan (chatrealm@net-3e8m6f.try.wideopenwest.com) has quit (Quit: ZNC - http://znc.in)
+2015-05-28 11:16:06	+SgtMuffin	fixed
+2015-05-28 11:16:18	@tomgehrke	confirmed
+2015-05-28 11:16:24	<--	belenos (belenos@net-8s2.feb.98.177.IP) has quit (Client exited)
+2015-05-28 11:16:25	@tinnvec	noice
+2015-05-28 11:16:25	@tomgehrke	thanks for reporting the problem, Strengths 
+2015-05-28 11:17:30	+SgtMuffin	He gets a DCTV fun buck, worth $0.00001
+2015-05-28 11:17:45	juanabos	at least it's worth more than a brian buck
+2015-05-28 11:17:46	Strengths	tomgehrke: no prob, I also may have drawn in more viewers to TMS by asking people on another network to test the stream :)
+2015-05-28 11:24:34	<--	heleen (web65314@net-kjqlp0.dynamic.upc.nl) has quit (Quit: Quit)
+2015-05-28 11:25:41	<--	iSting (iSting@net-4s4q4f.vn3q.0jlt.fb90.2607.IP) has quit (Quit: Bye)
+2015-05-28 11:26:19	@tinnvec	wheeee, I get to learn CRM today
+2015-05-28 11:26:57	-->	squishy_ (squishy@net-ojl.hl7.89.65.IP) has joined #chat
+2015-05-28 11:27:36	-->	Syliss (Syliss@net-6fstac.digitalpath.net) has joined #chat
+2015-05-28 11:29:22	-->	EmpireSteve (EmpireSteve@net-fbc22k.cable.virginm.net) has joined #chat
+2015-05-28 11:33:44	<--	GMcCourt_MB (GMcCourt_MB@net-am0n09.biz.rr.com) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2015-05-28 11:33:46	-->	SpringRubberPC (Springy@net-bbkv4e.chcgil.sbcglobal.net) has joined #chat
+2015-05-28 11:34:34	<--	SpringRubber (Springy@net-bbkv4e.chcgil.sbcglobal.net) has quit (Ping timeout: 121 seconds)
+2015-05-28 11:34:42	--	SpringRubberPC is now known as SpringRubber
+2015-05-28 11:35:01	<--	Jester (Jester@net-ubog2q.biz.rr.com) has quit (Quit: Leaving)
+2015-05-28 11:35:58	-->	squishyO (chatzilla@net-ojl.hl7.89.65.IP) has joined #chat
+2015-05-28 11:37:33	<--	unfed (unfed@net-lg7kos.PUBLIC.monkeybrains.net) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2015-05-28 11:40:49	<--	jurjenLap (jurjen@net-hdis56.o9jn.fcts.0b70.2a02.IP) has quit (Quit: Leaving)
+2015-05-28 11:43:05	<--	squishy_ (squishy@net-ojl.hl7.89.65.IP) has quit (Ping timeout: 121 seconds)
+2015-05-28 11:43:50	@tinnvec	uggggggg
+2015-05-28 11:44:16	@tinnvec	does anyone write more dry and boring tutorials than microsoft?
+2015-05-28 11:44:37	@tinnvec	or documentation, whatever you want to call it
+2015-05-28 11:45:20	@tinnvec	My mind keeps wandering, so I've reread this page about 12 times
+2015-05-28 11:45:28	-->	unfed (unfed@net-3s8fo2.ca.comcast.net) has joined #chat
+2015-05-28 11:46:03	Janisku7	hi tinnvec 
+2015-05-28 11:46:11	@tomgehrke	just keep typing in chat. it'll totally help. :)
+2015-05-28 11:46:16	@tomgehrke	hey, Janisku7 
+2015-05-28 11:46:21	@tinnvec	howdy Janisku7
+2015-05-28 11:46:25	@tinnvec	lol totally, tomgehrke
+2015-05-28 11:47:00	Janisku7	https://instagram.com/p/3OEvtySBZc/
+2015-05-28 11:47:03	@tomgehrke	need to make a coffee run before IO
+2015-05-28 11:47:03	Janisku7	hi tomgehrke 
+2015-05-28 11:48:03	@tinnvec	oh ya what time does that start?
+2015-05-28 11:48:09	@tinnvec	haha nice Janisku7
+2015-05-28 11:48:31	@tinnvec	Thor's Day is the actual origin of "Thursday"
+2015-05-28 11:48:40	@tomgehrke	in 41 minutes
+2015-05-28 11:48:41	@tomgehrke	https://events.google.com/io2015/
+2015-05-28 11:48:52	-->	downclimb (johnson@net-n29bn1.resnet.colorado.edu) has joined #chat
+2015-05-28 11:48:54	Janisku7	tinnvec: you see my viking look
+2015-05-28 11:49:15	@tinnvec	lol yeah
+2015-05-28 11:50:33	-->	eean (quassel@net-3qdu6p.ca.comcast.net) has joined #chat
+2015-05-28 11:50:45	-->	HuskyCaucasian (HuskyCaucas@net-jntfph.healthcare.uiowa.edu) has joined #chat
+2015-05-28 11:50:45	-->	web82818 (web82818@net-himp6e.tn.charter.com) has joined #chat
+2015-05-28 11:51:05	--	eean is now known as Guest18995
+2015-05-28 11:51:30	<--	web82818 (web82818@net-himp6e.tn.charter.com) has quit (Quit: Quit)
+2015-05-28 11:51:33	@tinnvec	well since they're only streaming 2/3 per timeslot, I've got my work cut out for me
+2015-05-28 11:51:45	-->	KenFromChicago (Ken@net-krs.4he.211.108.IP) has joined #chat
+2015-05-28 11:52:14	KenFromChicago	so will Tom livestreaming Google I/O?
+2015-05-28 11:52:37	@tomgehrke	!next
+2015-05-28 11:52:37	dctvbot	Next scheduled show: DTNS (4 hours, 37 minutes, 22 seconds)
+2015-05-28 11:52:45	@tomgehrke	dont think so.
+2015-05-28 11:53:04	@tinnvec	if he does it'll be an unscheduled thing
+2015-05-28 11:53:07	@tomgehrke	unless it just didn't get put in the calendar
+2015-05-28 11:53:11	HuskyCaucasian	morning all
+2015-05-28 11:53:16	@tinnvec	morning HuskyCaucasian
+2015-05-28 11:53:18	@tomgehrke	heya, HuskyCaucasian 
+2015-05-28 11:53:21	@tomgehrke	and KenFromChicago 
+2015-05-28 11:53:24	KenFromChicago	hi tomgehrke 
+2015-05-28 11:53:29	KenFromChicago	hi tinnvec 
+2015-05-28 11:53:36	KenFromChicago	hi HuskyCaucasian 
+2015-05-28 11:53:47	Janisku7	tomgehrke: you will do google io
+2015-05-28 11:53:59	KenFromChicago	hi Janisku7 
+2015-05-28 11:54:01	@tomgehrke	i'll do all the googles
+2015-05-28 11:54:11	KenFromChicago	i'm waiting for NEW Google Glass!
+2015-05-28 11:54:26	@tomgehrke	dunno about that one...
+2015-05-28 11:54:38	@tomgehrke	but who knows?
+2015-05-28 11:54:46	@tomgehrke	OK. really running for coffee. brb.
+2015-05-28 11:55:17	<--	KenFromChicago (Ken@net-krs.4he.211.108.IP) has quit (Quit: Leaving)
+2015-05-28 11:56:50	-->	GMcCourt_MB (GMcCourt_MB@net-am0n09.biz.rr.com) has joined #chat
+2015-05-28 12:00:01	-->	RJ_Lan (chatrealm@net-3e8m6f.try.wideopenwest.com) has joined #chat
+2015-05-28 12:01:34	HuskyCaucasian	Google always streams Google IO. I havent seena  link yet
+2015-05-28 12:02:36	@tinnvec	https://events.google.com/io2015/
+2015-05-28 12:02:41	Janisku7	well tomgehrke shared the link earlier
+2015-05-28 12:03:33	-->	jccalhoun (root@net-ft2ddf.res.rr.com) has joined #chat
+2015-05-28 12:04:45	-->	curtislaraque (320c1b53@net-ecr9e2.mibbit.com) has joined #chat
+2015-05-28 12:07:22	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 12:07:30	jccalhoun	any place doing live commentary of google io?
+2015-05-28 12:07:48	-->	Tenky (Tenky@net-cad2jq.mc.videotron.ca) has joined #chat
+2015-05-28 12:08:04	Janisku7	hi tenky
+2015-05-28 12:08:12	b1ackdeath	jccalhoun: not here i don't think
+2015-05-28 12:08:14	Tenky	hello!
+2015-05-28 12:09:08	jccalhoun	just turned on that other place and saw some real professional work... so i'm looking for another one to watch
+2015-05-28 12:09:15	@tomgehrke	...and i'm back
+2015-05-28 12:09:17	-->	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has joined #chat
+2015-05-28 12:09:51	-->	CdrMarks (CdrMarks@net-vu9.aq6.79.64.IP) has joined #chat
+2015-05-28 12:09:52	Tenky	you are!
+2015-05-28 12:10:18	@tomgehrke	how did you know?! :o
+2015-05-28 12:10:28	Tenky	something something intuition... :o
+2015-05-28 12:10:42	jccalhoun	how could this have been done???
+2015-05-28 12:10:58	@tomgehrke	dun dun DUNNNNN
+2015-05-28 12:11:17	-->	GMeola (GMeola@net-rro.igb.185.199.IP) has joined #chat
+2015-05-28 12:11:33	@tomgehrke	so there's no live commentary, but i'll be glad to give a running commentary in here if people like. ;)
+2015-05-28 12:11:44	@tomgehrke	or i could periscope my reactions
+2015-05-28 12:11:50	@tomgehrke	O.o
+2015-05-28 12:11:52	@tomgehrke	:o
+2015-05-28 12:11:53	@tomgehrke	:D
+2015-05-28 12:11:55	@tomgehrke	D:
+2015-05-28 12:11:55	Biocow	Hey everyone! Whats happening? How's everyone this morning? What are you all up to? Everyone sleep well? What are you up to today?
+2015-05-28 12:11:57	@tinnvec	yeah, I'm sure most of us will be watching the live stream and being snarky
+2015-05-28 12:12:12	@tinnvec	GOOD MORNING BIOCOW!!!
+2015-05-28 12:12:17	jccalhoun	so much back tracking....
+2015-05-28 12:12:18	@tinnvec	HOW ARE YOU???
+2015-05-28 12:12:29	@tomgehrke	yo, Biocow 
+2015-05-28 12:13:16	Biocow	I'm great! Thanks for asking!
+2015-05-28 12:13:21	Biocow	Yo!
+2015-05-28 12:14:00	CdrMarks	!schedule
+2015-05-28 12:14:15	CdrMarks	Is anyone doing Google IO coverage?
+2015-05-28 12:14:23	@tinnvec	lol
+2015-05-28 12:14:28	@tinnvec	we were just talking abotu that
+2015-05-28 12:14:34	@tinnvec	so far, chatrealm is
+2015-05-28 12:14:50	@tomgehrke	we're crowdsourcing it
+2015-05-28 12:15:07	CdrMarks	I scrolled up to see, but couldn't see for sure.
+2015-05-28 12:15:51	jccalhoun	well there is some place else talking about himself while the io stream is on in the background....
+2015-05-28 12:16:08	HuskyCaucasian	doing my best Scottie accent: "There be whales here!" http://live.theverge.com/google-io-liveblog-2015-android-photos-sundar-pichai/?_ga=1.1812082.254748775.1429840332#/entry/70967/48000
+2015-05-28 12:16:17	CdrMarks	Did anyone see the game of pong on the stream earlier?
+2015-05-28 12:17:00	CdrMarks	Magically they start playing again
+2015-05-28 12:17:08	@tomgehrke	transparent aluminum wut?
+2015-05-28 12:17:31	-->	AfterHours (AfterHours@net-ettj0v.cicril.sbcglobal.net) has joined #chat
+2015-05-28 12:17:35	-->	Travis (quassel@net-a4g.u9p.12.12.IP) has joined #chat
+2015-05-28 12:17:41	 *	Travis waves
+2015-05-28 12:17:58	 *	tomgehrke waves back
+2015-05-28 12:18:13	Travis	how goes it today, gang?
+2015-05-28 12:19:03	Biocow	hey Travis
+2015-05-28 12:19:32	@tomgehrke	we're getting ready to #chat up google io
+2015-05-28 12:19:33	Travis	hey hey, Biocow
+2015-05-28 12:19:41	Travis	OMG IS IT I/O TIME!?
+2015-05-28 12:19:51	Travis	I am SO behind on everything
+2015-05-28 12:19:52	@tomgehrke	10 mintues
+2015-05-28 12:19:59	Travis	EEEEEEEE!!!!
+2015-05-28 12:20:11	Biocow	wut R they announcing this year?
+2015-05-28 12:20:14	CdrMarks	IO Minutes
+2015-05-28 12:20:18	Travis	wait... I/O on a Thursday? Weird.
+2015-05-28 12:20:18	@tomgehrke	CdrMarks: nice
+2015-05-28 12:20:31	@tomgehrke	Biocow: all the things
+2015-05-28 12:20:31	Biocow	NERD!
+2015-05-28 12:20:34	<--	Guest18995 (quassel@net-3qdu6p.ca.comcast.net) has quit (Ping timeout: 121 seconds)
+2015-05-28 12:21:11	CdrMarks	Never missed a beat
+2015-05-28 12:21:26	@tomgehrke	https://twitter.com/dannysullivan/status/603958962929565696
+2015-05-28 12:23:15	-->	T (quassel@net-a4g.u9p.12.12.IP) has joined #chat
+2015-05-28 12:23:34	T	Come on new Nexus 5! Travis news a new phone!
+2015-05-28 12:24:12	T	needs
+2015-05-28 12:24:12	T	what the hell is with my typing as of late?
+2015-05-28 12:25:23	Biocow	I know, i'v ben making a ll kinds of tuypos latel
+2015-05-28 12:25:26	Biocow	y
+2015-05-28 12:25:57	<--	GMcCourt_MB (GMcCourt_MB@net-am0n09.biz.rr.com) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2015-05-28 12:26:07	<--	Travis (quassel@net-a4g.u9p.12.12.IP) has quit (Ping timeout: 121 seconds)
+2015-05-28 12:26:11	 *	Biocow whispers "I think the keyboards are fighting back"
+2015-05-28 12:26:59	-->	GMcCourt_MB (GMcCourt_MB@net-am0n09.biz.rr.com) has joined #chat
+2015-05-28 12:27:23	<--	juanabos (Adium@net-6cmnd5.slkc.qwest.net) has quit (Quit: Leaving.)
+2015-05-28 12:27:25	-->	MAD_JIHAD (MAD_JIHAD@net-ombvnv.gv.shawcable.net) has joined #chat
+2015-05-28 12:27:35	@tomgehrke	t-2 minutes and 30 seconds
+2015-05-28 12:27:44	Tenky	Biocow: Mon dieu! Mon clavier ne me laisse tapper qu'en français! :o
+2015-05-28 12:27:56	T	Well, I didn't plan on getting any work done this afternoon anyway...
+2015-05-28 12:29:00	@tomgehrke	ONE F$^#@# MINUTE, PEOPLE!!!
+2015-05-28 12:29:27	Biocow	think it'll play on my ipad?
+2015-05-28 12:29:31	Biocow	i am using chrome
+2015-05-28 12:29:38	<--	curtislaraque (320c1b53@net-ecr9e2.mibbit.com) has quit (Quit: http://www.mibbit.com ajax IRC Client)
+2015-05-28 12:29:43	-->	curtislaraque (320c1b53@net-ecr9e2.mibbit.com) has joined #chat
+2015-05-28 12:29:52	Biocow	guess i'll find out in 10 seconds
+2015-05-28 12:29:53	@tomgehrke	unlike apple, google won't block non-google browsers
+2015-05-28 12:30:02	T	Sure you could watch it through the YouTube app
+2015-05-28 12:30:41	<--	curtislaraque (320c1b53@net-ecr9e2.mibbit.com) has quit (Quit: http://www.mibbit.com ajax IRC Client)
+2015-05-28 12:30:43	Janisku7	I can even cast it 
+2015-05-28 12:30:57	-->	curtislaraque (320c1b53@net-okdtpc.mibbit.com) has joined #chat
+2015-05-28 12:32:09	@tomgehrke	why are they playing pong in the back of the room?
+2015-05-28 12:32:14	@tomgehrke	middle of the room
+2015-05-28 12:32:32	@tomgehrke	"hey, guys. we have these two seats, but you have to play pong during the show."
+2015-05-28 12:32:39	Janisku7	they are playing it because you dont have to
+2015-05-28 12:32:49	@tomgehrke	ooooh...
+2015-05-28 12:33:19	T	okay! going to my desk to watch. bother y'all tonight!
+2015-05-28 12:33:24	<--	T (quassel@net-a4g.u9p.12.12.IP) has quit (Connection closed)
+2015-05-28 12:33:25	@tomgehrke	later, T!
+2015-05-28 12:33:26	@tomgehrke	doh
+2015-05-28 12:33:26	<--	jell_ (quassel@net-rh02aj.8nge.uchu.6000.2606.IP) has quit (Connection closed)
+2015-05-28 12:34:01	@tinnvec	wow, that's a big pong game
+2015-05-28 12:34:09	dctvbot	Google I/O is  LIVE  on Channel 1 - http://diamondclub.tv/#1 
+2015-05-28 12:34:11	@tomgehrke	ok... the wrap-around-pong is pretty bad ass
+2015-05-28 12:34:14	@tomgehrke	i mean... for pong
+2015-05-28 12:34:26	@tinnvec	oh brilliant, did you help that, tomgehrke
+2015-05-28 12:34:39	@tomgehrke	nope. i'm guessing SgtMuffin 
+2015-05-28 12:34:43	@tinnvec	yay!
+2015-05-28 12:34:48	+SgtMuffin	:)
+2015-05-28 12:34:51	-->	AlexC (AlexC@net-e5j.6kv.163.128.IP) has joined #chat
+2015-05-28 12:34:51	@tinnvec	I totally forgot we could do that lol
+2015-05-28 12:35:39	@tomgehrke	nobody better fucking call me or email me during this...
+2015-05-28 12:36:13	+SgtMuffin	everyone: thomas.gehrek@kink.com EMAIL HIM NOW!
+2015-05-28 12:36:23	+SgtMuffin	oops
+2015-05-28 12:36:28	+SgtMuffin	I fucked up your name...
+2015-05-28 12:36:28	CdrMarks	kink!
+2015-05-28 12:36:35	HuskyCaucasian	tomgehrke, i need your phone number. we have important buisness to talk about and we must talk right now
+2015-05-28 12:36:46	AlexC	Have they gotten their gift bags yet?
+2015-05-28 12:36:46	Tenky	I demand there be some form of live keynotes for E3 as well... :o
+2015-05-28 12:36:53	+SgtMuffin	thomas.gehrke@dingaling.biz
+2015-05-28 12:36:53	@tomgehrke	555-666-DIAF
+2015-05-28 12:37:01	Janisku7	Google 3D
+2015-05-28 12:37:10	+SgtMuffin	Those displays they have are amazind
+2015-05-28 12:37:13	+SgtMuffin	amazing*
+2015-05-28 12:37:18	AlexC	Is this transmission coming to me?
+2015-05-28 12:37:43	-->	dctv_87168 (dctv_87168@net-kgfhd6.ca.charter.com) has joined #chat
+2015-05-28 12:37:47	@tomgehrke	only to you, AlexC 
+2015-05-28 12:37:48	HuskyCaucasian	if they dont announc a google space probe, or warp drive, i am going to be pissed
+2015-05-28 12:37:59	<--	dctv_87168 (dctv_87168@net-kgfhd6.ca.charter.com) has quit (Quit: Quit)
+2015-05-28 12:39:03	-->	tondagossa (tondagossa@net-akt2n2.fios.verizon.net) has joined #chat
+2015-05-28 12:39:16	@tomgehrke	FOR THE LOVE OF GOD START ALREADY!
+2015-05-28 12:39:21	Janisku7	https://events.google.com/io2015/
+2015-05-28 12:39:28	Janisku7	AlexC: there
+2015-05-28 12:39:32	Tenky	so much cheesy. :o
+2015-05-28 12:39:52	@tomgehrke	^
+2015-05-28 12:39:56	HuskyCaucasian	that was odd
+2015-05-28 12:40:38	-->	FC (FC@net-eibua2.cable.rogers.com) has joined #chat
+2015-05-28 12:40:54	tondagossa	is that Q-Tip?
+2015-05-28 12:42:06	tondagossa	man, finally
+2015-05-28 12:42:10	@tinnvec	omg yeah SgtMuffin I want a couple for my office (the displays)
+2015-05-28 12:42:10	@tomgehrke	no fireworks?
+2015-05-28 12:42:14	-->	squishy_ (chatzilla@net-dn9bml.evn.ngl.ninja) has joined #chat
+2015-05-28 12:42:29	<--	squishy (chatzilla@net-dn9bml.evn.ngl.ninja) has quit (Ping timeout: 121 seconds)
+2015-05-28 12:42:29	CdrMarks	So... a ,  became a ;
+2015-05-28 12:42:29	@tinnvec	HI SUNDAR!!
+2015-05-28 12:42:42	--	squishy_ is now known as squishy
+2015-05-28 12:42:57	tondagossa	hi Mexico City!
+2015-05-28 12:43:15	HuskyCaucasian	those germans are excited
+2015-05-28 12:43:20	Tenky	so uhm... who does this appeal to again? :P
+2015-05-28 12:43:20	tondagossa	haha
+2015-05-28 12:43:30	@tomgehrke	Tenky: shareholders? maybe?
+2015-05-28 12:43:34	@tomgehrke	not me
+2015-05-28 12:43:38	+SgtMuffin	Come to Kenya we got lions!
+2015-05-28 12:43:39	tondagossa	"hey look, we're still international!"
+2015-05-28 12:43:48	Tenky	that does feel like "boardroom catered mid 50s people" :P
+2015-05-28 12:44:22	-->	Biocoww (Biocoww@net-nia.prd.77.209.IP) has joined #chat
+2015-05-28 12:44:23	-->	heleen (heleen@net-kjqlp0.dynamic.upc.nl) has joined #chat
+2015-05-28 12:44:27	<--	curtislaraque (320c1b53@net-okdtpc.mibbit.com) has quit (Ping timeout: 121 seconds)
+2015-05-28 12:44:45	<--	Biocow (Biocow@net-nia.prd.77.209.IP) has quit (Quit: Quit)
+2015-05-28 12:45:19	@tomgehrke	interesting that android is the solution for phone fragmentation
+2015-05-28 12:45:26	@tinnvec	heh
+2015-05-28 12:45:42	HuskyCaucasian	yea, i thought that was funny
+2015-05-28 12:46:20	tondagossa	the DCTV feed is ahead of Venturebeat's
+2015-05-28 12:46:23	-->	Brusselbury (BS@net-9rcmvl.res.rr.com) has joined #chat
+2015-05-28 12:46:24	@sebgonz	tomgehrke: destiny tonight for sure.
+2015-05-28 12:46:25	@tinnvec	wow awesome visualization though
+2015-05-28 12:46:35	<--	SpecsMcGee (specs@net-vvuh61.ga.comcast.net) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2015-05-28 12:46:37	@tomgehrke	sebgonz: uh huh
+2015-05-28 12:46:41	Brusselbury	Oh shit, y'all are streaming it here
+2015-05-28 12:46:42	@tomgehrke	tinnvec: ikr?!
+2015-05-28 12:46:47	Brusselbury	Google Miiverse!!!!!!!!!!!!!1
+2015-05-28 12:46:52	@tinnvec	lol
+2015-05-28 12:47:01	@tinnvec	I'm getting nothing done today
+2015-05-28 12:47:02	@tomgehrke	i saw mii!!!
+2015-05-28 12:47:21	tondagossa	that's mii in the corner. that's mii in the spotlight...
+2015-05-28 12:47:26	@tomgehrke	lol
+2015-05-28 12:47:31	Brusselbury	loool
+2015-05-28 12:47:34	-->	teknis (teknis@net-4gst6a) has joined #chat
+2015-05-28 12:47:46	@tinnvec	tondagossa: loosing my connection...
+2015-05-28 12:47:53	tondagossa	ha! yes
+2015-05-28 12:48:06	<--	taco_ (taco@net-jom.9ku.94.71.IP) has quit (Ping timeout: 121 seconds)
+2015-05-28 12:48:33	Janisku7	loosing tv and cars 
+2015-05-28 12:48:52	Janisku7	Nvidia mentioned
+2015-05-28 12:49:01	Brusselbury	17M Chromecasts? Woah
+2015-05-28 12:49:05	@tomgehrke	whew! heard an email come in. fortunately not actionable. someone dodged a bullet. (not me)
+2015-05-28 12:49:15	@tinnvec	lo Brusselbury 2 of those ar emine
+2015-05-28 12:49:17	@tinnvec	*mine
+2015-05-28 12:49:19	@tomgehrke	HBO NOW!
+2015-05-28 12:49:20	@tomgehrke	:o
+2015-05-28 12:49:23	@tinnvec	noice!
+2015-05-28 12:49:27	Janisku7	tomgehrke: ok we send you 17m email
+2015-05-28 12:49:31	tondagossa	oh man
+2015-05-28 12:49:38	<--	Sense (senseofadve@net-asnr81.ph.cox.net) has quit (Quit: Quit)
+2015-05-28 12:49:41	@sebgonz	Kinda creepy that they can track the clicks of the cast button.
+2015-05-28 12:49:45	@tinnvec	lol silicon valley ref
+2015-05-28 12:49:58	@tinnvec	sebgonz: makes sense theyd have to though, to send the CC the link
+2015-05-28 12:50:07	Brusselbury	How many times have they gone back to the basics?
+2015-05-28 12:50:16	@tinnvec	every year Brusselbury
+2015-05-28 12:50:18	@sebgonz	yeah. Makes sense. Just sorta creepy.
+2015-05-28 12:50:25	@tinnvec	oh totally, sebgonz lol
+2015-05-28 12:50:27	@tomgehrke	Brusselbury: they've taken going back to the basics back to the basics
+2015-05-28 12:50:40	Brusselbury	So basic
+2015-05-28 12:50:43	@tinnvec	do we get the name for M yet?
+2015-05-28 12:50:49	+SgtMuffin	Muffin
+2015-05-28 12:50:49	@tomgehrke	doubt it
+2015-05-28 12:50:50	@tinnvec	Marscapone?
+2015-05-28 12:51:00	@tinnvec	MintyPain?
+2015-05-28 12:51:00	Brusselbury	I can't wait to be one of three people to make Other M jokes
+2015-05-28 12:51:25	@tomgehrke	martini - https://www.flickr.com/photos/tomgehrke/15361771896/in/photolist-
+2015-05-28 12:51:34	@tomgehrke	at least according to that artist
+2015-05-28 12:51:37	@tomgehrke	;)
+2015-05-28 12:51:42	@tinnvec	lol nice
+2015-05-28 12:51:52	-->	spotwork (spotwork@net-2ja.a99.59.129.IP) has joined #chat
+2015-05-28 12:52:03	@tinnvec	oh cool, better permissions granularity
+2015-05-28 12:52:04	tondagossa	classy, but I think the toothpick through the android sends a mixed message ;)
+2015-05-28 12:52:15	Brusselbury	Alright, alright, I like this
+2015-05-28 12:52:24	@tomgehrke	tondagossa: i'm an android user. the toothpick is apropos.
+2015-05-28 12:52:24	@tinnvec	wow, AT USE rather than install, loooove that
+2015-05-28 12:52:29	tondagossa	lol
+2015-05-28 12:52:37	+SgtMuffin	Oh wow something apple did something before android?!
+2015-05-28 12:52:42	-->	donaldkelly_mba (donaldk_mba@net-c7711h.phnx.qwest.net) has joined #chat
+2015-05-28 12:52:55	@tinnvec	lol SgtMuffin, to be fair, flash has been doing it longer
+2015-05-28 12:52:56	+SgtMuffin	Android: 39408 Apple: 1
+2015-05-28 12:52:57	Brusselbury	SgtMuffin yeah that's what I was thinking, 'cause this didn't seem that new lol
+2015-05-28 12:53:17	@tinnvec	I love the ability to modify permissions after the fact though
+2015-05-28 12:53:30	@tinnvec	oh shit! he just glossed over the major feature
+2015-05-28 12:53:31	Brusselbury	Dammit, I won't see this until 2017
+2015-05-28 12:53:35	@tinnvec	reverse permissions lookup
+2015-05-28 12:53:47	@tinnvec	aka "Which apps can use my camera"
+2015-05-28 12:54:07	Brusselbury	Uh oh, departure from 1.0. This could kill the platform as we know it
+2015-05-28 12:55:12	HuskyCaucasian	oh devs can build chrome into their apps
+2015-05-28 12:55:15	 *	tondagossa sprays chrome on mouth
+2015-05-28 12:55:29	@tinnvec	oh shit that's nice
+2015-05-28 12:55:33	Brusselbury	Everything is Chrome in the future
+2015-05-28 12:55:38	tondagossa	pretty slick
+2015-05-28 12:55:46	HuskyCaucasian	oh well, not so much built in. just closley linked between the app and chrome
+2015-05-28 12:55:46	@tinnvec	Brusselbury: I sure as hell hope so
+2015-05-28 12:56:00	@tinnvec	yeah, HuskyCaucasian, it's deep integration without a ton of work
+2015-05-28 12:56:23	-->	Lou (AJ@net-1bv4nv.east.verizon.net) has joined #chat
+2015-05-28 12:56:44	@tinnvec	app devs will love it too, keeps you in teh app
+2015-05-28 12:56:46	Brusselbury	Thing is, my phone just got 5.0.1 last week....
+2015-05-28 12:56:46	HuskyCaucasian	i have runa cross so many apps with crappy browsers
+2015-05-28 12:56:47	Lou	Alright. who's got some hot, hot google on google action?
+2015-05-28 12:56:57	-->	schnoggo (schnoggo@net-st5929.hfc.comcastbusiness.net) has joined #chat
+2015-05-28 12:56:59	@tinnvec	lol Brusselbury, I'm stil 4.4.4, OG MotoX
+2015-05-28 12:57:04	@tomgehrke	Lou: we're your google pimps
+2015-05-28 12:57:13	tondagossa	oh tinnvec ...
+2015-05-28 12:57:14	@tinnvec	lol Lou, dctv channel 1
+2015-05-28 12:57:20	Lou	EXCELLENT
+2015-05-28 12:57:22	<--	GMeola (GMeola@net-rro.igb.185.199.IP) has quit (Quit: This computer has gone to sleep)
+2015-05-28 12:57:27	@tinnvec	yeah, tondagossa, I cry daily abou tit
+2015-05-28 12:57:34	@tinnvec	but am too lazy to do it myself
+2015-05-28 12:57:41	Brusselbury	I actually couldn't find this stream on Google, nothing sent me straight there..
+2015-05-28 12:57:59	Biocoww	events.google.com/io2015
+2015-05-28 12:58:03	tondagossa	5.1.1. master race
+2015-05-28 12:58:12	Biocoww	https://events.google.com/io2015
+2015-05-28 12:58:15	@tinnvec	ah, smarter link handling
+2015-05-28 12:58:25	Lou	tinnvec, tondagossa I've got one of Verizon's umm..what's the word..oh flagship phones, part of the droid line with Motorola. Motorola said it'd get 5.0..verizon's still holding out.
+2015-05-28 12:58:34	Lou	by the time I get 'M'. it'll be the end of the world.
+2015-05-28 12:58:36	Brusselbury	Biocow oh, there it is then. lol
+2015-05-28 12:58:37	Lou	I'm still 4.4.4
+2015-05-28 12:58:53	Biocoww	they hide it Brusselbury
+2015-05-28 12:58:56	Biocoww	;)
+2015-05-28 12:58:59	--	Biocoww is now known as Biocow
+2015-05-28 12:59:01	@tinnvec	google wallet becomes android pay?
+2015-05-28 12:59:11	-->	EchoesII (EchoesIV@net-tb4agh.res.rr.com) has joined #chat
+2015-05-28 12:59:13	Brusselbury	secretsecretsecretSTREAM secretsecretsecretSTREAM
+2015-05-28 12:59:14	@tinnvec	oh built in too, schweet
+2015-05-28 12:59:31	Biocow	sounds a lot like apple pay!
+2015-05-28 12:59:33	-->	icu (icu@net-kjd.eb1.172.18.IP) has joined #chat
+2015-05-28 12:59:35	Lou	take THAT, apple.
+2015-05-28 12:59:36	@tinnvec	ahhhhhhh this is different, it's NOT wallet, they take the apple pay token approach
+2015-05-28 12:59:47	@tinnvec	wallet is more like a bank
+2015-05-28 12:59:47	Brusselbury	Welp, one step closer to ditching cards
+2015-05-28 13:00:07	Biocow	FUUUUUUUUUUU... that means we have to get set up with android pay now.
+2015-05-28 13:00:17	Lou	tinnvec, this is Apple Pay if Apple made it open.
+2015-05-28 13:00:23	@tinnvec	Biocow: at retail sites? can't imagine that'll be hard
+2015-05-28 13:00:24	@tomgehrke	FUUUUUU... progress! DANG IT!
+2015-05-28 13:00:30	@tinnvec	lol yup Lou
+2015-05-28 13:00:41	Biocow	non tinnvec, as an FI
+2015-05-28 13:00:47	Biocow	*no
+2015-05-28 13:00:51	-->	eean (ian@net-3qdu6p.ca.comcast.net) has joined #chat
+2015-05-28 13:00:59	@tinnvec	FI?
+2015-05-28 13:01:04	@tinnvec	ooooh financial institution
+2015-05-28 13:01:06	Biocow	it took us over 6 months to get set up with apple pay
+2015-05-28 13:01:10	@tinnvec	I work for one of thsoe
+2015-05-28 13:01:17	Brusselbury	#HigherStandards
+2015-05-28 13:01:20	--	eean is now known as Guest22029
+2015-05-28 13:01:20	@tinnvec	but we dont take payments in that way
+2015-05-28 13:01:42	@tinnvec	since we're a lender, it's all checks, direct pay, direct debit, etc
+2015-05-28 13:01:43	Biocow	not payments in, having our cards in apple pay
+2015-05-28 13:01:45	Janisku7	Biocow: thanks finland owns Android pay
+2015-05-28 13:02:01	@tinnvec	yeah, Biocow we don't need to worry about that here luckily
+2015-05-28 13:02:13	Biocow	don't offer credit cards? debit cards?
+2015-05-28 13:02:16	@tinnvec	fingerprints, yay
+2015-05-28 13:02:27	@tinnvec	noe, Biocow, we're strictly rural lending
+2015-05-28 13:02:32	@tomgehrke	where is the presenter from? interesting accent.
+2015-05-28 13:02:41	<--	EchoesIII (EchoesIV@net-tb4agh.res.rr.com) has quit (Ping timeout: 121 seconds)
+2015-05-28 13:03:00	Biocow	I like the obligatory applause even though they've seen it before with App Pay
+2015-05-28 13:03:12	CdrMarks	Doge?
+2015-05-28 13:03:18	CdrMarks	:(
+2015-05-28 13:03:26	Brusselbury	ooooooooooo
+2015-05-28 13:03:28	@tinnvec	hmm super snooze
+2015-05-28 13:03:55	CdrMarks	Show me the chart while I'm not sleeping
+2015-05-28 13:04:00	Brusselbury	But was Skype one of them?
+2015-05-28 13:04:03	tondagossa	2x?!
+2015-05-28 13:04:12	@sebgonz	My N9 already lasts forever.
+2015-05-28 13:04:17	schnoggo	So my tablet would stop ringing for every every Hangout/Chat message when I leavre it home?
+2015-05-28 13:04:18	@sebgonz	literally.
+2015-05-28 13:04:18	@tinnvec	so they'r ebringing back "stand by" from the nokia candybar days
+2015-05-28 13:04:35	HuskyCaucasian	my wife's N7 would last longer... if I stopped playing Haerthstone......
+2015-05-28 13:04:50	Lou	So gogole is going with USB-C. nice.
+2015-05-28 13:04:51	@tinnvec	like that'll happen, HuskyCaucasian
+2015-05-28 13:05:00	Brusselbury	Man, so many things that actually appeal to me so far
+2015-05-28 13:05:11	tondagossa	as a charger? nice
+2015-05-28 13:05:12	@tinnvec	yeha, Lou, kind of awesome
+2015-05-28 13:05:13	HuskyCaucasian	yea, not happening anytime soon. she's out of town. she wanted to take her N7. we had to negotiate that
+2015-05-28 13:05:19	@tinnvec	love the reversability
+2015-05-28 13:05:34	Brusselbury	yessssssss
+2015-05-28 13:05:36	Lou	tinnvec yep. meanwhile over in the closed garden..."THUNDERBOLT! It's the way of the future!"
+2015-05-28 13:05:41	Biocow	Android giveth, and Android taketh away.
+2015-05-28 13:05:44	CdrMarks	So, I can choose to charge my laptop over the USB C cable?
+2015-05-28 13:05:51	@tinnvec	Lou: (as Dr. Evil) Riiiiiiight....
+2015-05-28 13:05:52	b1ackdeath	haha Biocow so true
+2015-05-28 13:06:06	Lou	so...Google is becoming Skynet. got it.
+2015-05-28 13:06:15	@tinnvec	if your laptop can accept power through usb-c, CdrMarks, I'd think so
+2015-05-28 13:06:23	Brusselbury	Ohhh, I was wondering why the volume controls were stickier after the update
+2015-05-28 13:06:24	b1ackdeath	Lou: Google is Skynet
+2015-05-28 13:06:25	@tinnvec	but only would bump it like 10% from empty lol
+2015-05-28 13:06:34	Lou	tinnvec, as much as I love Tim Cook because he's become a more outspoken gay man in big business..I think some of the shit apple does is so, so, SO stupid.
+2015-05-28 13:06:45	@tinnvec	srs Lou
+2015-05-28 13:07:16	-->	mat3 (mat3@net-88d0is.dip0.t-ipconnect.de) has joined #chat
+2015-05-28 13:07:19	@tinnvec	here's the new glass announcement section
+2015-05-28 13:07:30	mat3	ffs, I forgot about I/O
+2015-05-28 13:07:41	@tinnvec	I'd put money on the line "not jsut for watches" being uttered in this segment
+2015-05-28 13:07:51	HuskyCaucasian	i wish the Nexus 7 wasnt dead. solid device that was reasonably prices
+2015-05-28 13:07:55	Lou	and yes, I'm letting my gender identity as a transgender say that I love Tim Cook for being more outspoken. let's face it, he needed to do that. doesn't mean i like apple and their closed system.
+2015-05-28 13:08:03	@tomgehrke	i'd bet "google strap-on" will *not* be mentioned during this segment
+2015-05-28 13:08:12	@tinnvec	for sure, HuskyCaucasian, I have a 2012 and it still runs pretty well
+2015-05-28 13:08:14	Lou	HuskyCaucasian, I sold my iPad 2 to get a Nexus 7 the day it was announced.
+2015-05-28 13:08:25	Lou	tomgehrke, that will be sold exclusively by TWiT
+2015-05-28 13:08:34	@tomgehrke	:o
+2015-05-28 13:08:40	Lou	:o
+2015-05-28 13:08:45	@tinnvec	lmao
+2015-05-28 13:08:49	tondagossa	D:
+2015-05-28 13:08:53	@tomgehrke	:D
+2015-05-28 13:08:54	Brusselbury	He has no style, he has no face, this. This Kong has an Android face
+2015-05-28 13:08:58	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 13:09:16	Lou	whhaaaa!?
+2015-05-28 13:09:19	Lou	checking the time!?
+2015-05-28 13:09:22	tondagossa	I still use the position of the sun to tell the time
+2015-05-28 13:09:22	Brusselbury	rhymed the same word and wrote "this" twice. Perfect
+2015-05-28 13:09:24	Lou	HOW REVOLUTIONARY
+2015-05-28 13:09:38	Biocow	i just start counting in my head when I wake up
+2015-05-28 13:09:41	@tinnvec	yup, I set up my pebble watchface very carefully to be able to access a ton of info at a glance
+2015-05-28 13:09:57	@tinnvec	weather, temp, time, date, location and oebble battery level
+2015-05-28 13:10:00	tondagossa	40% of the time, every time
+2015-05-28 13:10:03	<--	Tenky (Tenky@net-cad2jq.mc.videotron.ca) has quit (Quit: Leaving)
+2015-05-28 13:10:08	-->	HiWEB (HiWEB@net-92a257.wa.comcast.net) has joined #chat
+2015-05-28 13:10:16	Brusselbury	So...this was designed for Brushwood?
+2015-05-28 13:10:29	@tinnvec	hmmm!
+2015-05-28 13:10:47	<--	HiWEB (HiWEB@net-92a257.wa.comcast.net) has quit (Quit: Sleepy - Gotta Jibboo)
+2015-05-28 13:10:56	@tinnvec	that's pretty slick, bringing that idea of pebble's set the screen and only update as needed
+2015-05-28 13:11:02	schnoggo	“The Brushwood Edition” watch, Brusselbury 
+2015-05-28 13:11:16	Brusselbury	Bringing back the Google Glass-style of use
+2015-05-28 13:11:32	tondagossa	"cock-tail glass"
+2015-05-28 13:11:34	@tinnvec	OMG
+2015-05-28 13:11:35	HuskyCaucasian	wrist dicks for android!
+2015-05-28 13:11:38	@tinnvec	draw emojis
+2015-05-28 13:11:42	@tinnvec	that's fuckign amazing
+2015-05-28 13:11:49	schnoggo	Really? “ahhhhh!” over getsure emoji? The end draws near
+2015-05-28 13:11:50	@tinnvec	cause I can never find the emoji I'm looking for
+2015-05-28 13:11:53	Brusselbury	Did this emoji craze come out of nowhere? Was it because of Apple's keyboards?
+2015-05-28 13:11:56	@tomgehrke	schnoggo: +1
+2015-05-28 13:12:05	@tinnvec	eh, Brusselbury, it's been building for a few years
+2015-05-28 13:12:06	icu	WRIST DICKS!?
+2015-05-28 13:12:19	icu	oh emojis
+2015-05-28 13:12:22	 *	spotwork draws a poop emoji
+2015-05-28 13:12:48	icu	What the world needs now is cross-platform wrist dicks #wristdicks
+2015-05-28 13:12:53	Brusselbury	tinnvec I've been using emoticons since I was 12, but now my parents send me emojis
+2015-05-28 13:12:53	Lou	schnoggo, idiocity wasn't just a movie..
+2015-05-28 13:13:04	 *	tondagossa draws a dick and it interprets it as an eggplant emoji
+2015-05-28 13:13:09	tondagossa	damnit
+2015-05-28 13:13:14	schnoggo	Idio City? That’s in Florida, right?
+2015-05-28 13:13:20	@tinnvec	yeah, same Brusselbury, but normals don't understand emoticons so they use emojis
+2015-05-28 13:13:24	Lou	No, it's another name for Petaluma.
+2015-05-28 13:13:34	<--	GMcCourt_MB (GMcCourt_MB@net-am0n09.biz.rr.com) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2015-05-28 13:13:36	 *	Lou draws an eggplant. it gets interpretted as a dick.
+2015-05-28 13:13:42	tondagossa	lol Lou 
+2015-05-28 13:13:43	schnoggo	Smells like #drama, Lou :)
+2015-05-28 13:13:54	@sebgonz	golf swing stuff is cool
+2015-05-28 13:14:08	Lou	schnoggo, meh. there's an idiot that keeps getting kicked and then coming in as a guest and changing his name. i won't go in drama anymore.
+2015-05-28 13:14:09	spotwork	both people in the audience who play golf were into that
+2015-05-28 13:14:22	Lou	Shazam? What does Captain Marvel have to do with this?
+2015-05-28 13:14:36	Lou	"where did I park my car? ooooh nooo!" scott johnson will love this!
+2015-05-28 13:14:43	schnoggo	There’s probably some mods looking for hobbies, lou… :)
+2015-05-28 13:14:54	Brusselbury	I hate how into Android wear I get every IO conference
+2015-05-28 13:15:11	@tinnvec	ugh I know Brusselbury, now I have to choose, time or wear
+2015-05-28 13:15:14	Lou	schnoggo, I am so tempted to go back into that IRC. but i dunno...
+2015-05-28 13:15:51	@tinnvec	well I'd have lost money on my glass bet
+2015-05-28 13:15:55	@tinnvec	maybe next year
+2015-05-28 13:16:00	Janisku7	tinnvec: well i don't get any rich from android wear
+2015-05-28 13:16:09	schnoggo	The server that shall not be named? I visited this morning and it was… weird. Mostly mods talking about what might be in the future.
+2015-05-28 13:16:12	tondagossa	wear what you want, when you want, wherever you wear it
+2015-05-28 13:16:15	Brusselbury	Lou empty atm, except for Ben, who keeps autologging out/in
+2015-05-28 13:16:27	Brusselbury	unless you didn't mean #drama, then nvm
+2015-05-28 13:16:29	Lou	Brusselbury, yeah I know. which is why I won't go in thre.
+2015-05-28 13:16:38	HuskyCaucasian	Internet of Things time
+2015-05-28 13:16:47	Janisku7	tondagossa: well need android phone
+2015-05-28 13:17:02	tondagossa	heh
+2015-05-28 13:17:05	Brusselbury	I want my blender to make smoothies to my heart beat. Your move
+2015-05-28 13:17:13	@tinnvec	farmers are already using a lot of automated stuff
+2015-05-28 13:17:15	Lou	schnoggo yeah but I was also banned from TSTSNbN too. but then i changed internet providers and my IP changed. so I can go back in freely but i really don't feel like being banned again. I'm lazy.
+2015-05-28 13:17:47	@tinnvec	yup here's the android for IOT
+2015-05-28 13:17:54	@tinnvec	or whatever they'll call it
+2015-05-28 13:18:03	Janisku7	dropcam, thermostat
+2015-05-28 13:18:15	Lou	and chromeos.
+2015-05-28 13:18:17	Lou	oooh boy.
+2015-05-28 13:18:21	@tomgehrke	"fundamentally new" = "back to basics"
+2015-05-28 13:18:42	tondagossa	brillo?...
+2015-05-28 13:18:46	Lou	pad
+2015-05-28 13:18:46	@tinnvec	hmm
+2015-05-28 13:18:47	Brusselbury	armabrillo
+2015-05-28 13:18:48	schnoggo	Let’s see if they support actual emerging standards or make their own
+2015-05-28 13:18:48	tondagossa	sounds... abrasive
+2015-05-28 13:18:51	Lou	pad
+2015-05-28 13:18:52	HuskyCaucasian	it'll scrub your home clean
+2015-05-28 13:18:52	Janisku7	Grillo is the new os
+2015-05-28 13:18:54	-->	HiWEB (HiWEB@net-92a257.wa.comcast.net) has joined #chat
+2015-05-28 13:18:55	Lou	pad
+2015-05-28 13:19:00	@tinnvec	I hope we talk about that on DTNS, oh the title possibilities
+2015-05-28 13:19:13	schnoggo	Operating System of Steel (wool)
+2015-05-28 13:19:13	Lou	sorry, every time i hear brillo i think pad
+2015-05-28 13:19:24	@sebgonz	That's the point.
+2015-05-28 13:19:25	@tinnvec	I REALLY don't like seeing the Hardware Abstraction Layer labled as "HAL" just feels wrong
+2015-05-28 13:19:26	@sebgonz	I think...
+2015-05-28 13:19:26	Janisku7	tinnvec: you wonthat title tme
+2015-05-28 13:19:34	Lou	HAL!
+2015-05-28 13:19:36	Janisku7	tinnvec: true 
+2015-05-28 13:19:40	Lou	HAL's in it...oh god...
+2015-05-28 13:19:40	Janisku7	HAL 9000
+2015-05-28 13:19:41	HuskyCaucasian	lol
+2015-05-28 13:19:42	Lou	we're doomed
+2015-05-28 13:19:45	<--	HiWEB (HiWEB@net-92a257.wa.comcast.net) has quit (Quit: Gotta Jibboo!!)
+2015-05-28 13:19:50	Lou	can it open the pod bay doors?
+2015-05-28 13:19:51	HuskyCaucasian	google finally made HAL!
+2015-05-28 13:19:53	Brusselbury	..eave?
+2015-05-28 13:19:56	@tinnvec	heh it's usally shown as HAL, it just bothers me
+2015-05-28 13:19:58	-->	HiWEB (HiWEB@net-92a257.wa.comcast.net) has joined #chat
+2015-05-28 13:20:01	HuskyCaucasian	Weave
+2015-05-28 13:20:11	@tinnvec	MWeave
+2015-05-28 13:20:25	Brusselbury	I'm looking at this from the perspective of "everyone uses and iPhone but me," so ffffff
+2015-05-28 13:20:39	@tomgehrke	interesting...
+2015-05-28 13:20:40	mat3	WSDL?
+2015-05-28 13:21:09	Lou	If I get Brillo certification, does it come on a pad?
+2015-05-28 13:21:28	@tinnvec	these are basically standardized APIs
+2015-05-28 13:21:31	@tinnvec	weave that is
+2015-05-28 13:21:35	spotwork	I wasn't sure if he was saying weave or veave
+2015-05-28 13:21:59	@sebgonz	sidenote: I love having an empty inbox.
+2015-05-28 13:22:00	mat3	tinnvec just needs adoption :) this already working on android devices will help
+2015-05-28 13:22:01	spotwork	maybe he's pronouncing he w as to vs... vveave
+2015-05-28 13:22:04	@tinnvec	and, of course, standardized UI
+2015-05-28 13:22:05	<--	madmarv (Thunderbird@net-3oon2h.res.rr.com) has quit (Quit: I stay go)
+2015-05-28 13:22:21	schnoggo	bah - have to get back to work. Will review this later.
+2015-05-28 13:22:22	@sebgonz	"we've"
+2015-05-28 13:22:25	@tinnvec	oh yeah, mat3, as with anything adoptionwill drive development, but it has a TON of promise
+2015-05-28 13:22:29	<--	schnoggo (schnoggo@net-st5929.hfc.comcastbusiness.net) has quit (Quit: "We do the weird stuff!")
+2015-05-28 13:22:36	-->	Brussels (BS@net-oq64dm.res.rr.com) has joined #chat
+2015-05-28 13:22:42	Janisku7	Brillo is developer preview name and weave is the real name
+2015-05-28 13:22:55	@tinnvec	nope Janisku7
+2015-05-28 13:23:14	@tinnvec	brillo is the IOT OS and weave is the communications protocol
+2015-05-28 13:23:16	@tinnvec	essentially
+2015-05-28 13:23:37	@tomgehrke	lol
+2015-05-28 13:23:41	HuskyCaucasian	it sounds like weave would work with other apps, like on iOS. Am I right with this?
+2015-05-28 13:23:41	tondagossa	!wolfram What does Kermit's nephew look like?
+2015-05-28 13:23:44	@tomgehrke	kermit la rana
+2015-05-28 13:23:46	dctvbot	Sorry, I've no idea. Does this help? https://www.wolframalpha.com/input/?i=What+does+Kermit's+nephew+look+like?
+2015-05-28 13:23:50	tondagossa	damnit
+2015-05-28 13:23:54	@tinnvec	HuskyCaucasian: I belive it should
+2015-05-28 13:23:57	mat3	we've reached a point of no applause for working voice recognition :)
+2015-05-28 13:24:04	Brussels	Oh no, irc bots aren't contextual!
+2015-05-28 13:24:07	@tomgehrke	mat3: well... it's no emoji
+2015-05-28 13:24:27	@tinnvec	lol yeah mat3 I'm strangely happy abotu that too
+2015-05-28 13:24:33	<--	jccalhoun (root@net-ft2ddf.res.rr.com) has quit (Ping timeout: 121 seconds)
+2015-05-28 13:24:42	HuskyCaucasian	i'm rather ignorant on ioT. are there other "open" protocals in the market? or is Google plazing a new trail?
+2015-05-28 13:25:01	@tinnvec	HuskyCaucasian: there might be, but they're not widespread by any means
+2015-05-28 13:25:28	@tinnvec	and to be honest, if nest is usingit, it'll be a strong strong candidate for everyone
+2015-05-28 13:25:41	HuskyCaucasian	tinnvec, i figured. I figured most were either proprietary, or very old and not applicable to modern tech.
+2015-05-28 13:25:55	<--	Brusselbury (BS@net-9rcmvl.res.rr.com) has quit (Ping timeout: 121 seconds)
+2015-05-28 13:26:00	@tinnvec	yeah, or they may be open but only used on 1-2 devices
+2015-05-28 13:26:01	-->	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has joined #chat
+2015-05-28 13:26:03	--	Brussels is now known as Brusselbury
+2015-05-28 13:26:08	HuskyCaucasian	i just want an IoT standard. that's all I ask.
+2015-05-28 13:26:17	@tinnvec	srs
+2015-05-28 13:26:29	@tinnvec	smarter google now? yes please
+2015-05-28 13:27:03	HuskyCaucasian	i just never used Google Now. it's never been applicable to my daily life. I guess my life is rathe rbland. i never travel. have the same drive to work every day
+2015-05-28 13:27:06	Brusselbury	Why can't it remember the Alamo?!?!!?!
+2015-05-28 13:27:20	-->	beatmaster (beatmaster@net-pr2.gsm.202.213.IP) has joined #chat
+2015-05-28 13:27:20	--	Mode #chat [+o beatmaster] by ChanServ
+2015-05-28 13:27:21	@sebgonz	Seriously... the milk thing... always happens to me. No joke.
+2015-05-28 13:27:29	Janisku7	hi beatmaster 
+2015-05-28 13:27:33	@beatmaster	hi
+2015-05-28 13:27:36	Janisku7	smart beatmaster with brillo and weave
+2015-05-28 13:27:41	@tinnvec	I mostly use google now for weather updates and package tracking, HuskyCaucasian, but it's been getting more and more useful
+2015-05-28 13:27:43	mat3	HuskyCaucasian I enabled it just for traffic notifications on my commute and shipping info
+2015-05-28 13:27:47	Brusselbury	Why isn't the car thing standard already?
+2015-05-28 13:27:56	@beatmaster	ahowdy y'all
+2015-05-28 13:27:56	@tinnvec	I really like the email integration, surfacing when bills are do and such in my now cards
+2015-05-28 13:28:01	<--	ErikaG (Adium@net-as51b1.l1ui.322l.a601.2605.IP) has quit (Ping timeout: 121 seconds)
+2015-05-28 13:28:02	@tinnvec	howdy beatmaster
+2015-05-28 13:28:16	mat3	HuskyCaucasian and was pleasantly surprised by the parking location reminder
+2015-05-28 13:28:18	@tomgehrke	howdy, beatmaster 
+2015-05-28 13:28:19	HuskyCaucasian	things like package tracking goes through my Yahoo account. i dont think Google Now can access that
+2015-05-28 13:28:30	tondagossa	why didn't I get your context?
+2015-05-28 13:28:35	Janisku7	guys http://www.brillo.com/
+2015-05-28 13:28:49	@tinnvec	HuskyCaucasian: I think it can if that's your main email. otherwise why not send that stuff to gmail? heh
+2015-05-28 13:28:54	Brusselbury	A broken website about a mop?
+2015-05-28 13:29:15	@tinnvec	overloaded, Brusselbury heh
+2015-05-28 13:29:17	@tinnvec	refresh
+2015-05-28 13:29:21	spotwork	was expecting brillo pads
+2015-05-28 13:29:25	mat3	they have a youtube account Brusselbury as backup
+2015-05-28 13:29:25	spotwork	was not disappointed
+2015-05-28 13:29:39	HuskyCaucasian	tinnvec,  I have a "personal" gmail account for family and friends. I've used my yahoo for buisness and other things.  I might need to move my yahoo over to a new gmail account
+2015-05-28 13:29:55	Brusselbury	Dammit, they get to use "now that's brilliant" as a tagline. Lucky
+2015-05-28 13:30:00	-->	ErikaG (Adium@net-tiqaa4.mci.googlefiber.net) has joined #chat
+2015-05-28 13:30:03	@tinnvec	lol
+2015-05-28 13:30:22	@tinnvec	yeah, HuskyCaucasian, I used to do that with seperate email accounts and such, just more than I cared to manage
+2015-05-28 13:30:48	<--	LauRoman|Alt (LauRoman@net-k607he.residential.rdsnet.ro) has quit (Quit: Leaving)
+2015-05-28 13:31:05	HuskyCaucasian	i only have 2. Gmail (using a personal domain name) and Yahoo.
+2015-05-28 13:31:10	Brusselbury	This sounds a lot more like what I hoped Google Now would be when they introduced it
+2015-05-28 13:31:15	HuskyCaucasian	so, it's not hard for me to mange. i dont get mush email
+2015-05-28 13:31:26	@tinnvec	heh yeah HuskyCaucasian 2 is still too many for me
+2015-05-28 13:31:43	HuskyCaucasian	wow, lame applause there
+2015-05-28 13:31:43	@tinnvec	yeah, Brusselbury, I've been seeing more and more apps shoing cards in Now, pretty awesome
+2015-05-28 13:31:47	Janisku7	https://twitter.com/googledevs/status/603976428565090305
+2015-05-28 13:31:51	@tinnvec	OHSHI-
+2015-05-28 13:31:58	Brusselbury	tinnvec I'm just getting Taylor Swift gossip.
+2015-05-28 13:32:02	@tomgehrke	:o
+2015-05-28 13:32:12	@tinnvec	loool Brusselbury
+2015-05-28 13:32:14	<--	web_54703 (web_54703@net-n12.09b.7.24.IP) has quit (Quit: Quit)
+2015-05-28 13:32:21	tondagossa	wow
+2015-05-28 13:32:23	@tomgehrke	:o
+2015-05-28 13:32:27	tondagossa	pretty sweet
+2015-05-28 13:32:27	-->	LauRoman|Alt (LauRoman@net-k607he.residential.rdsnet.ro) has joined #chat
+2015-05-28 13:32:27	@tinnvec	HOLY SHIT
+2015-05-28 13:32:30	HuskyCaucasian	ok, tha's interesting
+2015-05-28 13:32:36	@tinnvec	fucking context, man
+2015-05-28 13:32:39	@tinnvec	amazing
+2015-05-28 13:32:44	Brusselbury	It can do that?!?! woah
+2015-05-28 13:33:14	tondagossa	whaaa?
+2015-05-28 13:33:20	@tomgehrke	ok... i'm impressed
+2015-05-28 13:33:21	HuskyCaucasian	google is HAL
+2015-05-28 13:33:30	@tinnvec	yeah, fuck L, I want M
+2015-05-28 13:33:49	@tinnvec	"kinda okay" LOOOOOOL
+2015-05-28 13:33:55	HuskyCaucasian	I still have 4.3 :(
+2015-05-28 13:33:59	@tinnvec	take THAT, Chimaera
+2015-05-28 13:34:28	@tinnvec	oh and no mods to the app for now on tap? nice
+2015-05-28 13:34:35	Brusselbury	What the heeeeeeeeell
+2015-05-28 13:34:48	tondagossa	check this, yo
+2015-05-28 13:35:01	HuskyCaucasian	ok, now Google Now got useful for me
+2015-05-28 13:35:16	@tinnvec	yeah, that's seriously amazing
+2015-05-28 13:35:19	tondagossa	+1 HuskyCaucasian 
+2015-05-28 13:36:01	-->	GMeola (GMeola@net-27n.igb.185.199.IP) has joined #chat
+2015-05-28 13:36:06	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 13:36:18	@tinnvec	ah! so someone invites you to dinner and open table will surface a now card to book a reservation at the restaurant
+2015-05-28 13:36:40	tondagossa	mmm Greek food
+2015-05-28 13:37:17	tondagossa	what is this sorcery?
+2015-05-28 13:37:29	Brusselbury	I love this
+2015-05-28 13:37:30	@tinnvec	BURN THE WITCH!
+2015-05-28 13:37:35	-->	juanabos (Adium@net-6cmnd5.slkc.qwest.net) has joined #chat
+2015-05-28 13:37:56	Biocow	he was on friends.
+2015-05-28 13:37:57	HuskyCaucasian	serious Hogwarts shit
+2015-05-28 13:38:19	Brusselbury	Yep, he was on the plane with Rachel before Ross's wedding
+2015-05-28 13:38:33	-->	DavinciWonder (DavinciWond@net-a51d5h.dsl-w.verizon.net) has joined #chat
+2015-05-28 13:38:34	tondagossa	drop mic
+2015-05-28 13:38:34	mat3	they need to make this exciting or else there'll be a shitstorm about them scanning app screen content :)
+2015-05-28 13:38:40	mat3	but I really like it
+2015-05-28 13:38:44	Brusselbury	Preschool? hardcore
+2015-05-28 13:39:03	@tinnvec	mat3: not even that, the OS has to know abotu info going in and out of the app
+2015-05-28 13:39:11	@tinnvec	so they just use that info
+2015-05-28 13:39:29	-->	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has joined #chat
+2015-05-28 13:39:59	mat3	that's probably also a reason why intents can now target a specific app without asking
+2015-05-28 13:40:14	@tinnvec	yeah
+2015-05-28 13:40:21	HuskyCaucasian	i thought Google Photos already existed
+2015-05-28 13:40:22	@tinnvec	uhm...this is new?
+2015-05-28 13:40:30	-->	MRiddickW (mriddickw@net-4vu15o.tx.charter.com) has joined #chat
+2015-05-28 13:40:38	@tinnvec	I suppose this is the first time they've had to announce it
+2015-05-28 13:40:44	@tomgehrke	the app is old. it's a reboot.
+2015-05-28 13:40:45	Brusselbury	Well, they always wanted to put photos in my Drive
+2015-05-28 13:40:47	@tinnvec	came out liek what? 2 months ago?
+2015-05-28 13:41:12	-->	Ichiro (Ichiro@net-h3j7mi.evbo.4ctv.0006.2601.IP) has joined #chat
+2015-05-28 13:41:45	HuskyCaucasian	they need Justin's selfie stick
+2015-05-28 13:41:49	tondagossa	this guy is like Ballmer's brother from another mother
+2015-05-28 13:41:53	@tinnvec	(as ibbott) Take a Selfie
+2015-05-28 13:41:59	@tomgehrke	i know someone else with a "selfie stick"...
+2015-05-28 13:42:15	-->	Kasey (AJ@net-92fbt2.east.verizon.net) has joined #chat
+2015-05-28 13:42:15	HuskyCaucasian	is there going to be a dick pic?
+2015-05-28 13:42:22	HuskyCaucasian	#toosoon?
+2015-05-28 13:42:25	@tinnvec	loool HuskyCaucasian was about to say something
+2015-05-28 13:42:26	@tomgehrke	HuskyCaucasian: lol. beat me.
+2015-05-28 13:42:30	-->	TVsEgon (webchat@net-m8p.anh.10.12.IP) has joined #chat
+2015-05-28 13:42:30	icu	tomgehrke how else you gonna take a picture of deez nutz?
+2015-05-28 13:42:31	Brusselbury	I was holding back
+2015-05-28 13:42:32	Chimaera	wut me do, tinnvec 
+2015-05-28 13:42:33	@tinnvec	great, dirty minds
+2015-05-28 13:42:51	-->	aphexx (aphexx@net-v7dn2p.abhsia.telus.net) has joined #chat
+2015-05-28 13:42:54	TVsEgon	+1 HuskyCaucasian  - I just logged into IRC to make a dick joke
+2015-05-28 13:42:57	@tinnvec	oh haha Chimaera, one of the announcers at google IO said some snarky comments about TOmorrowland
+2015-05-28 13:43:04	icu	keep dicks on yo wrists
+2015-05-28 13:43:16	icu	#wristdicks
+2015-05-28 13:43:41	CdrMarks	And just a step to the left
+2015-05-28 13:43:43	icu	dctvbot wristdicks?
+2015-05-28 13:43:45	dctvbot	icu: Hand.
+2015-05-28 13:43:48	icu	oh my
+2015-05-28 13:43:49	Kasey	https://twitter.com/snwmew/status/603979958252347392 i tried.
+2015-05-28 13:43:59	tondagossa	dicks before wrists, except after c
+2015-05-28 13:44:16	Brusselbury	ew, fulla racism in their live chat?
+2015-05-28 13:44:19	<--	Lou (AJ@net-1bv4nv.east.verizon.net) has quit (Ping timeout: 121 seconds)
+2015-05-28 13:44:36	icu	omg why would would anyone look at a live event YouTube chat scroll?
+2015-05-28 13:44:41	-->	web_54703 (web_54703@net-ld6i4e.hfc.comcastbusiness.net) has joined #chat
+2015-05-28 13:44:42	@tinnvec	ah good call Kasey
+2015-05-28 13:44:57	CdrMarks	https://twitter.com/googlephotos/status/603980040687063040
+2015-05-28 13:44:59	HuskyCaucasian	I use Dropbox for my photoback ups.
+2015-05-28 13:45:00	@tomgehrke	icu: O.o
+2015-05-28 13:45:21	mat3	how much money do they get for publishing their pics?
+2015-05-28 13:45:27	TVsEgon	HuskyCaucasian: yeah, but this new google thing and amazon offer free unlimited photo storage
+2015-05-28 13:45:37	--	Kasey is now known as Lou
+2015-05-28 13:45:46	FC	It was the money.
+2015-05-28 13:45:51	Chimaera	y u do this, tinnvec  T T
+2015-05-28 13:45:56	Chimaera	;-)
+2015-05-28 13:45:58	Brusselbury	I already have shit stretched between OneDrive, Facebook, and Instagram..
+2015-05-28 13:45:59	@tinnvec	lol
+2015-05-28 13:46:04	Lou	yeah but isn't google photos only if you save it as an original, or a certain or something, TVsEgon ? or are they already changing that.
+2015-05-28 13:46:19	HuskyCaucasian	i spent WAY too much time and effort to upload all of my pics to Dropbox nothing Google can offer is going to mak eme want to switch lol
+2015-05-28 13:46:26	-->	Cretz (Cretz@net-s5rgds.dhcp-bl.indiana.edu) has joined #chat
+2015-05-28 13:46:42	@tinnvec	HuskyCaucasian: how had is it to drag that folder from dropbox to google drive? lol
+2015-05-28 13:46:45	@tinnvec	*hard
+2015-05-28 13:46:51	Brusselbury	Auto-montages?!
+2015-05-28 13:47:03	HuskyCaucasian	I dont have the dropbox folder synced to my computer.
+2015-05-28 13:47:06	tondagossa	that royalty free music
+2015-05-28 13:47:09	@tinnvec	lol Brusselbury, just an extension of the auto gif thing
+2015-05-28 13:47:17	TVsEgon	Brusselbury:  Everybody loves a montage!
+2015-05-28 13:47:21	@tinnvec	just saying, HuskyCaucasian lol
+2015-05-28 13:47:27	@tomgehrke	TVsEgon: +1
+2015-05-28 13:48:01	Brusselbury	It took this long to make that a phone fucntion, jeez
+2015-05-28 13:48:16	@tinnvec	oh nice, rectangle select basically
+2015-05-28 13:48:24	TVsEgon	Lou: from what i've been seeing on some articles with pre-info on photos, it's any photo.   Amazon is any photo also, as i uploaded all 12 gigs of my NT14 photos, which were all run through Lightroom/Photoshop
+2015-05-28 13:48:40	Lou	cool, cool.
+2015-05-28 13:49:20	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 13:49:21	-->	web_79115 (web_79115@net-d6f.4pp.82.208.IP) has joined #chat
+2015-05-28 13:49:37	TVsEgon	ENHANCE....  ENHANCE...  ENHANCE...
+2015-05-28 13:49:38	@tinnvec	not that I have a need or want to do that, but cool
+2015-05-28 13:49:39	HuskyCaucasian	One thing I like about Dropbox is that it's a central place my wife and i share. so, we can both upload to it
+2015-05-28 13:49:47	icu	+1 to sharing from Google Photos without going through Google +
+2015-05-28 13:49:51	CdrMarks	Here it comes
+2015-05-28 13:49:55	Lou	welp, there's my answer
+2015-05-28 13:49:56	tondagossa	the U word!
+2015-05-28 13:49:56	CdrMarks	Unlimited storage
+2015-05-28 13:50:02	Cretz	How many dick pics?
+2015-05-28 13:50:04	TVsEgon	HuskyCaucasian: true, but i have certain...  special needs.   ;-)
+2015-05-28 13:50:06	HuskyCaucasian	well shit
+2015-05-28 13:50:07	tondagossa	all the dick pics!
+2015-05-28 13:50:13	-->	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has joined #chat
+2015-05-28 13:50:16	TVsEgon	#wristdicks FOR EVERYONE!
+2015-05-28 13:50:17	Brusselbury	That's pretty rad
+2015-05-28 13:50:38	HuskyCaucasian	wait, the pics are compressed?
+2015-05-28 13:50:40	Lou	TVsEgon,yeah, cause on my phone it syas "full size: limited to available account storage" "standard size: unlimited free store at 2048 px" 
+2015-05-28 13:50:40	tondagossa	it'll be a toxic hellstew of wristdicks
+2015-05-28 13:50:44	icu	YOU GET A WRIST DICK! YOU GET A WRIST DICK! YOU GET A WRIST DICK! YOU GET A WRIST DICK!
+2015-05-28 13:50:46	Biocow	Anyone wanna buy a 2TB network drive?
+2015-05-28 13:50:47	TVsEgon	yeah, that's what the articles were saying...  16mp limit.   WHAT?  I NEED TO DOWNSIZE MY HIGH-RES IMAGES!
+2015-05-28 13:50:48	Lou	TVsEgon, So I guess they're getting arid of that now.
+2015-05-28 13:50:58	TheatreMonkey	lol Biocow
+2015-05-28 13:51:02	@tinnvec	for display, HuskyCaucasian, yeah, that's how they gat that fast loading they demonstrated before
+2015-05-28 13:51:03	tondagossa	whaaa?!
+2015-05-28 13:51:13	@tinnvec	lmao Biocow
+2015-05-28 13:51:16	HuskyCaucasian	OH! ok, I missed that
+2015-05-28 13:51:34	Janisku7	oh really thank so much google 
+2015-05-28 13:51:38	Janisku7	no windows 
+2015-05-28 13:51:40	@tinnvec	yeh, HuskyCaucasian, they store original up to 16MP but will show compressed
+2015-05-28 13:51:57	HuskyCaucasian	ok, that makes sense. muisunderstood that
+2015-05-28 13:52:03	TVsEgon	Domo arigato, Mister Roboto
+2015-05-28 13:52:05	@tinnvec	improvement to translate? intrigued
+2015-05-28 13:52:21	Janisku7	tinnvec: my originals now are 20MP
+2015-05-28 13:52:23	Brusselbury	Touching
+2015-05-28 13:52:23	mek	G+ is the best free way for me to store my giant 32mb gifs that i make during NA
+2015-05-28 13:52:55	tondagossa	 [a single tear drops]
+2015-05-28 13:53:02	HuskyCaucasian	maybe realtime translation? like what skype does
+2015-05-28 13:53:15	Biocow	**sniff**
+2015-05-28 13:53:22	Biocow	shut up! it's allergies!
+2015-05-28 13:53:28	@tinnvec	lol
+2015-05-28 13:53:32	@tomgehrke	the audio and video on the stream are out of sync. just me?
+2015-05-28 13:53:39	TVsEgon	Janisku7:  i'm looking at a used Nikon D800, so i guess Google won't care for its 36mp RAW files...
+2015-05-28 13:53:45	@tinnvec	good here, tomgehrke
+2015-05-28 13:53:51	Biocow	synced for me tomgehrke but i can tell about 10-12 seconds behind
+2015-05-28 13:53:51	Brusselbury	Fine for me tomgehrke
+2015-05-28 13:53:53	TVsEgon	just you, tomgehrke 
+2015-05-28 13:53:53	CdrMarks	good here as well tomgehrke
+2015-05-28 13:53:54	spotwork	looks fine for me, tomgehrke
+2015-05-28 13:53:57	-->	Conorew (androirc@net-s6m09i.threembb.co.uk) has joined #chat
+2015-05-28 13:54:23	mek	also since my giant gif files were under a certian resolution they didnt count towards my overal google drive storage
+2015-05-28 13:54:24	mek	lol
+2015-05-28 13:54:28	@tomgehrke	hrm... weird. is like a half second off... will refresh the browser. don't let them announce anything cool.
+2015-05-28 13:54:29	-->	One4daMoney (webchat@net-k3jc0l.mo.charter.com) has joined #chat
+2015-05-28 13:54:34	TVsEgon	...that's a lot of #wristdicks
+2015-05-28 13:54:39	Cretz	life in Mumbai..i get the feeling Google has a sizeable Indian employee base, based on this keynote
+2015-05-28 13:54:46	@tomgehrke	all better
+2015-05-28 13:54:58	Brusselbury	Finally, more people can experience the port of Crazy Taxi
+2015-05-28 13:55:08	Lou	YEAH..out of date software. #thanksVerizon
+2015-05-28 13:55:11	-->	Surf (Andrew@net-h16ggk.omsg.155b.0306.2602.IP) has joined #chat
+2015-05-28 13:55:16	<--	web_79115 (web_79115@net-d6f.4pp.82.208.IP) has quit (Quit: Quit)
+2015-05-28 13:55:17	TVsEgon	Cretz: all tech companies have a sizeable Indian employee base...  i know mine does.
+2015-05-28 13:55:29	TVsEgon	in india and here in the US
+2015-05-28 13:55:31	Lou	oh, she's talking about third world bums. oh, who cares. (is kidding)
+2015-05-28 13:55:45	<--	squishyO (chatzilla@net-ojl.hl7.89.65.IP) has quit (Connection closed)
+2015-05-28 13:56:23	Biocow	i refreshed too, hopefully i'm closer to you guys now
+2015-05-28 13:56:27	Brusselbury	Really?
+2015-05-28 13:56:33	spotwork	I want replaceable batteries, dual sim cards and fm radios here
+2015-05-28 13:56:42	@tinnvec	I'm so bullish on chromebooks, I want them to do well
+2015-05-28 13:56:50	Cretz	I think i can hear her heartbeat
+2015-05-28 13:56:56	Lou	tinnvec, and they are!
+2015-05-28 13:56:59	Cretz	from her mic
+2015-05-28 13:57:01	tondagossa	I thought it was just me, Cretz 
+2015-05-28 13:57:15	Lou	more and more schools are abandoning iPads and going with chromebooks.
+2015-05-28 13:57:20	Lou	I own two chromebooks myself.
+2015-05-28 13:57:37	tondagossa	she's a bit nervous... and lying. /Daredevil
+2015-05-28 13:57:47	@tomgehrke	lol
+2015-05-28 13:57:57	@tinnvec	I bought a macbook pro so I'm using that until it dies, but when it does, I'm going chromebook
+2015-05-28 13:57:57	 *	icu someone on a live stream may or may not be discussing the benefits and pitfalls of personal photo backup on the web
+2015-05-28 13:58:11	@tinnvec	lmao tondagossa
+2015-05-28 13:58:23	@tinnvec	looool icu
+2015-05-28 13:58:33	Biocow	hahaha
+2015-05-28 13:58:39	Brusselbury	One of these things is not like the other
+2015-05-28 13:59:07	TVsEgon	tinnvec: i'd love for a dual-booting chromebook that could jump to windows for gaming, then back after
+2015-05-28 13:59:09	Lou	would that someone be doing so in a hypocritical manner?
+2015-05-28 13:59:18	Lou	TVsEgon, you can do it with Linux at least...
+2015-05-28 13:59:51	@tinnvec	hmmm yeah TVsEgon that'd be pretty sweet, or even the other way around, let me setup dual boot with chromeos on my mindows/mac lappy
+2015-05-28 14:00:11	icu	TVsEgon are you really saying that you just wish you could play Hearthstone on a Chromebook?
+2015-05-28 14:00:15	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 14:00:25	@tinnvec	lmao icu
+2015-05-28 14:00:27	@tinnvec	and yes
+2015-05-28 14:00:29	Lou	tinnvec, now that's what i wish. let me install ChromeOS like any other distro.
+2015-05-28 14:00:38	@tinnvec	to be honest, icu that was my first thought
+2015-05-28 14:00:39	<--	wlsn (wlsn@net-od76lk.as43234.net) has quit (Quit: Leaving)
+2015-05-28 14:00:46	@tinnvec	+10,000 Lou
+2015-05-28 14:00:52	@tinnvec	been wanting that since I heard about it
+2015-05-28 14:00:55	icu	Can you run Android apps on Chrome OS - if so it should be possible
+2015-05-28 14:01:02	tondagossa	damnit, I'm hungry
+2015-05-28 14:01:06	Brusselbury	How close is the Win8 Chrome app to Chrome OS?
+2015-05-28 14:01:19	-->	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has joined #chat
+2015-05-28 14:01:22	 *	sebgonz is also hungry.
+2015-05-28 14:01:23	Lou	icu you can now, yes. and any developer can bring their apps to chrome os too.
+2015-05-28 14:01:37	 *	Lou is also hungry. thinks tondagossa should order the chat pizza
+2015-05-28 14:01:46	Cretz	holy crap, everything is happening today: Google IO, Wildstar announcing it's going F2P, New champion in League released
+2015-05-28 14:01:50	tondagossa	haha, you got it, Lou
+2015-05-28 14:01:56	Biocow	did she say "huge-ass scarves"?
+2015-05-28 14:02:00	Cretz	all within the last hour or so
+2015-05-28 14:02:04	@tomgehrke	I release YouTube offline years ago. Unfortunately it didn't gain much interest. Was just a black screen. :/
+2015-05-28 14:02:05	 *	sebgonz would order the chat pizza if it didn't take 5 hours to place all the orders.
+2015-05-28 14:02:09	@tinnvec	wow they finally figured out YT offline
+2015-05-28 14:02:13	Lou	tondagossa, and i don't mean just one pizza for the whole chat. i mean one pizza for everyone in the chat, personally delievered.
+2015-05-28 14:02:19	@tinnvec	lol tomgehrke
+2015-05-28 14:02:24	tondagossa	Lou, no dice!
+2015-05-28 14:02:29	HuskyCaucasian	her speech paterns make me sleepy
+2015-05-28 14:02:50	@tinnvec	maybe she's a trained hypnotist
+2015-05-28 14:02:55	Biocow	what is she doing with her hands?
+2015-05-28 14:03:00	 *	tomgehrke clucks like a chicken...
+2015-05-28 14:03:01	Lou	your mom's speech patt..wait..that won't work...
+2015-05-28 14:03:08	<--	dctv_50290 (dctv_50290@net-31u.fru.141.81.IP) has quit (Quit: Quit)
+2015-05-28 14:03:15	-->	GMcCourt_MB (GMcCourt_MB@net-am0n09.biz.rr.com) has joined #chat
+2015-05-28 14:03:16	Lou	Biocow, talking.
+2015-05-28 14:03:24	@tinnvec	Biocow: what her speaking coach told her to do with them, not point lol
+2015-05-28 14:03:28	Lou	Speaking of sucking down...*looks towards another livestream*
+2015-05-28 14:04:04	Biocow	looked like she was holding two fruits.
+2015-05-28 14:04:15	Lou	okay, see that actually helps.
+2015-05-28 14:04:17	@tinnvec	so uh...how the hell do they do that
+2015-05-28 14:04:25	Lou	tinnvec magic
+2015-05-28 14:04:33	@tinnvec	without downloading data (and tons of it) constantly
+2015-05-28 14:04:38	@tinnvec	lol must be, Lou
+2015-05-28 14:04:49	Lou	hey! 
+2015-05-28 14:04:52	Lou	you're in 'Murica
+2015-05-28 14:04:55	Lou	speak 'Murican
+2015-05-28 14:04:56	Brusselbury	And they're driving over Costa Rica?!?!?
+2015-05-28 14:05:09	Brusselbury	That's, like, a whole country or something
+2015-05-28 14:05:25	Biocow	Announcement: Android OS now requires 75% of the phone's memory, the rest is for storage.
+2015-05-28 14:05:28	@tinnvec	I wonder if they figured out how to do the majority of the map processing in the app itself rather than online
+2015-05-28 14:05:33	mat3	you will still select a certain "map chunk" to store offline
+2015-05-28 14:05:39	@tinnvec	lol Biocow kind of my thinking at first
+2015-05-28 14:05:40	mat3	I assume
+2015-05-28 14:05:54	CdrMarks	Have you guys seen the chat next to the video hosted on YT? They were being brutal.
+2015-05-28 14:06:00	@tinnvec	mat3: I dont' thinkso, that was already a feature as I rememebr
+2015-05-28 14:06:00	Biocow	i actually used google maps offline last week when I was hiking. Worked well. On iOS.
+2015-05-28 14:06:01	Lou	Biocow, I thought that's how much of it it already needed.
+2015-05-28 14:06:02	 *	tomgehrke reaches for the kleenex box based on the music cue...
+2015-05-28 14:06:03	FC	They are sherlocking so many things today :P I'll be glad to not have to pay for extra offline map apps for when I travel out of country.
+2015-05-28 14:06:18	Lou	CdrMarks, yeah, Scott Johnson mentioned it. We tried to get hime to come here
+2015-05-28 14:06:19	@tinnvec	nah, CdrMarks I've learned to never use those chats, allways horrible
+2015-05-28 14:06:27	mat3	tinnvec yes it was/is
+2015-05-28 14:06:35	@tomgehrke	CdrMarks: nope. not sure why anyone would subject themselves to YT chat/comments.
+2015-05-28 14:06:55	Brusselbury	If they're that brutal over a fairly good conference, I can't wait to join them for E3
+2015-05-28 14:07:16	Lou	wait...does Android speak baby now?
+2015-05-28 14:07:27	Lou	it's the Docto...ooooh..okay, understand now. damn.
+2015-05-28 14:07:34	@tinnvec	Lou: autistic at least
+2015-05-28 14:07:47	Lou	tinnvec well, that's GREAT
+2015-05-28 14:07:48	@tinnvec	pretty smart idea for an app
+2015-05-28 14:07:54	tondagossa	love the accessibilty/communication stuff
+2015-05-28 14:08:00	@tinnvec	lol Lou
+2015-05-28 14:08:10	Lou	no. seriously. that's great
+2015-05-28 14:08:11	Cretz	I think that was the kid I heard earlier
+2015-05-28 14:08:19	@tinnvec	https://twitter.com/mollywood/status/603985982858207232
+2015-05-28 14:08:23	Lou	making the world more accessible and easier is great. 
+2015-05-28 14:08:33	@tinnvec	oh you, mollywood
+2015-05-28 14:08:46	Biocow	last ladies speaking coach https://www.youtube.com/watch?v=JuDWKE4NpGs&t=72
+2015-05-28 14:09:46	Brusselbury	I love gradles
+2015-05-28 14:09:57	@tomgehrke	gradle gradle gradle... i made you out of clay...
+2015-05-28 14:10:12	@tinnvec	ooooh handy
+2015-05-28 14:10:37	Brusselbury	I just heard squealing??
+2015-05-28 14:11:00	@tinnvec	Polymer is basically Bootstrap for Android
+2015-05-28 14:11:01	Biocow	someone pulling on the end of a balloon?
+2015-05-28 14:11:12	@tinnvec	hence all the squees from devs
+2015-05-28 14:11:14	mat3	anybody know what gradles in Android Studio are?
+2015-05-28 14:11:23	Lou	so..Android and iOS are essentially merging?
+2015-05-28 14:11:29	@tinnvec	!wiki gradles android
+2015-05-28 14:11:30	dctvbot	The page "Gradles android" does not exist. You can ask for it to be created, but consider checking the search results below to see whether the topic is already covered. http://is.gd/Yi0WOT
+2015-05-28 14:11:30	Brusselbury	sexually
+2015-05-28 14:11:32	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 14:11:33	-->	bs4free (bs4free@net-jke.0hf.47.174.IP) has joined #chat
+2015-05-28 14:11:34	Lou	trying to understand what this means
+2015-05-28 14:11:41	tondagossa	I'm coo coo for cocoapods
+2015-05-28 14:11:45	@tinnvec	!google gradles android
+2015-05-28 14:11:46	dctvbot	Build System Overview | Android Developers
+2015-05-28 14:11:46	dctvbot	https://developer.android.com/sdk/installing/studio-build.html
+2015-05-28 14:11:56	@tomgehrke	tondagossa: nice
+2015-05-28 14:12:30	@tinnvec	Lou: https://en.wikipedia.org/wiki/Gradle
+2015-05-28 14:12:32	mat3	thanks. it's ant in json
+2015-05-28 14:12:50	@tinnvec	heh yeah
+2015-05-28 14:12:55	Lou	tinnvec, *falls over, still not understanding*
+2015-05-28 14:13:00	Lou	do i look like an IT nerd to you?
+2015-05-28 14:13:11	-->	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has joined #chat
+2015-05-28 14:13:41	@tomgehrke	Lou: gradle is to developers as dick pics is to photoshop
+2015-05-28 14:13:41	@tinnvec	lol Lou, it's kind of like a script for how to build a project
+2015-05-28 14:13:56	 *	Biocow is in awe at all the neat words flying over his head.
+2015-05-28 14:13:56	Lou	tomgehrke, so it's fake and never happened? :P
+2015-05-28 14:14:08	@tomgehrke	Lou: exactly! no... wait...
+2015-05-28 14:14:11	 *	Lou is with Biocow 
+2015-05-28 14:14:15	Lou	tomgehrke, XD
+2015-05-28 14:14:28	Brusselbury	eh???
+2015-05-28 14:14:29	@tinnvec	Lou: if you know what make is in linux, it's kind of like that
+2015-05-28 14:14:33	-->	Leon (Leon@net-iektcv.allocated.cpp.edu) has joined #chat
+2015-05-28 14:14:33	--	Mode #chat [+o Leon] by ChanServ
+2015-05-28 14:14:57	Lou	tinnvec that makes sense. It's foundation to start upon. and then all the other languages are the basement, first floor, etc.
+2015-05-28 14:15:28	@tinnvec	yeah, basically, Lou, it's a way to define a project and the needed info that gos with it
+2015-05-28 14:15:52	Lou	hey alright. i understand nerd. kind of.
+2015-05-28 14:16:45	@tinnvec	heh yeah sorry I'm not so great at explaining concepts
+2015-05-28 14:16:50	mat3	!google cross-network with lifetime value attribution
+2015-05-28 14:16:51	dctvbot	F8: Facebook's Analytics for Apps, Other Announcements ... - Adweek
+2015-05-28 14:16:51	dctvbot	http://www.adweek.com/socialtimes/f8-analytics-for-apps-other-day-1/617640
+2015-05-28 14:17:01	mat3	:(
+2015-05-28 14:17:14	Lou	tinnvec no, you did good. I mean telling me that I "basically" had it right when I said it's the foundation is a good starting point for me.
+2015-05-28 14:17:23	@tinnvec	haha
+2015-05-28 14:17:24	zenguy_pc	is there a live stream?
+2015-05-28 14:17:32	Lou	zenguy_pc, http://diamondclub.tv/
+2015-05-28 14:17:36	@tinnvec	yup, on channel 1, zenguy_pc
+2015-05-28 14:17:40	@tinnvec	where Lou linked
+2015-05-28 14:17:42	zenguy_pc	Lou:  thank you.
+2015-05-28 14:17:42	-->	QNXMonkey (ZNCMonkey@net-693e2e.o4qa.6u0n.0180.2604.IP) has joined #chat
+2015-05-28 14:17:45	Lou	of course
+2015-05-28 14:17:46	 *	Biocow 's eyelids are growing heavy and he has a meeting in 10 minutes.
+2015-05-28 14:17:50	Biocow	Tapping out
+2015-05-28 14:17:51	<--	Conorew (androirc@net-s6m09i.threembb.co.uk) has quit (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+2015-05-28 14:18:12	@tinnvec	hmm! that's pretty cool
+2015-05-28 14:18:19	@tinnvec	dev homepage
+2015-05-28 14:18:50	-->	deko_polis_ (deko_polis@net-uog3sr.iatmgu.com) has joined #chat
+2015-05-28 14:19:27	@tinnvec	wow, less annoying ads based on app conext? love it
+2015-05-28 14:19:40	tondagossa	I'm down with that
+2015-05-28 14:19:49	@tomgehrke	or more annoying ads based on context. #perspective
+2015-05-28 14:20:09	Lou	It feels like google does everything right, then every once in awhile you get a "google blah blah blah...it's bad". but then they right the ship fairly quickly.
+2015-05-28 14:20:20	@tinnvec	true, tomgehrke heh
+2015-05-28 14:20:31	Lou	where as apple.."apple's phone calls are bad" Apples response: you're holding it wrong, here's a bumper.
+2015-05-28 14:20:54	@tinnvec	for sure Lou, and to be honest when something is bad, it's ofen the devs fault but google gets blamed for providing the avenue
+2015-05-28 14:21:02	Lou	yeah
+2015-05-28 14:21:17	TheatreMonkey	someones mic is resting on thier neck
+2015-05-28 14:21:24	@tinnvec	play games got a lot of updates recently, bet we're about to find out why
+2015-05-28 14:21:36	Cretz	most apple users are just ignorant shills
+2015-05-28 14:21:42	Cretz	or lazy
+2015-05-28 14:21:45	@tinnvec	TheatreMonkey: they're software engineers not sound engineers :P
+2015-05-28 14:21:51	TheatreMonkey	lol
+2015-05-28 14:22:01	Brusselbury	They're going to auto-install U2's games on all android phones
+2015-05-28 14:22:14	Chimaera	everyone gets media training, tinnvec.  NO EXCUSES
+2015-05-28 14:22:16	@tinnvec	zing!
+2015-05-28 14:22:23	@tinnvec	haha true, Chimaera
+2015-05-28 14:22:46	tondagossa	better
+2015-05-28 14:22:50	@tinnvec	oh wow, I've been a bit miffed at play store searching
+2015-05-28 14:23:02	@tinnvec	thought it was just me lol
+2015-05-28 14:23:11	tondagossa	no, we all hated it
+2015-05-28 14:23:17	tondagossa	lol
+2015-05-28 14:23:28	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 14:23:28	@tinnvec	welp this doesn't and will never apply to me
+2015-05-28 14:24:14	Lou	doesn't apply to me until my nephew is at least 10
+2015-05-28 14:24:20	@tinnvec	this is the open market way of curation
+2015-05-28 14:24:34	<--	ToddWhitehead (ToddWhitehe@net-3qqmkh.ph.cox.net) has quit (Quit: Quit)
+2015-05-28 14:24:44	@tinnvec	don't get rid of apps, just surface the right one
+2015-05-28 14:24:45	@tinnvec	ss
+2015-05-28 14:24:47	-->	MikeN300_ (miken300_su@net-vj9.4q9.56.172.IP) has joined #chat
+2015-05-28 14:25:03	tondagossa	she's like "any Star Wars fans? ...Nerds!"
+2015-05-28 14:25:16	<--	Ichiro (Ichiro@net-h3j7mi.evbo.4ctv.0006.2601.IP) has quit (Quit: Leaving...)
+2015-05-28 14:25:17	@tinnvec	oh snap: https://twitter.com/benthompson/status/603989560603713537
+2015-05-28 14:25:28	Janisku7	tondagossa: like senator
+2015-05-28 14:25:41	tondagossa	tinnvec, #boiled
+2015-05-28 14:25:41	dctvbot	 BBBBBOOOOOIIILLLED!! 
+2015-05-28 14:25:46	Brusselbury	tinnvec shots fired
+2015-05-28 14:25:48	@tinnvec	lmao totally tondagossa
+2015-05-28 14:26:03	@tinnvec	haha you guys can thank molly for retweeting that one
+2015-05-28 14:26:27	-->	madmarv (Thunderbird@net-csf.t3t.21.199.IP) has joined #chat
+2015-05-28 14:26:48	@tinnvec	clap for things before they're announced!
+2015-05-28 14:26:53	-->	web_44277 (web_44277@net-j173v9.dyn.optonline.net) has joined #chat
+2015-05-28 14:26:59	-->	RSharpe (RSharpe@net-p4k.qgh.175.184.IP) has joined #chat
+2015-05-28 14:27:07	@tomgehrke	i was considering udacity for android development training. i may do that now.
+2015-05-28 14:27:22	tondagossa	pretty cool
+2015-05-28 14:27:27	@tinnvec	yeah, looks like they have a smart thing setup
+2015-05-28 14:27:54	-->	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has joined #chat
+2015-05-28 14:28:04	<--	web_44277 (web_44277@net-j173v9.dyn.optonline.net) has quit (Quit: Quit)
+2015-05-28 14:28:05	@tinnvec	ah new cardboard
+2015-05-28 14:28:09	@tinnvec	VR time!!
+2015-05-28 14:28:17	TheatreMonkey	woooo
+2015-05-28 14:28:21	tondagossa	oh man
+2015-05-28 14:28:31	-->	eean (quassel@net-3qdu6p.ca.comcast.net) has joined #chat
+2015-05-28 14:28:33	<--	HiWEB (HiWEB@net-92a257.wa.comcast.net) has quit (Ping timeout: 121 seconds)
+2015-05-28 14:28:37	HuskyCaucasian	Google VR incoming!
+2015-05-28 14:28:43	Brusselbury	Google Cardboard 2: No phone, just the cardboard
+2015-05-28 14:28:51	@tinnvec	lmao Brusselbury
+2015-05-28 14:29:05	--	eean is now known as Guest7479
+2015-05-28 14:29:07	icu	I'd get a VR rig for my phone, but I still haven't heard of a compelling use case yet. Hope that changes soon.
+2015-05-28 14:29:10	tondagossa	Brusselbury, mind blown
+2015-05-28 14:29:31	@tinnvec	same here icu, glorified Viewmaster just doesn't excite me 
+2015-05-28 14:29:36	Cretz	wow, some loser proposed using cardboard, and she actually said yes. those two deserve eachother
+2015-05-28 14:29:51	Brusselbury	What's next? Duct tape prom dress proposal?
+2015-05-28 14:29:56	-->	belenos (belenos@net-euv.3u7.158.177.IP) has joined #chat
+2015-05-28 14:29:57	TheatreMonkey	every pot finds its lid
+2015-05-28 14:30:38	tondagossa	tada! it's a pizza box
+2015-05-28 14:30:49	@tinnvec	I just did this with my lootcrate box...
+2015-05-28 14:30:53	Brusselbury	what
+2015-05-28 14:30:57	@tinnvec	but I made a lockerroom
+2015-05-28 14:30:58	@tinnvec	lol
+2015-05-28 14:31:15	@tinnvec	iOS support, kudos Google (though not unexpected)
+2015-05-28 14:31:34	CdrMarks	no love for Windows phone?
+2015-05-28 14:31:44	Cretz	The Magic Schoolbus can
+2015-05-28 14:31:48	Brusselbury	Boo, I want to use VR on my Firefox phone
+2015-05-28 14:31:48	icu	CdrMarks nobody loves Windows phone including Microsoft
+2015-05-28 14:31:56	@tinnvec	not yet, I imagine google is waiting for 10 before making anything substantial
+2015-05-28 14:31:58	Janisku7	icu: i love my windows phone a lot
+2015-05-28 14:32:15	aphexx	oh shit.. Kung Fury is almost here https://www.youtube.com/watch?v=WvyaURnDvp0
+2015-05-28 14:32:22	Janisku7	my ios phone looks crashing a lot 
+2015-05-28 14:32:23	Brusselbury	See, this is the kind of thing Oculus Rift will probably be for
+2015-05-28 14:32:34	Brusselbury	aphexx I know!!! so hyped
+2015-05-28 14:32:42	@tinnvec	Brusselbury: not at it's current price
+2015-05-28 14:32:53	@tinnvec	cardboard makes it insanely cheap
+2015-05-28 14:32:59	Janisku7	Brusselbury: well mobile one then there is for better hardware
+2015-05-28 14:33:00	icu	I'm j/k I think there are some really cool WIndows phones. Was close to getting a 1020
+2015-05-28 14:33:00	Brusselbury	tinnvec Facebook bulk deals or something
+2015-05-28 14:33:20	aphexx	I wish I had a powerglove and the nintendo gun to celebrate
+2015-05-28 14:33:23	tondagossa	fun stuff
+2015-05-28 14:33:24	@tinnvec	Brusselbury: even then, you can't compete with a $50 phone and $10 worth of cardboard and lenses
+2015-05-28 14:33:28	<--	RSharpe (RSharpe@net-p4k.qgh.175.184.IP) has quit (Quit: This computer has gone to sleep)
+2015-05-28 14:33:36	<--	Lou (AJ@net-92fbt2.east.verizon.net) has quit (Ping timeout: 121 seconds)
+2015-05-28 14:33:46	icu	but yeah they are shown no love which is why I don't have one
+2015-05-28 14:33:51	Brusselbury	tinnvec right right, especially now that I'm seeing this presentation
+2015-05-28 14:34:15	@tinnvec	heh yeah, and we all know how well schools are funded :/
+2015-05-28 14:35:23	-->	jell (quassel@net-n2m.6hb.240.23.IP) has joined #chat
+2015-05-28 14:35:59	HuskyCaucasian	amen to that tinnvec
+2015-05-28 14:36:01	tondagossa	Jason spotted a milkshake
+2015-05-28 14:36:09	HuskyCaucasian	as someoen who as worked in schools
+2015-05-28 14:36:11	@tinnvec	DAMMIT, jason howell figured it out before us: https://twitter.com/jasonhowell/status/603992844907331584
+2015-05-28 14:36:18	@tinnvec	oh haha tondagossa beat me to that too
+2015-05-28 14:36:26	tondagossa	no link though :)
+2015-05-28 14:36:29	@tomgehrke	it could be a red herring. they've done that before.
+2015-05-28 14:36:38	@tinnvec	true
+2015-05-28 14:36:45	@tinnvec	milkshake makes sense though
+2015-05-28 14:36:47	Cretz	so...a holodeck?
+2015-05-28 14:36:50	Brusselbury	That's a lot of work
+2015-05-28 14:37:07	@tomgehrke	a good red herring always makes sense
+2015-05-28 14:37:09	Brusselbury	well...making a static milkshake image and putting it on a watch that can be seen by livestream
+2015-05-28 14:37:16	tondagossa	incoming "brings all boys to the yard" jokes. strap in and put on your helmets.
+2015-05-28 14:37:35	TheatreMonkey	<> reference  https://twitter.com/acedtect/status/603993051007057921
+2015-05-28 14:37:37	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 14:37:42	@tinnvec	hmmm this is pretty fuckign awesome
+2015-05-28 14:37:43	icu	are those all Illuminati hoodies?
+2015-05-28 14:38:05	-->	Shiftlock (Shiftlock@net-4gst6a) has joined #chat
+2015-05-28 14:38:17	@tinnvec	lol nice TheatreMonkey
+2015-05-28 14:38:35	HuskyCaucasian	<>
+2015-05-28 14:38:59	Brusselbury	we go from cheap cardboard to this
+2015-05-28 14:39:02	@tinnvec	THIS is the thing I'm excited about for VR
+2015-05-28 14:39:25	@tinnvec	lol ya Brusselbury, though they did say they built a working rig for it out of cardboard too
+2015-05-28 14:39:46	Brusselbury	with 16 cameras?
+2015-05-28 14:39:52	tondagossa	neat
+2015-05-28 14:39:58	@tomgehrke	dude...
+2015-05-28 14:40:05	@sebgonz	seriously...
+2015-05-28 14:40:10	tondagossa	that one guy in the audience is losing it
+2015-05-28 14:40:10	@tinnvec	wow
+2015-05-28 14:40:15	icu	so is M confirmed to be Milkshake?
+2015-05-28 14:40:18	Brusselbury	holy
+2015-05-28 14:40:31	@tomgehrke	icu: no. prevailing theory though.
+2015-05-28 14:40:36	@tinnvec	even the light shafts are renderd like you're there
+2015-05-28 14:40:54	 *	tondagossa puts on 3D glasses
+2015-05-28 14:41:04	icu	tomgehrke check the picture on his watch - looks like a milkshake to me https://pbs.twimg.com/media/CGHQR7xW8AEE1oc.jpg:large
+2015-05-28 14:41:22	@tinnvec	also...if they've figured out how to algorithmically figure out depth in a flat picture...damn that's amazing
+2015-05-28 14:41:32	tondagossa	it's like Paul Thurrott and I are on the same wavelength xD
+2015-05-28 14:41:55	-->	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has joined #chat
+2015-05-28 14:42:01	@tomgehrke	icu: indeed. might be the case. "seen on watch" isn't an official announcement though.
+2015-05-28 14:42:10	mek	kung fury thing soon WvyaURnDvp0
+2015-05-28 14:42:32	mek	https://www.youtube.com/watch?v=WvyaURnDvp0
+2015-05-28 14:42:54	Brusselbury	Google IO then Kung Fury, jeez
+2015-05-28 14:43:12	Brusselbury	And Green Jello's tonight
+2015-05-28 14:43:13	mek	well it might not have that actuall short film
+2015-05-28 14:43:28	Brusselbury	I think Kung Fury's a half-hour long, actually. Just remembered that
+2015-05-28 14:43:41	mek	although if you donated you get the 30 minute film today no matter what
+2015-05-28 14:43:42	-->	Ichiro (Ichiro@net-s1q2fb.hfc.comcastbusiness.net) has joined #chat
+2015-05-28 14:43:53	Brusselbury	mek they're talking for an hour, then they're watching it there at 4:30 EST
+2015-05-28 14:43:58	mek	ahh ok
+2015-05-28 14:44:09	@tinnvec	yay! auto autos
+2015-05-28 14:44:20	Brusselbury	And I believe it'll be free on Youtube mayyyybe at that time?
+2015-05-28 14:44:45	<--	Ichiro (Ichiro@net-s1q2fb.hfc.comcastbusiness.net) has quit (Quit: Leaving...)
+2015-05-28 14:44:54	Cretz	looks like it's time for GTA: Mountain View
+2015-05-28 14:44:59	@sebgonz	What book should I read?
+2015-05-28 14:45:12	tondagossa	Citadel 32
+2015-05-28 14:45:31	Brusselbury	A little unknown book called The Bible
+2015-05-28 14:45:48	@tinnvec	holy crap Loon is the future
+2015-05-28 14:46:42	@tinnvec	it's so smart too, basically a sattelite network that you don't have to launch into space
+2015-05-28 14:46:58	<--	MikeN300_ (miken300_su@net-vj9.4q9.56.172.IP) has quit (Ping timeout: 121 seconds)
+2015-05-28 14:47:16	@tinnvec	so...I want it to be next year already
+2015-05-28 14:47:17	tondagossa	Good luck! now get out!
+2015-05-28 14:47:26	@tinnvec	because I want ALL OF THIS
+2015-05-28 14:47:33	tondagossa	yes
+2015-05-28 14:47:35	@tinnvec	lol tondagossa
+2015-05-28 14:47:41	Brusselbury	it's gonna be the future soon
+2015-05-28 14:48:01	tondagossa	it won't always be this way
+2015-05-28 14:48:18	Brusselbury	when the things that make me weak and strange get engineered away
+2015-05-28 14:48:38	-->	MikeN300_ (miken300_su@net-vj9.4q9.56.172.IP) has joined #chat
+2015-05-28 14:48:41	@tomgehrke	so give me a few months to go through the udacity android development course and then i'll build the <>.tv app.
+2015-05-28 14:48:44	@tinnvec	yup Brusselbury, that's what we tend to do as humans
+2015-05-28 14:49:12	-->	Artgineer (Artgineer@net-mbv0t2.laferte.com) has joined #chat
+2015-05-28 14:49:33	tondagossa	hehe
+2015-05-28 14:50:24	Brusselbury	Holy fuck
+2015-05-28 14:50:35	Brusselbury	I can get the cardboard viewer assembled for $20.95
+2015-05-28 14:51:28	@tinnvec	the plans are also free and I think you can get the right lenses for like $5
+2015-05-28 14:51:34	Artgineer	don't buy it assembled, buy the flatpacked version
+2015-05-28 14:51:38	<--	Aaronbern (Aaron@net-rq4g11.ct.comcast.net) has quit (Quit: zzzzzz)
+2015-05-28 14:51:39	@tinnvec	if you want to go DIY
+2015-05-28 14:52:05	Brusselbury	I've tried doing papercraft, where it was a basic cube
+2015-05-28 14:52:08	Brusselbury	No
+2015-05-28 14:52:12	@tinnvec	lol
+2015-05-28 14:52:22	<--	CdrMarks (CdrMarks@net-vu9.aq6.79.64.IP) has quit (Quit: Quit)
+2015-05-28 14:52:32	Artgineer	even the plastic ones are like $15 now :)
+2015-05-28 14:53:38	@sebgonz	What's Citadel 32, tondagossa?
+2015-05-28 14:53:45	Brusselbury	hm k, so I don't think you can buy the newest one yet, but some of the ones out now are compatible with my phone
+2015-05-28 14:54:03	Artgineer	Brusselbury: what's your phone?
+2015-05-28 14:54:11	Brusselbury	Artgineer Galaxy S4
+2015-05-28 14:54:24	tondagossa	sebgonz, oh... just some little sci-fi book by none other than internet's own Tom Merritt, with cover by Scott Johnson
+2015-05-28 14:54:34	Artgineer	my brother used his S4 with the same one I use my Nexus 5, no worries
+2015-05-28 14:54:39	@sebgonz	Oh right. Yeah... I've read that.
+2015-05-28 14:54:45	@sebgonz	Under a different name.
+2015-05-28 14:54:48	Brusselbury	It's just in an Otterbox that I hate opening
+2015-05-28 14:54:51	@sebgonz	Beta read 32
+2015-05-28 14:54:52	-->	Flynngrim (Flynngrim@net-aud4i8.rcsntx.sbcglobal.net) has joined #chat
+2015-05-28 14:54:57	<--	teknis (teknis@net-4gst6a) has quit (Quit: Quit)
+2015-05-28 14:55:04	@sebgonz	It was fantastic.
+2015-05-28 14:55:33	tondagossa	Lot Beta?
+2015-05-28 14:55:45	Brusselbury	Artgineer which one did you get/build?
+2015-05-28 14:55:48	@sebgonz	Read that too.
+2015-05-28 14:56:12	@sebgonz	Multiple times. I used it as a sample on my audiobook auditions.
+2015-05-28 14:56:13	tondagossa	of course you have. why wouldn't anyone not read those books
+2015-05-28 14:56:33	Brusselbury	Have you read the famous Beta Max series?
+2015-05-28 14:56:33	dctvbot	I was BORN ready!
+2015-05-28 14:56:41	Artgineer	Brusselbury: straight from google on amazon
+2015-05-28 14:56:48	@tinnvec	looool dctvbot
+2015-05-28 14:56:58	Brusselbury	Artgineer sweet, I need to do this soon!!
+2015-05-28 14:57:06	-->	trintoidz (trintoidz@net-rhvfg8.dyn.nltelcom.net) has joined #chat
+2015-05-28 14:57:32	tondagossa	sebgonz, but seriously, have you read Old Man's War? or Dust?
+2015-05-28 14:57:32	dctvbot	I was BORN ready!
+2015-05-28 14:57:46	Artgineer	https://www.google.com/get/cardboard/get-cardboard/
+2015-05-28 14:57:48	@tinnvec	hehehehehehe
+2015-05-28 14:57:57	@tinnvec	that is the best coding error I've ever made
+2015-05-28 14:58:06	Brusselbury	Artgineer yep that's where I've been looking
+2015-05-28 14:58:11	@sebgonz	No. I haven't, tondagossa.
+2015-05-28 14:58:15	jbhannah	lol tinnvec, nice
+2015-05-28 14:58:18	@sebgonz	ah... it's scalzi. I like that guy.
+2015-05-28 14:58:25	tondagossa	yeah, he's great
+2015-05-28 14:58:33	Artgineer	mine looks like the "I am cardboard" one IIRC
+2015-05-28 14:58:34	@tinnvec	he's supposed to require a ? at the end of "you ready" but I forgot to escape it in the regex, so it made the y optional
+2015-05-28 14:58:34	dctvbot	I was BORN ready!
+2015-05-28 14:58:43	<--	MikeN300_ (miken300_su@net-vj9.4q9.56.172.IP) has quit (Ping timeout: 121 seconds)
+2015-05-28 14:58:50	jbhannah	tondagossa, sebgonz: I got Old Man's War from a Humble Bundle, been meaning to read it. I love Scalzi's blog though.
+2015-05-28 14:58:52	Brusselbury	looool

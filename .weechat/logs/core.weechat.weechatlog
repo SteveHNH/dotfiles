@@ -1,0 +1,1019 @@
+2015-04-11 19:26:30	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/tcl.so": libtcl8.6.so: cannot open shared object file: No such file or directory
+2015-04-11 19:26:30	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2015-04-11 19:26:30		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
+2015-04-11 19:26:39		fifo: pipe closed
+2015-04-11 19:27:01		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-04-11 19:27:24		All servers:
+2015-04-11 19:27:24		   freenode
+2015-04-11 19:27:28		All servers:
+2015-04-11 19:27:28		Server: freenode [not connected]
+2015-04-11 19:27:28		  addresses. . . . . . : 'chat.freenode.net/6667'
+2015-04-11 19:27:28		  proxy. . . . . . . . :   ('')
+2015-04-11 19:27:28		  ipv6 . . . . . . . . :   (on)
+2015-04-11 19:27:28		  ssl. . . . . . . . . :   (off)
+2015-04-11 19:27:28		  ssl_cert . . . . . . :   ('')
+2015-04-11 19:27:28		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-04-11 19:27:28		  ssl_dhkey_size . . . :   (2048)
+2015-04-11 19:27:28		  ssl_fingerprint. . . :   ('')
+2015-04-11 19:27:28		  ssl_verify . . . . . :   (on)
+2015-04-11 19:27:28		  password . . . . . . :   (hidden)
+2015-04-11 19:27:28		  capabilities . . . . :   ('')
+2015-04-11 19:27:28		  sasl_mechanism . . . :   ('plain')
+2015-04-11 19:27:28		  sasl_username. . . . :   ('')
+2015-04-11 19:27:28		  sasl_password. . . . :   (hidden)
+2015-04-11 19:27:28		  sasl_timeout . . . . :   (15 seconds)
+2015-04-11 19:27:28		  sasl_fail. . . . . . :   ('continue')
+2015-04-11 19:27:28		  autoconnect. . . . . :   (off)
+2015-04-11 19:27:28		  autoreconnect. . . . :   (on)
+2015-04-11 19:27:28		  autoreconnect_delay. :   (10 seconds)
+2015-04-11 19:27:28		  nicks. . . . . . . . :   ('tsa20,tsa201,tsa202,tsa203,tsa204')
+2015-04-11 19:27:28		  username . . . . . . :   ('tsa20')
+2015-04-11 19:27:28		  realname . . . . . . :   ('')
+2015-04-11 19:27:28		  local_hostname . . . :   ('')
+2015-04-11 19:27:28		  command. . . . . . . :   ('')
+2015-04-11 19:27:28		  command_delay. . . . :   (0 seconds)
+2015-04-11 19:27:28		  autojoin . . . . . . :   ('')
+2015-04-11 19:27:28		  autorejoin . . . . . :   (off)
+2015-04-11 19:27:28		  autorejoin_delay . . :   (30 seconds)
+2015-04-11 19:27:28		  connection_timeout . :   (60 seconds)
+2015-04-11 19:27:28		  anti_flood_prio_high :   (2 seconds)
+2015-04-11 19:27:28		  anti_flood_prio_low. :   (2 seconds)
+2015-04-11 19:27:28		  away_check . . . . . :   (0 minutes)
+2015-04-11 19:27:28		  away_check_max_nicks :   (25)
+2015-04-11 19:27:28		  default_msg_kick . . :   ('')
+2015-04-11 19:27:28		  default_msg_part . . :   ('WeeChat %v')
+2015-04-11 19:27:28		  default_msg_quit . . :   ('WeeChat %v')
+2015-04-11 19:27:28		  notify . . . . . . . :   ('')
+2015-04-11 19:27:39		Option changed: irc.server.freenode.nicks = "stevehnh"  (default: (undefined))
+2015-04-11 19:27:53		Option changed: irc.server.freenode.username = "stevehnh"  (default: (undefined))
+2015-04-11 20:33:53		fifo: pipe closed
+2015-04-18 17:21:19		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-04-18 17:22:09		fifo: pipe closed
+2015-04-18 17:27:54		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-04-18 17:38:42		All servers:
+2015-04-18 17:38:42		   freenode
+2015-04-18 17:38:45		All servers:
+2015-04-18 17:38:45		Server: freenode [not connected]
+2015-04-18 17:38:45		  addresses. . . . . . : 'chat.freenode.net/6667'
+2015-04-18 17:38:45		  proxy. . . . . . . . :   ('')
+2015-04-18 17:38:45		  ipv6 . . . . . . . . :   (on)
+2015-04-18 17:38:45		  ssl. . . . . . . . . :   (off)
+2015-04-18 17:38:45		  ssl_cert . . . . . . :   ('')
+2015-04-18 17:38:45		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-04-18 17:38:45		  ssl_dhkey_size . . . :   (2048)
+2015-04-18 17:38:45		  ssl_fingerprint. . . :   ('')
+2015-04-18 17:38:45		  ssl_verify . . . . . :   (on)
+2015-04-18 17:38:45		  password . . . . . . :   (hidden)
+2015-04-18 17:38:45		  capabilities . . . . :   ('')
+2015-04-18 17:38:45		  sasl_mechanism . . . :   ('plain')
+2015-04-18 17:38:45		  sasl_username. . . . :   ('')
+2015-04-18 17:38:45		  sasl_password. . . . :   (hidden)
+2015-04-18 17:38:45		  sasl_timeout . . . . :   (15 seconds)
+2015-04-18 17:38:45		  sasl_fail. . . . . . :   ('continue')
+2015-04-18 17:38:45		  autoconnect. . . . . :   (off)
+2015-04-18 17:38:45		  autoreconnect. . . . :   (on)
+2015-04-18 17:38:45		  autoreconnect_delay. :   (10 seconds)
+2015-04-18 17:38:45		  nicks. . . . . . . . : 'stevehnh'
+2015-04-18 17:38:45		  username . . . . . . : 'stevehnh'
+2015-04-18 17:38:45		  realname . . . . . . :   ('')
+2015-04-18 17:38:45		  local_hostname . . . :   ('')
+2015-04-18 17:38:45		  command. . . . . . . :   ('')
+2015-04-18 17:38:45		  command_delay. . . . :   (0 seconds)
+2015-04-18 17:38:45		  autojoin . . . . . . :   ('')
+2015-04-18 17:38:45		  autorejoin . . . . . :   (off)
+2015-04-18 17:38:45		  autorejoin_delay . . :   (30 seconds)
+2015-04-18 17:38:45		  connection_timeout . :   (60 seconds)
+2015-04-18 17:38:45		  anti_flood_prio_high :   (2 seconds)
+2015-04-18 17:38:45		  anti_flood_prio_low. :   (2 seconds)
+2015-04-18 17:38:45		  away_check . . . . . :   (0 minutes)
+2015-04-18 17:38:45		  away_check_max_nicks :   (25)
+2015-04-18 17:38:45		  default_msg_kick . . :   ('')
+2015-04-18 17:38:45		  default_msg_part . . :   ('WeeChat %v')
+2015-04-18 17:38:45		  default_msg_quit . . :   ('WeeChat %v')
+2015-04-18 17:38:45		  notify . . . . . . . :   ('')
+2015-04-18 17:40:12		fifo: pipe closed
+2015-05-18 08:23:14		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-05-18 08:23:20		script: downloading list of scripts...
+2015-05-18 08:23:21		script: 292 scripts for WeeChat 1.1.1
+2015-05-18 08:23:22		perl: loading script "/home/tsa20/.weechat/perl/buffers.pl"
+2015-05-18 08:23:22		perl: registered script "buffers", version 5.0 (Sidebar with list of buffers)
+2015-05-18 08:23:22		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2015-05-18 08:23:22		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2015-05-18 08:23:22		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2015-05-18 08:23:22		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2015-05-18 08:23:33		All servers:
+2015-05-18 08:23:33		Server: freenode [not connected]
+2015-05-18 08:23:33		  addresses. . . . . . : 'chat.freenode.net/6667'
+2015-05-18 08:23:33		  proxy. . . . . . . . :   ('')
+2015-05-18 08:23:33		  ipv6 . . . . . . . . :   (on)
+2015-05-18 08:23:33		  ssl. . . . . . . . . :   (off)
+2015-05-18 08:23:33		  ssl_cert . . . . . . :   ('')
+2015-05-18 08:23:33		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-05-18 08:23:33		  ssl_dhkey_size . . . :   (2048)
+2015-05-18 08:23:33		  ssl_fingerprint. . . :   ('')
+2015-05-18 08:23:33		  ssl_verify . . . . . :   (on)
+2015-05-18 08:23:33		  password . . . . . . :   (hidden)
+2015-05-18 08:23:33		  capabilities . . . . :   ('')
+2015-05-18 08:23:33		  sasl_mechanism . . . :   ('plain')
+2015-05-18 08:23:33		  sasl_username. . . . :   ('')
+2015-05-18 08:23:33		  sasl_password. . . . :   (hidden)
+2015-05-18 08:23:33		  sasl_timeout . . . . :   (15 seconds)
+2015-05-18 08:23:33		  sasl_fail. . . . . . :   ('continue')
+2015-05-18 08:23:33		  autoconnect. . . . . :   (off)
+2015-05-18 08:23:33		  autoreconnect. . . . :   (on)
+2015-05-18 08:23:33		  autoreconnect_delay. :   (10 seconds)
+2015-05-18 08:23:33		  nicks. . . . . . . . : 'stevehnh'
+2015-05-18 08:23:33		  username . . . . . . : 'stevehnh'
+2015-05-18 08:23:33		  realname . . . . . . :   ('')
+2015-05-18 08:23:33		  local_hostname . . . :   ('')
+2015-05-18 08:23:33		  command. . . . . . . :   ('')
+2015-05-18 08:23:33		  command_delay. . . . :   (0 seconds)
+2015-05-18 08:23:33		  autojoin . . . . . . :   ('')
+2015-05-18 08:23:33		  autorejoin . . . . . :   (off)
+2015-05-18 08:23:33		  autorejoin_delay . . :   (30 seconds)
+2015-05-18 08:23:33		  connection_timeout . :   (60 seconds)
+2015-05-18 08:23:33		  anti_flood_prio_high :   (2 seconds)
+2015-05-18 08:23:33		  anti_flood_prio_low. :   (2 seconds)
+2015-05-18 08:23:33		  away_check . . . . . :   (0 minutes)
+2015-05-18 08:23:33		  away_check_max_nicks :   (25)
+2015-05-18 08:23:33		  default_msg_kick . . :   ('')
+2015-05-18 08:23:33		  default_msg_part . . :   ('WeeChat %v')
+2015-05-18 08:23:33		  default_msg_quit . . :   ('WeeChat %v')
+2015-05-18 08:23:33		  notify . . . . . . . :   ('')
+2015-05-18 08:23:43		[irc]  /server  list|listfull [<server>]
+2015-05-18 08:23:43		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2015-05-18 08:23:43		                copy|rename <server> <new_name>
+2015-05-18 08:23:43		                reorder <server> [<server>...]
+2015-05-18 08:23:43		                del|keep <server>
+2015-05-18 08:23:43		                deloutq|jump|raw
+2015-05-18 08:23:43		list, add or remove IRC servers
+2015-05-18 08:23:43		    list: list servers (without argument, this list is displayed)
+2015-05-18 08:23:43		listfull: list servers with detailed info for each server
+2015-05-18 08:23:43		     add: create a new server
+2015-05-18 08:23:43		  server: server name, for internal and display use
+2015-05-18 08:23:43		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2015-05-18 08:23:43		    temp: create temporary server (not saved)
+2015-05-18 08:23:43		  option: set option for server (for boolean option, value can be omitted)
+2015-05-18 08:23:43		nooption: set boolean option to 'off' (for example: -nossl)
+2015-05-18 08:23:43		    copy: duplicate a server
+2015-05-18 08:23:43		  rename: rename a server
+2015-05-18 08:23:43		 reorder: reorder list of servers
+2015-05-18 08:23:43		    keep: keep server in config file (for temporary servers only)
+2015-05-18 08:23:43		     del: delete a server
+2015-05-18 08:23:43		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2015-05-18 08:23:43		    jump: jump to server buffer
+2015-05-18 08:23:43		     raw: open buffer with raw IRC data
+2015-05-18 08:23:43		Examples:
+2015-05-18 08:23:43		  /server listfull
+2015-05-18 08:23:43		  /server add oftc irc.oftc.net/6697 -ssl -autoconnect
+2015-05-18 08:23:43		  /server add oftc6 irc6.oftc.net/6697 -ipv6 -ssl
+2015-05-18 08:23:43		  /server add freenode2 chat.eu.freenode.net/6667,chat.us.freenode.net/6667
+2015-05-18 08:23:43		  /server add freenode3 chat.freenode.net -password=mypass
+2015-05-18 08:23:43		  /server copy oftc oftcbis
+2015-05-18 08:23:43		  /server rename oftc newoftc
+2015-05-18 08:23:43		  /server reorder oftc freenode
+2015-05-18 08:23:43		  /server del freenode
+2015-05-18 08:23:43		  /server deloutq
+2015-05-18 08:24:08		irc: server dhtsirc created
+2015-05-18 08:24:31		Option changed: irc.server.dhtsirc.nicks = "Stephen_Adams,Stephen_Adams_,Stephen_Adams__"  (default: (undefined))
+2015-05-18 08:24:43		Option changed: irc.server.dhtsirc.ssl_verify = off  (default: (undefined))
+2015-05-18 08:24:48		All servers:
+2015-05-18 08:24:48		Server: freenode [not connected]
+2015-05-18 08:24:48		  addresses. . . . . . : 'chat.freenode.net/6667'
+2015-05-18 08:24:48		  proxy. . . . . . . . :   ('')
+2015-05-18 08:24:48		  ipv6 . . . . . . . . :   (on)
+2015-05-18 08:24:48		  ssl. . . . . . . . . :   (off)
+2015-05-18 08:24:48		  ssl_cert . . . . . . :   ('')
+2015-05-18 08:24:48		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-05-18 08:24:48		  ssl_dhkey_size . . . :   (2048)
+2015-05-18 08:24:48		  ssl_fingerprint. . . :   ('')
+2015-05-18 08:24:48		  ssl_verify . . . . . :   (on)
+2015-05-18 08:24:48		  password . . . . . . :   (hidden)
+2015-05-18 08:24:48		  capabilities . . . . :   ('')
+2015-05-18 08:24:48		  sasl_mechanism . . . :   ('plain')
+2015-05-18 08:24:48		  sasl_username. . . . :   ('')
+2015-05-18 08:24:48		  sasl_password. . . . :   (hidden)
+2015-05-18 08:24:48		  sasl_timeout . . . . :   (15 seconds)
+2015-05-18 08:24:48		  sasl_fail. . . . . . :   ('continue')
+2015-05-18 08:24:48		  autoconnect. . . . . :   (off)
+2015-05-18 08:24:48		  autoreconnect. . . . :   (on)
+2015-05-18 08:24:48		  autoreconnect_delay. :   (10 seconds)
+2015-05-18 08:24:48		  nicks. . . . . . . . : 'stevehnh'
+2015-05-18 08:24:48		  username . . . . . . : 'stevehnh'
+2015-05-18 08:24:48		  realname . . . . . . :   ('')
+2015-05-18 08:24:48		  local_hostname . . . :   ('')
+2015-05-18 08:24:48		  command. . . . . . . :   ('')
+2015-05-18 08:24:48		  command_delay. . . . :   (0 seconds)
+2015-05-18 08:24:48		  autojoin . . . . . . :   ('')
+2015-05-18 08:24:48		  autorejoin . . . . . :   (off)
+2015-05-18 08:24:48		  autorejoin_delay . . :   (30 seconds)
+2015-05-18 08:24:48		  connection_timeout . :   (60 seconds)
+2015-05-18 08:24:48		  anti_flood_prio_high :   (2 seconds)
+2015-05-18 08:24:48		  anti_flood_prio_low. :   (2 seconds)
+2015-05-18 08:24:48		  away_check . . . . . :   (0 minutes)
+2015-05-18 08:24:48		  away_check_max_nicks :   (25)
+2015-05-18 08:24:48		  default_msg_kick . . :   ('')
+2015-05-18 08:24:48		  default_msg_part . . :   ('WeeChat %v')
+2015-05-18 08:24:48		  default_msg_quit . . :   ('WeeChat %v')
+2015-05-18 08:24:48		  notify . . . . . . . :   ('')
+2015-05-18 08:24:48		Server: dhtsirc [not connected]
+2015-05-18 08:24:48		  addresses. . . . . . : 'vlp-dhtsirc.dhe.duke.edu/6667'
+2015-05-18 08:24:48		  proxy. . . . . . . . :   ('')
+2015-05-18 08:24:48		  ipv6 . . . . . . . . :   (on)
+2015-05-18 08:24:48		  ssl. . . . . . . . . : on
+2015-05-18 08:24:48		  ssl_cert . . . . . . :   ('')
+2015-05-18 08:24:48		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-05-18 08:24:48		  ssl_dhkey_size . . . :   (2048)
+2015-05-18 08:24:48		  ssl_fingerprint. . . :   ('')
+2015-05-18 08:24:48		  ssl_verify . . . . . : off
+2015-05-18 08:24:48		  password . . . . . . : (hidden)
+2015-05-18 08:24:48		  capabilities . . . . :   ('')
+2015-05-18 08:24:48		  sasl_mechanism . . . :   ('plain')
+2015-05-18 08:24:48		  sasl_username. . . . :   ('')
+2015-05-18 08:24:48		  sasl_password. . . . :   (hidden)
+2015-05-18 08:24:48		  sasl_timeout . . . . :   (15 seconds)
+2015-05-18 08:24:48		  sasl_fail. . . . . . :   ('continue')
+2015-05-18 08:24:48		  autoconnect. . . . . :   (off)
+2015-05-18 08:24:48		  autoreconnect. . . . :   (on)
+2015-05-18 08:24:48		  autoreconnect_delay. :   (10 seconds)
+2015-05-18 08:24:48		  nicks. . . . . . . . : 'Stephen_Adams,Stephen_Adams_,Stephen_Adams__'
+2015-05-18 08:24:48		  username . . . . . . :   ('tsa20')
+2015-05-18 08:24:48		  realname . . . . . . :   ('')
+2015-05-18 08:24:48		  local_hostname . . . :   ('')
+2015-05-18 08:24:48		  command. . . . . . . :   ('')
+2015-05-18 08:24:48		  command_delay. . . . :   (0 seconds)
+2015-05-18 08:24:48		  autojoin . . . . . . :   ('')
+2015-05-18 08:24:48		  autorejoin . . . . . :   (off)
+2015-05-18 08:24:48		  autorejoin_delay . . :   (30 seconds)
+2015-05-18 08:24:48		  connection_timeout . :   (60 seconds)
+2015-05-18 08:24:48		  anti_flood_prio_high :   (2 seconds)
+2015-05-18 08:24:48		  anti_flood_prio_low. :   (2 seconds)
+2015-05-18 08:24:48		  away_check . . . . . :   (0 minutes)
+2015-05-18 08:24:48		  away_check_max_nicks :   (25)
+2015-05-18 08:24:48		  default_msg_kick . . :   ('')
+2015-05-18 08:24:48		  default_msg_part . . :   ('WeeChat %v')
+2015-05-18 08:24:48		  default_msg_quit . . :   ('WeeChat %v')
+2015-05-18 08:24:48		  notify . . . . . . . :   ('')
+2015-05-18 08:25:45		irc: server thinstack created
+2015-05-18 08:25:57		Option changed: irc.server.thinstack.nicks = "stevehnh,stevehnh_,stevehnh__"  (default: (undefined))
+2015-05-18 08:32:03		Mouse enabled
+2015-05-18 12:18:42	=!=	Error: unknown command "/back" (type /help for help)
+2015-05-18 14:42:25		fifo: pipe closed
+2015-05-18 14:42:25		perl: scripts unloaded
+2015-05-19 07:56:57		perl scripts loaded: buffers
+2015-05-19 07:56:57		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-05-19 13:03:27		All servers:
+2015-05-19 13:03:27		Server: freenode [not connected]
+2015-05-19 13:03:27		  addresses. . . . . . : 'chat.freenode.net/6667'
+2015-05-19 13:03:27		  proxy. . . . . . . . :   ('')
+2015-05-19 13:03:27		  ipv6 . . . . . . . . :   (on)
+2015-05-19 13:03:27		  ssl. . . . . . . . . :   (off)
+2015-05-19 13:03:27		  ssl_cert . . . . . . :   ('')
+2015-05-19 13:03:27		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-05-19 13:03:27		  ssl_dhkey_size . . . :   (2048)
+2015-05-19 13:03:27		  ssl_fingerprint. . . :   ('')
+2015-05-19 13:03:27		  ssl_verify . . . . . :   (on)
+2015-05-19 13:03:27		  password . . . . . . :   (hidden)
+2015-05-19 13:03:27		  capabilities . . . . :   ('')
+2015-05-19 13:03:27		  sasl_mechanism . . . :   ('plain')
+2015-05-19 13:03:27		  sasl_username. . . . :   ('')
+2015-05-19 13:03:27		  sasl_password. . . . :   (hidden)
+2015-05-19 13:03:27		  sasl_timeout . . . . :   (15 seconds)
+2015-05-19 13:03:27		  sasl_fail. . . . . . :   ('continue')
+2015-05-19 13:03:27		  autoconnect. . . . . :   (off)
+2015-05-19 13:03:27		  autoreconnect. . . . :   (on)
+2015-05-19 13:03:27		  autoreconnect_delay. :   (10 seconds)
+2015-05-19 13:03:27		  nicks. . . . . . . . : 'stevehnh'
+2015-05-19 13:03:27		  username . . . . . . : 'stevehnh'
+2015-05-19 13:03:27		  realname . . . . . . :   ('')
+2015-05-19 13:03:27		  local_hostname . . . :   ('')
+2015-05-19 13:03:27		  command. . . . . . . :   ('')
+2015-05-19 13:03:27		  command_delay. . . . :   (0 seconds)
+2015-05-19 13:03:27		  autojoin . . . . . . :   ('')
+2015-05-19 13:03:27		  autorejoin . . . . . :   (off)
+2015-05-19 13:03:27		  autorejoin_delay . . :   (30 seconds)
+2015-05-19 13:03:27		  connection_timeout . :   (60 seconds)
+2015-05-19 13:03:27		  anti_flood_prio_high :   (2 seconds)
+2015-05-19 13:03:27		  anti_flood_prio_low. :   (2 seconds)
+2015-05-19 13:03:27		  away_check . . . . . :   (0 minutes)
+2015-05-19 13:03:27		  away_check_max_nicks :   (25)
+2015-05-19 13:03:27		  default_msg_kick . . :   ('')
+2015-05-19 13:03:27		  default_msg_part . . :   ('WeeChat %v')
+2015-05-19 13:03:27		  default_msg_quit . . :   ('WeeChat %v')
+2015-05-19 13:03:27		  notify . . . . . . . :   ('')
+2015-05-19 13:03:27		Server: dhtsirc [connected]
+2015-05-19 13:03:27		  addresses. . . . . . : 'vlp-dhtsirc.dhe.duke.edu/6667'
+2015-05-19 13:03:27		  proxy. . . . . . . . :   ('')
+2015-05-19 13:03:27		  ipv6 . . . . . . . . :   (on)
+2015-05-19 13:03:27		  ssl. . . . . . . . . : on
+2015-05-19 13:03:27		  ssl_cert . . . . . . :   ('')
+2015-05-19 13:03:27		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-05-19 13:03:27		  ssl_dhkey_size . . . :   (2048)
+2015-05-19 13:03:27		  ssl_fingerprint. . . :   ('')
+2015-05-19 13:03:27		  ssl_verify . . . . . : off
+2015-05-19 13:03:27		  password . . . . . . : (hidden)
+2015-05-19 13:03:27		  capabilities . . . . :   ('')
+2015-05-19 13:03:27		  sasl_mechanism . . . :   ('plain')
+2015-05-19 13:03:27		  sasl_username. . . . :   ('')
+2015-05-19 13:03:27		  sasl_password. . . . :   (hidden)
+2015-05-19 13:03:27		  sasl_timeout . . . . :   (15 seconds)
+2015-05-19 13:03:27		  sasl_fail. . . . . . :   ('continue')
+2015-05-19 13:03:27		  autoconnect. . . . . :   (off)
+2015-05-19 13:03:27		  autoreconnect. . . . :   (on)
+2015-05-19 13:03:27		  autoreconnect_delay. :   (10 seconds)
+2015-05-19 13:03:27		  nicks. . . . . . . . : 'Stephen_Adams,Stephen_Adams_,Stephen_Adams__'
+2015-05-19 13:03:27		  username . . . . . . :   ('tsa20')
+2015-05-19 13:03:27		  realname . . . . . . :   ('')
+2015-05-19 13:03:27		  local_hostname . . . :   ('')
+2015-05-19 13:03:27		  command. . . . . . . :   ('')
+2015-05-19 13:03:27		  command_delay. . . . :   (0 seconds)
+2015-05-19 13:03:27		  autojoin . . . . . . :   ('')
+2015-05-19 13:03:27		  autorejoin . . . . . :   (off)
+2015-05-19 13:03:27		  autorejoin_delay . . :   (30 seconds)
+2015-05-19 13:03:27		  connection_timeout . :   (60 seconds)
+2015-05-19 13:03:27		  anti_flood_prio_high :   (2 seconds)
+2015-05-19 13:03:27		  anti_flood_prio_low. :   (2 seconds)
+2015-05-19 13:03:27		  away_check . . . . . :   (0 minutes)
+2015-05-19 13:03:27		  away_check_max_nicks :   (25)
+2015-05-19 13:03:27		  default_msg_kick . . :   ('')
+2015-05-19 13:03:27		  default_msg_part . . :   ('WeeChat %v')
+2015-05-19 13:03:27		  default_msg_quit . . :   ('WeeChat %v')
+2015-05-19 13:03:27		  notify . . . . . . . :   ('')
+2015-05-19 13:03:27		Server: thinstack [not connected]
+2015-05-19 13:03:27		  addresses. . . . . . : 'irc.thinstack.net/6667'
+2015-05-19 13:03:27		  proxy. . . . . . . . :   ('')
+2015-05-19 13:03:27		  ipv6 . . . . . . . . :   (on)
+2015-05-19 13:03:27		  ssl. . . . . . . . . :   (off)
+2015-05-19 13:03:27		  ssl_cert . . . . . . :   ('')
+2015-05-19 13:03:27		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-05-19 13:03:27		  ssl_dhkey_size . . . :   (2048)
+2015-05-19 13:03:27		  ssl_fingerprint. . . :   ('')
+2015-05-19 13:03:27		  ssl_verify . . . . . :   (on)
+2015-05-19 13:03:27		  password . . . . . . :   (hidden)
+2015-05-19 13:03:27		  capabilities . . . . :   ('')
+2015-05-19 13:03:27		  sasl_mechanism . . . :   ('plain')
+2015-05-19 13:03:27		  sasl_username. . . . :   ('')
+2015-05-19 13:03:27		  sasl_password. . . . :   (hidden)
+2015-05-19 13:03:27		  sasl_timeout . . . . :   (15 seconds)
+2015-05-19 13:03:27		  sasl_fail. . . . . . :   ('continue')
+2015-05-19 13:03:27		  autoconnect. . . . . :   (off)
+2015-05-19 13:03:27		  autoreconnect. . . . :   (on)
+2015-05-19 13:03:27		  autoreconnect_delay. :   (10 seconds)
+2015-05-19 13:03:27		  nicks. . . . . . . . : 'stevehnh,stevehnh_,stevehnh__'
+2015-05-19 13:03:27		  username . . . . . . :   ('tsa20')
+2015-05-19 13:03:27		  realname . . . . . . :   ('')
+2015-05-19 13:03:27		  local_hostname . . . :   ('')
+2015-05-19 13:03:27		  command. . . . . . . :   ('')
+2015-05-19 13:03:27		  command_delay. . . . :   (0 seconds)
+2015-05-19 13:03:27		  autojoin . . . . . . :   ('')
+2015-05-19 13:03:27		  autorejoin . . . . . :   (off)
+2015-05-19 13:03:27		  autorejoin_delay . . :   (30 seconds)
+2015-05-19 13:03:27		  connection_timeout . :   (60 seconds)
+2015-05-19 13:03:27		  anti_flood_prio_high :   (2 seconds)
+2015-05-19 13:03:27		  anti_flood_prio_low. :   (2 seconds)
+2015-05-19 13:03:27		  away_check . . . . . :   (0 minutes)
+2015-05-19 13:03:27		  away_check_max_nicks :   (25)
+2015-05-19 13:03:27		  default_msg_kick . . :   ('')
+2015-05-19 13:03:27		  default_msg_part . . :   ('WeeChat %v')
+2015-05-19 13:03:27		  default_msg_quit . . :   ('WeeChat %v')
+2015-05-19 13:03:27		  notify . . . . . . . :   ('')
+2015-05-19 14:12:38	=!=	Error: unknown command "/exti" (type /help for help)
+2015-05-19 14:12:40		fifo: pipe closed
+2015-05-19 14:12:40		perl: scripts unloaded
+2015-05-20 08:19:21		perl scripts loaded: buffers
+2015-05-20 08:19:21		script: downloading list of scripts...
+2015-05-20 08:19:21		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-05-20 08:19:22		script: 292 scripts for WeeChat 1.2
+2015-05-20 08:19:24	=!=	irc: unable to create temporary server "DHTSIRC" because the creation of temporary servers with command /connect is currently disabled
+2015-05-20 08:19:24	=!=	irc: if you want to create a standard server, use the command "/server add" (see /help server); if you really want to create a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2015-05-20 16:37:59		fifo: pipe closed
+2015-05-20 16:38:00		perl: scripts unloaded
+2015-05-21 08:43:08		perl scripts loaded: buffers
+2015-05-21 08:43:08		script: downloading list of scripts...
+2015-05-21 08:43:08		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-05-21 08:43:10		script: 292 scripts for WeeChat 1.2
+2015-05-21 13:16:19		python: loading script "/home/tsa20/.weechat/python/buffer_autoclose.py"
+2015-05-21 13:16:19		python: registered script "buffer_autoclose", version 0.3 (Automatically close inactive private message buffers)
+2015-05-21 13:16:20		perl: loading script "/home/tsa20/.weechat/perl/iset.pl"
+2015-05-21 13:16:20		perl: registered script "iset", version 3.9 (Interactive Set for configuration options)
+2015-05-21 13:16:20		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2015-05-21 13:16:20		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2015-05-21 13:16:20		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2015-05-21 13:16:20		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2015-05-21 13:16:21		python: loading script "/home/tsa20/.weechat/python/go.py"
+2015-05-21 13:16:21		python: registered script "go", version 2.0 (Quick jump to buffers)
+2015-05-21 13:16:22		python: loading script "/home/tsa20/.weechat/python/colorize_nicks.py"
+2015-05-21 13:16:22		python: registered script "colorize_nicks", version 20 (Use the weechat nick colors in the chat area)
+2015-05-21 13:16:56		Option changed: weechat.bar.status.color_bg = 0  (default: blue)
+2015-05-21 13:17:05		Option changed: weechat.bar.title.color_bg = 0  (default: blue)
+2015-05-21 13:17:20		Option changed: weechat.color.chat_nick_colors = "1,2,3,4,5,6"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2015-05-21 13:17:39		Option changed: buffers.color.hotlist_message_fg = 7  (default: yellow)
+2015-05-21 13:17:55		Option changed: weechat.bar.buffers.position = top  (default: left)
+2015-05-21 13:18:10		Option changed: weechat.bar.buffers.items = "buffers"  (default: "")
+2015-05-21 13:18:29		Option changed: buffers.look.hide_merged_buffers = server  (default: none)
+2015-05-21 13:19:14		Notify changed for "core.weechat": "all" to "message"
+2015-05-21 13:19:14		Notify changed for "irc.server.dhtsirc": "all" to "message"
+2015-05-21 13:19:14		Notify changed for "irc.dhtsirc.#lobby": "all" to "message"
+2015-05-21 13:19:14		Option changed: weechat.look.buffer_notify_default = message  (default: all)
+2015-05-21 13:19:23		Option changed: irc.look.smart_filter = on
+2015-05-21 13:19:34		Filter "irc_smart" added:
+2015-05-21 13:19:34		  [irc_smart] buffer: * / tags: irc_smart_filter / regex: * 
+2015-05-21 13:20:06	=!=	Too few arguments for command "/filter add" (help on command: /help filter)
+2015-05-21 13:20:12		Filter "irc_join_names" added:
+2015-05-21 13:20:12		  [irc_join_names] buffer: * / tags: irc_366,irc_332,irc_333,irc_329,irc_324 / regex: * 
+2015-05-21 13:31:55	=!=	Error: unknown command "/get" (type /help for help)
+2015-05-21 13:31:59		[core]
+2015-05-21 13:31:59		  away     command  filter   key      plugin   reload   set      version
+2015-05-21 13:31:59		  bar      cursor   help     layout   print    repeat   unset    wait   
+2015-05-21 13:31:59		  buffer   debug    history  mouse    proxy    save     upgrade  window 
+2015-05-21 13:31:59		  color    eval     input    mute     quit     secure   uptime 
+2015-05-21 13:31:59		[xfer]
+2015-05-21 13:31:59		  me  xfer
+2015-05-21 13:31:59		[trigger]
+2015-05-21 13:31:59		  trigger
+2015-05-21 13:31:59		[irc]
+2015-05-21 13:31:59		  admin       disconnect  map         pong        server      users     
+2015-05-21 13:31:59		  allchan     halfop      me          query       service     version   
+2015-05-21 13:31:59		  allpv       ignore      mode        quiet       servlist    voice     
+2015-05-21 13:31:59		  allserv     info        motd        quote       squery      wallchops 
+2015-05-21 13:31:59		  ban         invite      msg         reconnect   squit       wallops   
+2015-05-21 13:31:59		  connect     ison        names       rehash      stats       who       
+2015-05-21 13:31:59		  ctcp        join        nick        remove      summon      whois     
+2015-05-21 13:31:59		  cycle       kick        notice      restart     time        whowas    
+2015-05-21 13:31:59		  dcc         kickban     notify      sajoin      topic     
+2015-05-21 13:31:59		  dehalfop    kill        op          samode      trace     
+2015-05-21 13:31:59		  deop        links       oper        sanick      unban     
+2015-05-21 13:31:59		  devoice     list        part        sapart      unquiet   
+2015-05-21 13:31:59		  die         lusers      ping        saquit      userhost  
+2015-05-21 13:31:59		[aspell]
+2015-05-21 13:31:59		  aspell
+2015-05-21 13:31:59		[python]
+2015-05-21 13:31:59		  go  python
+2015-05-21 13:31:59		[script]
+2015-05-21 13:31:59		  script
+2015-05-21 13:31:59		[charset]
+2015-05-21 13:31:59		  charset
+2015-05-21 13:31:59		[guile]
+2015-05-21 13:31:59		  guile
+2015-05-21 13:31:59		[ruby]
+2015-05-21 13:31:59		  ruby
+2015-05-21 13:31:59		[relay]
+2015-05-21 13:31:59		  relay
+2015-05-21 13:31:59		[logger]
+2015-05-21 13:31:59		  logger
+2015-05-21 13:31:59		[tcl]
+2015-05-21 13:31:59		  tcl
+2015-05-21 13:31:59		[lua]
+2015-05-21 13:31:59		  lua
+2015-05-21 13:31:59		[perl]
+2015-05-21 13:31:59		  buffers_detach  buffers_whitelist  iset  perl
+2015-05-21 13:31:59		[exec]
+2015-05-21 13:31:59		  exec
+2015-05-21 13:31:59		[alias]
+2015-05-21 13:31:59		  AAWAY    BEEP     CLOSE    KB       N        T        W      
+2015-05-21 13:31:59		  alias    BYE      EXIT     LEAVE    Q        UB       WC     
+2015-05-21 13:31:59		  AME      C        IG       M        REDRAW   UMODE    WI     
+2015-05-21 13:31:59		  AMSG     CHAT     J        MSGBUF   SAY      unalias  WII    
+2015-05-21 13:31:59		  ANICK    CL       K        MUB      SIGNOFF  V        WW     
+2015-05-21 13:32:16	=!=	No help available, "weechat" is not a command or an option
+2015-05-21 13:32:21		[core]  /set  [<option> [<value>]]
+2015-05-21 13:32:21		              diff [<option> [<option>...]]
+2015-05-21 13:32:21		              env [<variable> [<value>]]
+2015-05-21 13:32:21		set config options and environment variables
+2015-05-21 13:32:21		option: name of an option (wildcard "*" is allowed)
+2015-05-21 13:32:21		 value: new value for option, according to type:
+2015-05-21 13:32:21		          boolean: on, off or toggle
+2015-05-21 13:32:21		          integer: number, ++number or --number
+2015-05-21 13:32:21		           string: any string ("" for empty string)
+2015-05-21 13:32:21		            color: color name, ++number or --number
+2015-05-21 13:32:21		        Note: for all types, you can use null to remove option value (undefined value). This works only for some special plugin variables.
+2015-05-21 13:32:21		  diff: display only changed options
+2015-05-21 13:32:21		   env: display or set an environment variable (use value "" to unset a variable)
+2015-05-21 13:32:21		Examples:
+2015-05-21 13:32:21		  display options about highlight:
+2015-05-21 13:32:21		    /set *highlight*
+2015-05-21 13:32:21		  add a word to highlight:
+2015-05-21 13:32:21		    /set weechat.look.highlight "word"
+2015-05-21 13:32:21		  display changed options:
+2015-05-21 13:32:21		    /set diff
+2015-05-21 13:32:21		  display changed options in irc plugin:
+2015-05-21 13:32:21		    /set diff irc.*
+2015-05-21 13:32:21		  display value of environment variable LANG:
+2015-05-21 13:32:21		    /set env LANG
+2015-05-21 13:32:21		  set environment variable LANG and use it:
+2015-05-21 13:32:21		    /set env LANG fr_FR.UTF-8
+2015-05-21 13:32:21		    /upgrade
+2015-05-21 13:32:21		  unset environment variable ABC:
+2015-05-21 13:32:21		    /set env ABC ""
+2015-05-21 13:41:02		fifo: pipe closed
+2015-05-21 13:41:02		perl: scripts unloaded
+2015-05-21 13:41:05		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-05-21 13:41:06		perl scripts loaded: buffers, iset
+2015-05-21 13:41:06		script: 292 scripts for WeeChat 1.2
+2015-05-21 13:41:06		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-05-21 13:41:39	=!=	irc: command "join" must be executed on connected irc server
+2015-05-21 13:43:12	=!=	Error: option "weechat.look.status.items" not found
+2015-05-21 13:43:28		Option changed: weechat.bar.status.items = "buffer_number+:+buffer_name+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hostlist],completion"  (default: "[time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion")
+2015-05-21 13:44:46		Option changed: weechat.bar.input.items = ">>+(away),[input_search],[input_paste],input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2015-05-21 13:45:34		Option changed: weechat.look.buffer_time_format = "= "%H:%M""  (default: "%H:%M:%S")
+2015-05-21 13:45:46		Option changed: weechat.look.buffer_time_format = "%H:%M"  (default: "%H:%M:%S")
+2015-05-21 13:49:06	=!=	Error: option "weechat.look.nicklist.position" not found
+2015-05-21 13:49:21		Option changed: weechat.bar.nicklist.position = top  (default: right)
+2015-05-21 13:50:01		Option changed: weechat.bar.title.hidden = on  (default: off)
+2015-05-21 13:53:48	=!=	Error: failed to set option "weechat.bar.nicklist.size"
+2015-05-21 13:54:48		Option changed: weechat.bar.nicklist.filling_left_right = horizontal  (default: vertical)
+2015-05-21 13:55:11	=!=	Error: failed to set option "weechat.bar.nicklist.filling_top_bottom"
+2015-05-21 13:55:36		Option changed: weechat.bar.nicklist.size_max = 15  (default: 0)
+2015-05-21 13:55:40		Option changed: weechat.bar.nicklist.size_max = 10  (default: 0)
+2015-05-21 13:55:44		Option changed: weechat.bar.nicklist.size_max = 6  (default: 0)
+2015-05-21 13:55:50	=!=	Error: failed to set option "weechat.bar.nicklist.filling_top_bottom"
+2015-05-21 13:56:07	=!=	Error: failed to set option "weechat.bar.nicklist.filling_left_right"
+2015-05-21 13:56:22		Option changed: weechat.bar.nicklist.size_max = 4  (default: 0)
+2015-05-21 13:58:21		Option changed: weechat.bar.nicklist.position = right
+2015-05-21 13:58:35		Option changed: weechat.bar.nicklist.size = 15  (default: 0)
+2015-05-21 13:59:00	=!=	Error: failed to set option "weechat.bar.nicklist.filling_left_right"
+2015-05-21 14:00:00		Option changed: weechat.bar.nicklist.filling_left_right = horizontal  (default: vertical)
+2015-05-21 14:00:10		Option changed: weechat.bar.nicklist.filling_left_right = vertical
+2015-05-21 14:00:26		Option changed: weechat.bar.nicklist.filling_top_bottom = columns_vertical
+2015-05-21 14:00:42		Option changed: weechat.bar.nicklist.size = 10  (default: 0)
+2015-05-21 14:01:28		Option changed: weechat.bar.title.hidden = off
+2015-05-21 16:32:30		fifo: pipe closed
+2015-05-21 16:32:30		perl: scripts unloaded
+2015-05-26 08:13:46		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-05-26 08:13:46		perl scripts loaded: buffers, iset
+2015-05-26 08:13:46		script: downloading list of scripts...
+2015-05-26 08:13:46		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-05-26 08:13:48		script: 292 scripts for WeeChat 1.2
+2015-05-26 08:13:50	=!=	You can not write text in this buffer
+2015-05-26 08:13:58	=!=	irc: unable to create temporary server "DHTSIRC" because the creation of temporary servers with command /connect is currently disabled
+2015-05-26 08:13:58	=!=	irc: if you want to create a standard server, use the command "/server add" (see /help server); if you really want to create a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2015-05-26 11:56:46		buffer_autoclose: Closing buffer: dhtsirc.Isaiah_Villanueva
+2015-05-26 12:29:46		buffer_autoclose: Closing buffer: dhtsirc.Anthony_Hoivik
+2015-05-26 16:16:46		buffer_autoclose: Closing buffer: dhtsirc.Kevin_Flynn
+2015-05-26 16:25:37		fifo: pipe closed
+2015-05-26 16:25:37		perl: scripts unloaded
+2015-05-27 08:30:18		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-05-27 08:30:18		perl scripts loaded: buffers, iset
+2015-05-27 08:30:18		script: downloading list of scripts...
+2015-05-27 08:30:18		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-05-27 08:30:20		script: 292 scripts for WeeChat 1.2
+2015-05-27 10:28:55	=!=	irc: unable to create temporary server "irc.twit.tv" because the creation of temporary servers with command /connect is currently disabled
+2015-05-27 10:28:55	=!=	irc: if you want to create a standard server, use the command "/server add" (see /help server); if you really want to create a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2015-05-27 10:29:06		[irc]  /server  list|listfull [<server>]
+2015-05-27 10:29:06		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2015-05-27 10:29:06		                copy|rename <server> <new_name>
+2015-05-27 10:29:06		                reorder <server> [<server>...]
+2015-05-27 10:29:06		                del|keep <server>
+2015-05-27 10:29:06		                deloutq|jump|raw
+2015-05-27 10:29:06		list, add or remove IRC servers
+2015-05-27 10:29:06		    list: list servers (without argument, this list is displayed)
+2015-05-27 10:29:06		listfull: list servers with detailed info for each server
+2015-05-27 10:29:06		     add: create a new server
+2015-05-27 10:29:06		  server: server name, for internal and display use
+2015-05-27 10:29:06		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2015-05-27 10:29:06		    temp: create temporary server (not saved)
+2015-05-27 10:29:06		  option: set option for server (for boolean option, value can be omitted)
+2015-05-27 10:29:06		nooption: set boolean option to 'off' (for example: -nossl)
+2015-05-27 10:29:06		    copy: duplicate a server
+2015-05-27 10:29:06		  rename: rename a server
+2015-05-27 10:29:06		 reorder: reorder list of servers
+2015-05-27 10:29:06		    keep: keep server in config file (for temporary servers only)
+2015-05-27 10:29:06		     del: delete a server
+2015-05-27 10:29:06		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2015-05-27 10:29:06		    jump: jump to server buffer
+2015-05-27 10:29:06		     raw: open buffer with raw IRC data
+2015-05-27 10:29:06		Examples:
+2015-05-27 10:29:06		  /server listfull
+2015-05-27 10:29:06		  /server add freenode chat.freenode.net
+2015-05-27 10:29:06		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2015-05-27 10:29:06		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2015-05-27 10:29:06		  /server copy freenode freenode-test
+2015-05-27 10:29:06		  /server rename freenode-test freenode2
+2015-05-27 10:29:06		  /server reorder freenode2 freenode
+2015-05-27 10:29:06		  /server del freenode
+2015-05-27 10:29:06		  /server deloutq
+2015-05-27 10:29:18		irc: server twit created
+2015-05-27 16:20:27		fifo: pipe closed
+2015-05-27 16:20:30		perl: scripts unloaded
+2015-05-28 08:19:19		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-05-28 08:19:20		perl scripts loaded: buffers, iset
+2015-05-28 08:19:20		script: 292 scripts for WeeChat 1.2
+2015-05-28 08:19:20		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-05-28 08:20:16		[irc]  /server  list|listfull [<server>]
+2015-05-28 08:20:16		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2015-05-28 08:20:16		                copy|rename <server> <new_name>
+2015-05-28 08:20:16		                reorder <server> [<server>...]
+2015-05-28 08:20:16		                del|keep <server>
+2015-05-28 08:20:16		                deloutq|jump|raw
+2015-05-28 08:20:16		list, add or remove IRC servers
+2015-05-28 08:20:16		    list: list servers (without argument, this list is displayed)
+2015-05-28 08:20:16		listfull: list servers with detailed info for each server
+2015-05-28 08:20:16		     add: create a new server
+2015-05-28 08:20:16		  server: server name, for internal and display use
+2015-05-28 08:20:16		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2015-05-28 08:20:16		    temp: create temporary server (not saved)
+2015-05-28 08:20:16		  option: set option for server (for boolean option, value can be omitted)
+2015-05-28 08:20:16		nooption: set boolean option to 'off' (for example: -nossl)
+2015-05-28 08:20:16		    copy: duplicate a server
+2015-05-28 08:20:16		  rename: rename a server
+2015-05-28 08:20:16		 reorder: reorder list of servers
+2015-05-28 08:20:16		    keep: keep server in config file (for temporary servers only)
+2015-05-28 08:20:16		     del: delete a server
+2015-05-28 08:20:16		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2015-05-28 08:20:16		    jump: jump to server buffer
+2015-05-28 08:20:16		     raw: open buffer with raw IRC data
+2015-05-28 08:20:16		Examples:
+2015-05-28 08:20:16		  /server listfull
+2015-05-28 08:20:16		  /server add freenode chat.freenode.net
+2015-05-28 08:20:16		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2015-05-28 08:20:16		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2015-05-28 08:20:16		  /server copy freenode freenode-test
+2015-05-28 08:20:16		  /server rename freenode-test freenode2
+2015-05-28 08:20:16		  /server reorder freenode2 freenode
+2015-05-28 08:20:16		  /server del freenode
+2015-05-28 08:20:16		  /server deloutq
+2015-05-28 08:20:35		irc: server diamondclub created
+2015-05-28 09:20:22		All servers:
+2015-05-28 09:20:22		   freenode
+2015-05-28 09:20:22		 * dhtsirc [connected], 1 channel, 0 pv
+2015-05-28 09:20:22		 * thinstack [connected], 1 channel, 0 pv
+2015-05-28 09:20:22		   twit
+2015-05-28 09:20:22		 * diamondclub [connected], 1 channel, 0 pv
+2015-05-28 09:30:41		All servers:
+2015-05-28 09:30:41		   freenode
+2015-05-28 09:30:41		 * dhtsirc [connected], 1 channel, 0 pv
+2015-05-28 09:30:41		 * thinstack [connected], 1 channel, 0 pv
+2015-05-28 09:30:41		 * twit [connected], 1 channel, 0 pv
+2015-05-28 09:30:41		 * diamondclub [connected], 1 channel, 0 pv
+2015-05-28 09:39:33		Option changed: weechat.bar.status.items = "buffer_number+:+buffer_name+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion"  (default: "[time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion")
+2015-05-28 14:58:52		fifo: pipe closed
+2015-05-28 14:58:52		perl: scripts unloaded
+2015-06-01 08:02:13		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-01 08:02:14		perl scripts loaded: buffers, iset
+2015-06-01 08:02:14		script: downloading list of scripts...
+2015-06-01 08:02:14		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-01 08:02:16		script: 292 scripts for WeeChat 1.2
+2015-06-01 08:02:20		All servers:
+2015-06-01 08:02:20		   freenode
+2015-06-01 08:02:20		   dhtsirc
+2015-06-01 08:02:20		   thinstack
+2015-06-01 08:02:20		   twit
+2015-06-01 08:02:20		   diamondclub
+2015-06-01 08:02:31	=!=	Error: failed to set option "irc.server.thinstack.autoconnect"
+2015-06-01 08:02:40		All servers:
+2015-06-01 08:02:40		Server: freenode [not connected]
+2015-06-01 08:02:40		  addresses. . . . . . : 'chat.freenode.net/6667'
+2015-06-01 08:02:40		  proxy. . . . . . . . :   ('')
+2015-06-01 08:02:40		  ipv6 . . . . . . . . :   (on)
+2015-06-01 08:02:40		  ssl. . . . . . . . . :   (off)
+2015-06-01 08:02:40		  ssl_cert . . . . . . :   ('')
+2015-06-01 08:02:40		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-06-01 08:02:40		  ssl_dhkey_size . . . :   (2048)
+2015-06-01 08:02:40		  ssl_fingerprint. . . :   ('')
+2015-06-01 08:02:40		  ssl_verify . . . . . :   (on)
+2015-06-01 08:02:40		  password . . . . . . :   (hidden)
+2015-06-01 08:02:40		  capabilities . . . . :   ('')
+2015-06-01 08:02:40		  sasl_mechanism . . . :   ('plain')
+2015-06-01 08:02:40		  sasl_username. . . . :   ('')
+2015-06-01 08:02:40		  sasl_password. . . . :   (hidden)
+2015-06-01 08:02:40		  sasl_key. .  . . . . :   ('')
+2015-06-01 08:02:40		  sasl_timeout . . . . :   (15 seconds)
+2015-06-01 08:02:40		  sasl_fail. . . . . . :   ('continue')
+2015-06-01 08:02:40		  autoconnect. . . . . :   (off)
+2015-06-01 08:02:40		  autoreconnect. . . . :   (on)
+2015-06-01 08:02:40		  autoreconnect_delay. :   (10 seconds)
+2015-06-01 08:02:40		  nicks. . . . . . . . : 'stevehnh'
+2015-06-01 08:02:40		  username . . . . . . : 'stevehnh'
+2015-06-01 08:02:40		  realname . . . . . . :   ('')
+2015-06-01 08:02:40		  local_hostname . . . :   ('')
+2015-06-01 08:02:40		  command. . . . . . . :   ('')
+2015-06-01 08:02:40		  command_delay. . . . :   (0 seconds)
+2015-06-01 08:02:40		  autojoin . . . . . . :   ('')
+2015-06-01 08:02:40		  autorejoin . . . . . :   (off)
+2015-06-01 08:02:40		  autorejoin_delay . . :   (30 seconds)
+2015-06-01 08:02:40		  connection_timeout . :   (60 seconds)
+2015-06-01 08:02:40		  anti_flood_prio_high :   (2 seconds)
+2015-06-01 08:02:40		  anti_flood_prio_low. :   (2 seconds)
+2015-06-01 08:02:40		  away_check . . . . . :   (0 minutes)
+2015-06-01 08:02:40		  away_check_max_nicks :   (25)
+2015-06-01 08:02:40		  default_msg_kick . . :   ('')
+2015-06-01 08:02:40		  default_msg_part . . :   ('WeeChat %v')
+2015-06-01 08:02:40		  default_msg_quit . . :   ('WeeChat %v')
+2015-06-01 08:02:40		  notify . . . . . . . :   ('')
+2015-06-01 08:02:40		Server: dhtsirc [not connected]
+2015-06-01 08:02:40		  addresses. . . . . . : 'vlp-dhtsirc.dhe.duke.edu/6667'
+2015-06-01 08:02:40		  proxy. . . . . . . . :   ('')
+2015-06-01 08:02:40		  ipv6 . . . . . . . . :   (on)
+2015-06-01 08:02:40		  ssl. . . . . . . . . : on
+2015-06-01 08:02:40		  ssl_cert . . . . . . :   ('')
+2015-06-01 08:02:40		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-06-01 08:02:40		  ssl_dhkey_size . . . :   (2048)
+2015-06-01 08:02:40		  ssl_fingerprint. . . :   ('')
+2015-06-01 08:02:40		  ssl_verify . . . . . : off
+2015-06-01 08:02:40		  password . . . . . . : (hidden)
+2015-06-01 08:02:40		  capabilities . . . . :   ('')
+2015-06-01 08:02:40		  sasl_mechanism . . . :   ('plain')
+2015-06-01 08:02:40		  sasl_username. . . . :   ('')
+2015-06-01 08:02:40		  sasl_password. . . . :   (hidden)
+2015-06-01 08:02:40		  sasl_key. .  . . . . :   ('')
+2015-06-01 08:02:40		  sasl_timeout . . . . :   (15 seconds)
+2015-06-01 08:02:40		  sasl_fail. . . . . . :   ('continue')
+2015-06-01 08:02:40		  autoconnect. . . . . :   (off)
+2015-06-01 08:02:40		  autoreconnect. . . . :   (on)
+2015-06-01 08:02:40		  autoreconnect_delay. :   (10 seconds)
+2015-06-01 08:02:40		  nicks. . . . . . . . : 'Stephen_Adams,Stephen_Adams_,Stephen_Adams__'
+2015-06-01 08:02:40		  username . . . . . . :   ('tsa20')
+2015-06-01 08:02:40		  realname . . . . . . :   ('')
+2015-06-01 08:02:40		  local_hostname . . . :   ('')
+2015-06-01 08:02:40		  command. . . . . . . :   ('')
+2015-06-01 08:02:40		  command_delay. . . . :   (0 seconds)
+2015-06-01 08:02:40		  autojoin . . . . . . :   ('')
+2015-06-01 08:02:40		  autorejoin . . . . . :   (off)
+2015-06-01 08:02:40		  autorejoin_delay . . :   (30 seconds)
+2015-06-01 08:02:40		  connection_timeout . :   (60 seconds)
+2015-06-01 08:02:40		  anti_flood_prio_high :   (2 seconds)
+2015-06-01 08:02:40		  anti_flood_prio_low. :   (2 seconds)
+2015-06-01 08:02:40		  away_check . . . . . :   (0 minutes)
+2015-06-01 08:02:40		  away_check_max_nicks :   (25)
+2015-06-01 08:02:40		  default_msg_kick . . :   ('')
+2015-06-01 08:02:40		  default_msg_part . . :   ('WeeChat %v')
+2015-06-01 08:02:40		  default_msg_quit . . :   ('WeeChat %v')
+2015-06-01 08:02:40		  notify . . . . . . . :   ('')
+2015-06-01 08:02:40		Server: thinstack [not connected]
+2015-06-01 08:02:40		  addresses. . . . . . : 'irc.thinstack.net/6667'
+2015-06-01 08:02:40		  proxy. . . . . . . . :   ('')
+2015-06-01 08:02:40		  ipv6 . . . . . . . . :   (on)
+2015-06-01 08:02:40		  ssl. . . . . . . . . :   (off)
+2015-06-01 08:02:40		  ssl_cert . . . . . . :   ('')
+2015-06-01 08:02:40		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-06-01 08:02:40		  ssl_dhkey_size . . . :   (2048)
+2015-06-01 08:02:40		  ssl_fingerprint. . . :   ('')
+2015-06-01 08:02:40		  ssl_verify . . . . . :   (on)
+2015-06-01 08:02:40		  password . . . . . . :   (hidden)
+2015-06-01 08:02:40		  capabilities . . . . :   ('')
+2015-06-01 08:02:40		  sasl_mechanism . . . :   ('plain')
+2015-06-01 08:02:40		  sasl_username. . . . :   ('')
+2015-06-01 08:02:40		  sasl_password. . . . :   (hidden)
+2015-06-01 08:02:40		  sasl_key. .  . . . . :   ('')
+2015-06-01 08:02:40		  sasl_timeout . . . . :   (15 seconds)
+2015-06-01 08:02:40		  sasl_fail. . . . . . :   ('continue')
+2015-06-01 08:02:40		  autoconnect. . . . . :   (off)
+2015-06-01 08:02:40		  autoreconnect. . . . :   (on)
+2015-06-01 08:02:40		  autoreconnect_delay. :   (10 seconds)
+2015-06-01 08:02:40		  nicks. . . . . . . . : 'stevehnh,stevehnh_,stevehnh__'
+2015-06-01 08:02:40		  username . . . . . . :   ('tsa20')
+2015-06-01 08:02:40		  realname . . . . . . :   ('')
+2015-06-01 08:02:40		  local_hostname . . . :   ('')
+2015-06-01 08:02:40		  command. . . . . . . :   ('')
+2015-06-01 08:02:40		  command_delay. . . . :   (0 seconds)
+2015-06-01 08:02:40		  autojoin . . . . . . :   ('')
+2015-06-01 08:02:40		  autorejoin . . . . . :   (off)
+2015-06-01 08:02:40		  autorejoin_delay . . :   (30 seconds)
+2015-06-01 08:02:40		  connection_timeout . :   (60 seconds)
+2015-06-01 08:02:40		  anti_flood_prio_high :   (2 seconds)
+2015-06-01 08:02:40		  anti_flood_prio_low. :   (2 seconds)
+2015-06-01 08:02:40		  away_check . . . . . :   (0 minutes)
+2015-06-01 08:02:40		  away_check_max_nicks :   (25)
+2015-06-01 08:02:40		  default_msg_kick . . :   ('')
+2015-06-01 08:02:40		  default_msg_part . . :   ('WeeChat %v')
+2015-06-01 08:02:40		  default_msg_quit . . :   ('WeeChat %v')
+2015-06-01 08:02:40		  notify . . . . . . . :   ('')
+2015-06-01 08:02:40		Server: twit [not connected]
+2015-06-01 08:02:40		  addresses. . . . . . : 'irc.twit.tv/6667'
+2015-06-01 08:02:40		  proxy. . . . . . . . :   ('')
+2015-06-01 08:02:40		  ipv6 . . . . . . . . :   (on)
+2015-06-01 08:02:40		  ssl. . . . . . . . . :   (off)
+2015-06-01 08:02:40		  ssl_cert . . . . . . :   ('')
+2015-06-01 08:02:40		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-06-01 08:02:40		  ssl_dhkey_size . . . :   (2048)
+2015-06-01 08:02:40		  ssl_fingerprint. . . :   ('')
+2015-06-01 08:02:40		  ssl_verify . . . . . :   (on)
+2015-06-01 08:02:40		  password . . . . . . :   (hidden)
+2015-06-01 08:02:40		  capabilities . . . . :   ('')
+2015-06-01 08:02:40		  sasl_mechanism . . . :   ('plain')
+2015-06-01 08:02:40		  sasl_username. . . . :   ('')
+2015-06-01 08:02:40		  sasl_password. . . . :   (hidden)
+2015-06-01 08:02:40		  sasl_key. .  . . . . :   ('')
+2015-06-01 08:02:40		  sasl_timeout . . . . :   (15 seconds)
+2015-06-01 08:02:40		  sasl_fail. . . . . . :   ('continue')
+2015-06-01 08:02:40		  autoconnect. . . . . :   (off)
+2015-06-01 08:02:40		  autoreconnect. . . . :   (on)
+2015-06-01 08:02:40		  autoreconnect_delay. :   (10 seconds)
+2015-06-01 08:02:40		  nicks. . . . . . . . :   ('tsa20,tsa201,tsa202,tsa203,tsa204')
+2015-06-01 08:02:40		  username . . . . . . :   ('tsa20')
+2015-06-01 08:02:40		  realname . . . . . . :   ('')
+2015-06-01 08:02:40		  local_hostname . . . :   ('')
+2015-06-01 08:02:40		  command. . . . . . . :   ('')
+2015-06-01 08:02:40		  command_delay. . . . :   (0 seconds)
+2015-06-01 08:02:40		  autojoin . . . . . . :   ('')
+2015-06-01 08:02:40		  autorejoin . . . . . :   (off)
+2015-06-01 08:02:40		  autorejoin_delay . . :   (30 seconds)
+2015-06-01 08:02:40		  connection_timeout . :   (60 seconds)
+2015-06-01 08:02:40		  anti_flood_prio_high :   (2 seconds)
+2015-06-01 08:02:40		  anti_flood_prio_low. :   (2 seconds)
+2015-06-01 08:02:40		  away_check . . . . . :   (0 minutes)
+2015-06-01 08:02:40		  away_check_max_nicks :   (25)
+2015-06-01 08:02:40		  default_msg_kick . . :   ('')
+2015-06-01 08:02:40		  default_msg_part . . :   ('WeeChat %v')
+2015-06-01 08:02:40		  default_msg_quit . . :   ('WeeChat %v')
+2015-06-01 08:02:40		  notify . . . . . . . :   ('')
+2015-06-01 08:02:40		Server: diamondclub [not connected]
+2015-06-01 08:02:40		  addresses. . . . . . : 'irc.cordkillers.com'
+2015-06-01 08:02:40		  proxy. . . . . . . . :   ('')
+2015-06-01 08:02:40		  ipv6 . . . . . . . . :   (on)
+2015-06-01 08:02:40		  ssl. . . . . . . . . :   (off)
+2015-06-01 08:02:40		  ssl_cert . . . . . . :   ('')
+2015-06-01 08:02:40		  ssl_priorities . . . :   ('NORMAL:-VERS-SSL3.0')
+2015-06-01 08:02:40		  ssl_dhkey_size . . . :   (2048)
+2015-06-01 08:02:40		  ssl_fingerprint. . . :   ('')
+2015-06-01 08:02:40		  ssl_verify . . . . . :   (on)
+2015-06-01 08:02:40		  password . . . . . . :   (hidden)
+2015-06-01 08:02:40		  capabilities . . . . :   ('')
+2015-06-01 08:02:40		  sasl_mechanism . . . :   ('plain')
+2015-06-01 08:02:40		  sasl_username. . . . :   ('')
+2015-06-01 08:02:40		  sasl_password. . . . :   (hidden)
+2015-06-01 08:02:40		  sasl_key. .  . . . . :   ('')
+2015-06-01 08:02:40		  sasl_timeout . . . . :   (15 seconds)
+2015-06-01 08:02:40		  sasl_fail. . . . . . :   ('continue')
+2015-06-01 08:02:40		  autoconnect. . . . . :   (off)
+2015-06-01 08:02:40		  autoreconnect. . . . :   (on)
+2015-06-01 08:02:40		  autoreconnect_delay. :   (10 seconds)
+2015-06-01 08:02:40		  nicks. . . . . . . . :   ('tsa20,tsa201,tsa202,tsa203,tsa204')
+2015-06-01 08:02:40		  username . . . . . . :   ('tsa20')
+2015-06-01 08:02:40		  realname . . . . . . :   ('')
+2015-06-01 08:02:40		  local_hostname . . . :   ('')
+2015-06-01 08:02:40		  command. . . . . . . :   ('')
+2015-06-01 08:02:40		  command_delay. . . . :   (0 seconds)
+2015-06-01 08:02:40		  autojoin . . . . . . :   ('')
+2015-06-01 08:02:40		  autorejoin . . . . . :   (off)
+2015-06-01 08:02:40		  autorejoin_delay . . :   (30 seconds)
+2015-06-01 08:02:40		  connection_timeout . :   (60 seconds)
+2015-06-01 08:02:40		  anti_flood_prio_high :   (2 seconds)
+2015-06-01 08:02:40		  anti_flood_prio_low. :   (2 seconds)
+2015-06-01 08:02:40		  away_check . . . . . :   (0 minutes)
+2015-06-01 08:02:40		  away_check_max_nicks :   (25)
+2015-06-01 08:02:40		  default_msg_kick . . :   ('')
+2015-06-01 08:02:40		  default_msg_part . . :   ('WeeChat %v')
+2015-06-01 08:02:40		  default_msg_quit . . :   ('WeeChat %v')
+2015-06-01 08:02:40		  notify . . . . . . . :   ('')
+2015-06-01 08:02:50		Option changed: irc.server.thinstack.autoconnect = on  (default: (undefined))
+2015-06-01 08:02:54		All servers:
+2015-06-01 08:02:54		   freenode
+2015-06-01 08:02:54		   dhtsirc
+2015-06-01 08:02:54		   thinstack
+2015-06-01 08:02:54		   twit
+2015-06-01 08:02:54		   diamondclub
+2015-06-01 08:03:07		Option changed: irc.server.twit.autoconnect = on  (default: (undefined))
+2015-06-01 08:03:21		[irc]  /server  list|listfull [<server>]
+2015-06-01 08:03:21		                add <server> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2015-06-01 08:03:21		                copy|rename <server> <new_name>
+2015-06-01 08:03:21		                reorder <server> [<server>...]
+2015-06-01 08:03:21		                del|keep <server>
+2015-06-01 08:03:21		                deloutq|jump|raw
+2015-06-01 08:03:21		list, add or remove IRC servers
+2015-06-01 08:03:21		    list: list servers (without argument, this list is displayed)
+2015-06-01 08:03:21		listfull: list servers with detailed info for each server
+2015-06-01 08:03:21		     add: create a new server
+2015-06-01 08:03:21		  server: server name, for internal and display use
+2015-06-01 08:03:21		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2015-06-01 08:03:21		    temp: create temporary server (not saved)
+2015-06-01 08:03:21		  option: set option for server (for boolean option, value can be omitted)
+2015-06-01 08:03:21		nooption: set boolean option to 'off' (for example: -nossl)
+2015-06-01 08:03:21		    copy: duplicate a server
+2015-06-01 08:03:21		  rename: rename a server
+2015-06-01 08:03:21		 reorder: reorder list of servers
+2015-06-01 08:03:21		    keep: keep server in config file (for temporary servers only)
+2015-06-01 08:03:21		     del: delete a server
+2015-06-01 08:03:21		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2015-06-01 08:03:21		    jump: jump to server buffer
+2015-06-01 08:03:21		     raw: open buffer with raw IRC data
+2015-06-01 08:03:21		Examples:
+2015-06-01 08:03:21		  /server listfull
+2015-06-01 08:03:21		  /server add freenode chat.freenode.net
+2015-06-01 08:03:21		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2015-06-01 08:03:21		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2015-06-01 08:03:21		  /server copy freenode freenode-test
+2015-06-01 08:03:21		  /server rename freenode-test freenode2
+2015-06-01 08:03:21		  /server reorder freenode2 freenode
+2015-06-01 08:03:21		  /server del freenode
+2015-06-01 08:03:21		  /server deloutq
+2015-06-01 08:03:28		irc: server diamondclub has been renamed to dc
+2015-06-01 08:03:39		Option changed: irc.server.dc.autoconnect = on  (default: (undefined))
+2015-06-01 08:03:42		All servers:
+2015-06-01 08:03:42		   freenode
+2015-06-01 08:03:42		   dhtsirc
+2015-06-01 08:03:42		   thinstack
+2015-06-01 08:03:42		   twit
+2015-06-01 08:03:42		   dc
+2015-06-01 08:03:54	=!=	Error: failed to set option "irc.server.freenode.autoconnect"
+2015-06-01 08:03:56		Option changed: irc.server.freenode.autoconnect = on  (default: (undefined))
+2015-06-01 08:04:40		Option changed: irc.server.twit.nicks = "stevehnh,stevehnh_,stevehnh__"  (default: (undefined))
+2015-06-01 08:05:22		Mouse disabled
+2015-06-01 08:06:13		Option changed: buffers.look.show_number = off  (default: on)
+2015-06-01 08:07:48		Option changed: weechat.bar.status.items = "buffer_name+buffer_zoom+buffer_filter,scroll,[lag],hotlist,completion"  (default: "[time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion")
+2015-06-01 08:08:03		Option changed: weechat.bar.status.items = "buffer_name+buffer_zoom,scroll,[lag],hotlist,completion"  (default: "[time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion")
+2015-06-01 08:08:36	=!=	Error: option "weechat.bar.hotlist_prefix" not found
+2015-06-01 08:08:57		Option changed: weechat.look.hotlist_prefix = ""  (default: "H: ")
+2015-06-01 11:06:13		buffer_autoclose: Closing buffer: dhtsirc.Anthony_Hoivik
+2015-06-01 16:19:59		fifo: pipe closed
+2015-06-01 16:19:59		perl: scripts unloaded
+2015-06-02 08:16:52		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-02 08:16:53		perl scripts loaded: buffers, iset
+2015-06-02 08:16:53		script: downloading list of scripts...
+2015-06-02 08:16:53		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-02 08:16:54		script: 292 scripts for WeeChat 1.2
+2015-06-02 16:17:26		fifo: pipe closed
+2015-06-02 16:17:26		perl: scripts unloaded
+2015-06-03 08:26:46		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-03 08:26:46		perl scripts loaded: buffers, iset
+2015-06-03 08:26:46		script: downloading list of scripts...
+2015-06-03 08:26:46		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-03 08:26:47		script: 292 scripts for WeeChat 1.2
+2015-06-03 18:39:54		fifo: pipe closed
+2015-06-03 18:39:54		perl: scripts unloaded
+2015-06-04 08:19:45		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-04 08:19:45		perl scripts loaded: buffers, iset
+2015-06-04 08:19:45		script: 292 scripts for WeeChat 1.2
+2015-06-04 08:19:45		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-04 17:42:46		fifo: pipe closed
+2015-06-04 17:42:46		perl: scripts unloaded
+2015-06-08 11:52:43		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-08 11:52:44		perl scripts loaded: buffers, iset
+2015-06-08 11:52:44		script: downloading list of scripts...
+2015-06-08 11:52:44		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-08 11:52:45		script: 292 scripts for WeeChat 1.2
+2015-06-08 11:53:28	=!=	Too few arguments for command "/msg" (help on command: /help msg)
+2015-06-08 13:29:40	=!=	Too few arguments for command "/msg" (help on command: /help msg)
+2015-06-08 16:09:15		fifo: pipe closed
+2015-06-08 16:09:15		perl: scripts unloaded
+2015-06-09 08:10:03		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-09 08:10:03		perl scripts loaded: buffers, iset
+2015-06-09 08:10:03		script: 292 scripts for WeeChat 1.2
+2015-06-09 08:10:03		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-09 16:14:38		fifo: pipe closed
+2015-06-09 16:14:38		perl: scripts unloaded
+2015-06-10 08:02:49		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-10 08:02:50		perl scripts loaded: buffers, iset
+2015-06-10 08:02:50		script: downloading list of scripts...
+2015-06-10 08:02:50		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-10 08:02:51		script: 292 scripts for WeeChat 1.2
+2015-06-10 11:00:49		buffer_autoclose: Closing buffer: dhtsirc.Anthony_Hoivik
+2015-06-10 16:28:23		fifo: pipe closed
+2015-06-10 16:28:23		perl: scripts unloaded
+2015-06-11 08:04:02		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-11 08:04:02		perl scripts loaded: buffers, iset
+2015-06-11 08:04:02		script: downloading list of scripts...
+2015-06-11 08:04:02		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-11 08:04:03		script: 292 scripts for WeeChat 1.2
+2015-06-11 08:04:24	=!=	irc: command "msg" must be executed on connected irc server
+2015-06-11 16:31:18		fifo: pipe closed
+2015-06-11 16:31:18		perl: scripts unloaded
+2015-06-12 08:05:27		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-12 08:05:27		perl scripts loaded: buffers, iset
+2015-06-12 08:05:27		script: downloading list of scripts...
+2015-06-12 08:05:27		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-12 08:05:28		script: 292 scripts for WeeChat 1.2
+2015-06-12 08:11:16		Option changed: irc.server.dc.nicks = "stevehnh,stevehnh_,stevehnh__"  (default: (undefined))
+2015-06-12 14:35:05		fifo: pipe closed
+2015-06-12 14:35:06		perl: scripts unloaded
+2015-06-15 07:58:18		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-15 07:58:18		perl scripts loaded: buffers, iset
+2015-06-15 07:58:18		script: downloading list of scripts...
+2015-06-15 07:58:18		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-15 07:58:19		script: 299 scripts for WeeChat 1.2
+2015-06-15 12:33:27		fifo: pipe closed
+2015-06-15 12:33:27		perl: scripts unloaded
+2015-06-16 08:08:37		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-16 08:08:37		perl scripts loaded: buffers, iset
+2015-06-16 08:08:37		script: downloading list of scripts...
+2015-06-16 08:08:37		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-16 08:08:38		script: 299 scripts for WeeChat 1.2
+2015-06-16 08:08:48		Option changed: irc.server.dc.autoconnect = off  (default: (undefined))
+2015-06-16 16:25:13		fifo: pipe closed
+2015-06-16 16:25:14		perl: scripts unloaded
+2015-06-17 08:05:45		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-17 08:05:45		perl scripts loaded: buffers, iset
+2015-06-17 08:05:45		script: 299 scripts for WeeChat 1.2
+2015-06-17 08:05:45		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-17 16:32:15	=!=	Error: unknown command "/exot" (type /help for help)
+2015-06-17 16:32:17		fifo: pipe closed
+2015-06-17 16:32:17		perl: scripts unloaded
+2015-06-18 08:21:31		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-18 08:21:32		perl scripts loaded: buffers, iset
+2015-06-18 08:21:32		script: downloading list of scripts...
+2015-06-18 08:21:32		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-18 08:21:33		script: 299 scripts for WeeChat 1.2
+2015-06-18 16:30:54		fifo: pipe closed
+2015-06-18 16:30:54		perl: scripts unloaded
+2015-06-19 08:22:14		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-19 08:22:14		perl scripts loaded: buffers, iset
+2015-06-19 08:22:14		script: downloading list of scripts...
+2015-06-19 08:22:14		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-19 08:22:15		script: 299 scripts for WeeChat 1.2
+2015-06-19 15:36:44		fifo: pipe closed
+2015-06-19 15:36:44		perl: scripts unloaded
+2015-06-29 08:17:11		python scripts loaded: buffer_autoclose, colorize_nicks, go
+2015-06-29 08:17:11		perl scripts loaded: buffers, iset
+2015-06-29 08:17:11		script: downloading list of scripts...
+2015-06-29 08:17:11		Plugins loaded: alias, aspell, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-06-29 08:17:12		script: 299 scripts for WeeChat 1.2

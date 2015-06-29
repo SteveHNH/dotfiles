@@ -1,0 +1,539 @@
+2015-06-02 08:16:53	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-02 08:16:53	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-02 08:16:53	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-02 08:16:58	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::18) instead.
+2015-06-02 08:16:59	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-02 08:16:59	--	Welcome to the chatrealm.net IRC Network tsa20!tsa20@2620:0:691:3::18
+2015-06-02 08:16:59	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-02 08:16:59	--	This server was created 23:05:07 Nov 11 2014
+2015-06-02 08:16:59	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-02 08:16:59	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-02 08:16:59	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-02 08:16:59	--	WALLVOICES :are supported by this server
+2015-06-02 08:16:59	--	108AACM8D :your unique ID
+2015-06-02 08:16:59	--	usw.chatrealm.net message of the day
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- _________ .__            __                        .__
+2015-06-02 08:16:59	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-02 08:16:59	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-02 08:16:59	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-02 08:16:59	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-02 08:16:59	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-02 08:16:59	--	-                        / /      \ \
+2015-06-02 08:16:59	--	-                        \ \      / /
+2015-06-02 08:16:59	--	-                         \_\    /_/
+2015-06-02 08:16:59	--	-
+2015-06-02 08:16:59	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-02 08:16:59	--	End of message of the day.
+2015-06-02 08:16:59	--	There are 136 users and 32 invisible on 3 servers
+2015-06-02 08:16:59	--	1 :operator(s) online
+2015-06-02 08:16:59	--	25 :channels formed
+2015-06-02 08:16:59	--	I have 145 clients and 2 servers
+2015-06-02 08:16:59	--	Current Local Users: 145  Max: 405
+2015-06-02 08:16:59	--	Current Global Users: 168  Max: 769
+2015-06-02 08:16:59	--	net-1jhmca.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-02 08:16:59	--	User mode [+x] by tsa20
+2015-06-02 08:16:59	--	NickServ (services@services.chatrealm.net): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2015-06-02 08:16:59	--	CTCP requested by StatServ: VERSION
+2015-06-02 08:16:59	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-06-02 08:17:02	--	MSG(nickserv): identify ********
+2015-06-02 08:17:02	--	NickServ (services@services.chatrealm.net): Nick tsa20 isn't registered.
+2015-06-02 08:17:06	--	You are now known as stevehnh
+2015-06-02 08:17:06	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-02 08:17:06	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-02 08:17:06	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-02 08:17:06	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-02 08:17:10	--	MSG(nickserv): identify ********
+2015-06-02 08:17:10	--	NickServ (services@services.chatrealm.net): Password incorrect.
+2015-06-02 08:17:16	--	MSG(nickserv): identify *********
+2015-06-02 08:17:16	--	NickServ (services@services.chatrealm.net): Password accepted - you are now recognized.
+2015-06-02 08:17:16	--	You are now logged in as SteveHNH (stevehnh!tsa20@net-1jhmca.qp5s.d6ei.0000.2620.IP)
+2015-06-02 08:17:16	--	User mode [+r] by NickServ
+2015-06-03 08:26:46	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-03 08:26:46	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-03 08:26:46	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-03 08:26:51	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::30) instead.
+2015-06-03 08:26:52	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-03 08:26:52	--	Welcome to the chatrealm.net IRC Network tsa20!tsa20@2620:0:691:3::30
+2015-06-03 08:26:52	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-03 08:26:52	--	This server was created 23:05:07 Nov 11 2014
+2015-06-03 08:26:52	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-03 08:26:52	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-03 08:26:52	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-03 08:26:52	--	WALLVOICES :are supported by this server
+2015-06-03 08:26:52	--	108AACNT0 :your unique ID
+2015-06-03 08:26:52	--	usw.chatrealm.net message of the day
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- _________ .__            __                        .__
+2015-06-03 08:26:52	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-03 08:26:52	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-03 08:26:52	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-03 08:26:52	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-03 08:26:52	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-03 08:26:52	--	-                        / /      \ \
+2015-06-03 08:26:52	--	-                        \ \      / /
+2015-06-03 08:26:52	--	-                         \_\    /_/
+2015-06-03 08:26:52	--	-
+2015-06-03 08:26:52	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-03 08:26:52	--	End of message of the day.
+2015-06-03 08:26:52	--	There are 149 users and 35 invisible on 3 servers
+2015-06-03 08:26:52	--	1 :operator(s) online
+2015-06-03 08:26:52	--	27 :channels formed
+2015-06-03 08:26:52	--	I have 160 clients and 2 servers
+2015-06-03 08:26:52	--	Current Local Users: 160  Max: 405
+2015-06-03 08:26:52	--	Current Global Users: 184  Max: 769
+2015-06-03 08:26:52	--	net-2qticr.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-03 08:26:52	--	User mode [+x] by tsa20
+2015-06-03 08:26:52	--	NickServ (services@services.chatrealm.net): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2015-06-03 08:26:52	--	CTCP requested by StatServ: VERSION
+2015-06-03 08:26:52	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-06-03 08:26:56	--	MSG(nickserv): identify *********
+2015-06-03 08:26:56	--	NickServ (services@services.chatrealm.net): Nick tsa20 isn't registered.
+2015-06-03 08:26:59	--	You are now known as stevehnh
+2015-06-03 08:27:00	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-03 08:27:00	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-03 08:27:00	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-03 08:27:00	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-03 08:27:01	--	MSG(nickserv): identify *********
+2015-06-03 08:27:01	--	NickServ (services@services.chatrealm.net): Password incorrect.
+2015-06-03 08:27:08	--	MSG(nickserv): identify ********
+2015-06-03 08:27:08	--	NickServ (services@services.chatrealm.net): Password incorrect.
+2015-06-03 08:27:33	--	NickServ (services@services.chatrealm.net): Your nickname is now being changed to Guest4645
+2015-06-03 08:27:33	--	You are now known as Guest4645
+2015-06-04 08:19:45	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-04 08:19:46	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-04 08:19:46	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-04 08:19:51	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::2c) instead.
+2015-06-04 08:19:51	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-04 08:19:51	--	Welcome to the chatrealm.net IRC Network tsa20!tsa20@2620:0:691:3::2c
+2015-06-04 08:19:51	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-04 08:19:51	--	This server was created 23:05:07 Nov 11 2014
+2015-06-04 08:19:51	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-04 08:19:51	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-04 08:19:51	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-04 08:19:51	--	WALLVOICES :are supported by this server
+2015-06-04 08:19:51	--	108AACN3E :your unique ID
+2015-06-04 08:19:51	--	usw.chatrealm.net message of the day
+2015-06-04 08:19:51	--	-
+2015-06-04 08:19:51	--	-
+2015-06-04 08:19:51	--	- _________ .__            __                        .__
+2015-06-04 08:19:51	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-04 08:19:51	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-04 08:19:51	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-04 08:19:51	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-04 08:19:51	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-04 08:19:51	--	-                        / /      \ \
+2015-06-04 08:19:51	--	-                        \ \      / /
+2015-06-04 08:19:51	--	-                         \_\    /_/
+2015-06-04 08:19:51	--	-
+2015-06-04 08:19:51	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-04 08:19:51	--	End of message of the day.
+2015-06-04 08:19:51	--	There are 143 users and 31 invisible on 3 servers
+2015-06-04 08:19:51	--	25 :channels formed
+2015-06-04 08:19:51	--	I have 149 clients and 2 servers
+2015-06-04 08:19:51	--	Current Local Users: 149  Max: 405
+2015-06-04 08:19:51	--	Current Global Users: 174  Max: 769
+2015-06-04 08:19:51	--	net-one8k0.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-04 08:19:51	--	User mode [+x] by tsa20
+2015-06-04 08:19:51	--	NickServ (services@services.chatrealm.net): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2015-06-04 08:19:51	--	CTCP requested by StatServ: VERSION
+2015-06-04 08:19:51	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-06-04 08:19:53	--	MSG(nickserv): identify *********
+2015-06-04 08:19:53	--	NickServ (services@services.chatrealm.net): Nick tsa20 isn't registered.
+2015-06-04 08:19:57	--	You are now known as stevehnh
+2015-06-04 08:19:57	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-04 08:19:57	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-04 08:19:57	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-04 08:19:57	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-04 08:19:59	--	MSG(nickserv): identify *********
+2015-06-04 08:19:59	--	NickServ (services@services.chatrealm.net): Password incorrect.
+2015-06-04 08:20:04	--	MSG(nickserv): identify ********
+2015-06-04 08:20:04	--	NickServ (services@services.chatrealm.net): Password incorrect.
+2015-06-04 08:20:11	--	MSG(nickserv): identify *********
+2015-06-04 08:20:11	--	NickServ (services@services.chatrealm.net): Password accepted - you are now recognized.
+2015-06-04 08:20:11	--	You are now logged in as SteveHNH (stevehnh!tsa20@net-one8k0.qp5s.d6ei.0000.2620.IP)
+2015-06-04 08:20:11	--	User mode [+r] by NickServ
+2015-06-08 11:52:44	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-08 11:52:44	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-08 11:52:44	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-08 11:52:49	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::23) instead.
+2015-06-08 11:52:50	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-08 11:52:50	--	Welcome to the chatrealm.net IRC Network tsa20!tsa20@2620:0:691:3::23
+2015-06-08 11:52:50	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-08 11:52:50	--	This server was created 23:05:07 Nov 11 2014
+2015-06-08 11:52:50	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-08 11:52:50	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-08 11:52:50	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-08 11:52:50	--	WALLVOICES :are supported by this server
+2015-06-08 11:52:50	--	108AACPG3 :your unique ID
+2015-06-08 11:52:50	--	usw.chatrealm.net message of the day
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- _________ .__            __                        .__
+2015-06-08 11:52:50	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-08 11:52:50	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-08 11:52:50	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-08 11:52:50	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-08 11:52:50	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-08 11:52:50	--	-                        / /      \ \
+2015-06-08 11:52:50	--	-                        \ \      / /
+2015-06-08 11:52:50	--	-                         \_\    /_/
+2015-06-08 11:52:50	--	-
+2015-06-08 11:52:50	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-08 11:52:50	--	End of message of the day.
+2015-06-08 11:52:50	--	There are 157 users and 34 invisible on 3 servers
+2015-06-08 11:52:50	--	1 :operator(s) online
+2015-06-08 11:52:50	--	28 :channels formed
+2015-06-08 11:52:50	--	I have 165 clients and 2 servers
+2015-06-08 11:52:50	--	Current Local Users: 165  Max: 405
+2015-06-08 11:52:50	--	Current Global Users: 191  Max: 769
+2015-06-08 11:52:50	--	net-nbrn9o.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-08 11:52:50	--	User mode [+x] by tsa20
+2015-06-08 11:52:50	--	NickServ (services@services.chatrealm.net): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2015-06-08 11:52:50	--	CTCP requested by StatServ: VERSION
+2015-06-08 11:52:50	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-06-08 11:52:57	--	You are now known as stevehnh
+2015-06-08 11:52:57	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-08 11:52:57	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-08 11:52:57	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-08 11:52:57	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-08 11:53:04	--	MSG(nickserv): identify *********
+2015-06-08 11:53:04	--	NickServ (services@services.chatrealm.net): Password accepted - you are now recognized.
+2015-06-08 11:53:04	--	You are now logged in as SteveHNH (stevehnh!tsa20@net-nbrn9o.qp5s.d6ei.0000.2620.IP)
+2015-06-08 11:53:04	--	User mode [+r] by NickServ
+2015-06-08 11:53:24	--	DHTSIRC: Invalid channel name
+2015-06-09 08:10:03	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-09 08:10:03	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-09 08:10:03	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-09 08:10:08	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::1a) instead.
+2015-06-09 08:10:09	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-09 08:10:09	--	Welcome to the chatrealm.net IRC Network tsa20!tsa20@2620:0:691:3::1a
+2015-06-09 08:10:09	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-09 08:10:09	--	This server was created 23:05:07 Nov 11 2014
+2015-06-09 08:10:09	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-09 08:10:09	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-09 08:10:09	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-09 08:10:09	--	WALLVOICES :are supported by this server
+2015-06-09 08:10:09	--	108AACPZ0 :your unique ID
+2015-06-09 08:10:09	--	usw.chatrealm.net message of the day
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- _________ .__            __                        .__
+2015-06-09 08:10:09	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-09 08:10:09	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-09 08:10:09	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-09 08:10:09	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-09 08:10:09	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-09 08:10:09	--	-                        / /      \ \
+2015-06-09 08:10:09	--	-                        \ \      / /
+2015-06-09 08:10:09	--	-                         \_\    /_/
+2015-06-09 08:10:09	--	-
+2015-06-09 08:10:09	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-09 08:10:09	--	End of message of the day.
+2015-06-09 08:10:09	--	There are 142 users and 33 invisible on 3 servers
+2015-06-09 08:10:09	--	1 :operator(s) online
+2015-06-09 08:10:09	--	24 :channels formed
+2015-06-09 08:10:09	--	I have 150 clients and 2 servers
+2015-06-09 08:10:09	--	Current Local Users: 150  Max: 405
+2015-06-09 08:10:09	--	Current Global Users: 175  Max: 769
+2015-06-09 08:10:09	--	net-svcj8r.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-09 08:10:09	--	User mode [+x] by tsa20
+2015-06-09 08:10:09	--	NickServ (services@services.chatrealm.net): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2015-06-09 08:10:09	--	CTCP requested by StatServ: VERSION
+2015-06-09 08:10:09	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-06-09 08:10:18	--	MSG(nickserv): identify ********
+2015-06-09 08:10:18	--	NickServ (services@services.chatrealm.net): Nick tsa20 isn't registered.
+2015-06-09 08:10:21	--	You are now known as stevehnh
+2015-06-09 08:10:21	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-09 08:10:21	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-09 08:10:21	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-09 08:10:21	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-09 08:10:25	--	MSG(nickserv): identify ********
+2015-06-09 08:10:25	--	NickServ (services@services.chatrealm.net): Password incorrect.
+2015-06-09 08:10:30	--	MSG(nickserv): identify *********
+2015-06-09 08:10:30	--	NickServ (services@services.chatrealm.net): Password accepted - you are now recognized.
+2015-06-09 08:10:30	--	You are now logged in as SteveHNH (stevehnh!tsa20@net-svcj8r.qp5s.d6ei.0000.2620.IP)
+2015-06-09 08:10:30	--	User mode [+r] by NickServ
+2015-06-10 08:02:50	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-10 08:02:50	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-10 08:02:50	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-10 08:02:55	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::26) instead.
+2015-06-10 08:02:55	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-10 08:02:55	--	Welcome to the chatrealm.net IRC Network tsa20!tsa20@2620:0:691:3::26
+2015-06-10 08:02:55	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-10 08:02:55	--	This server was created 23:05:07 Nov 11 2014
+2015-06-10 08:02:55	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-10 08:02:55	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-10 08:02:55	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-10 08:02:55	--	WALLVOICES :are supported by this server
+2015-06-10 08:02:55	--	108AACQRM :your unique ID
+2015-06-10 08:02:55	--	usw.chatrealm.net message of the day
+2015-06-10 08:02:55	--	-
+2015-06-10 08:02:55	--	-
+2015-06-10 08:02:55	--	- _________ .__            __                        .__
+2015-06-10 08:02:55	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-10 08:02:55	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-10 08:02:55	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-10 08:02:55	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-10 08:02:55	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-10 08:02:55	--	-                        / /      \ \
+2015-06-10 08:02:55	--	-                        \ \      / /
+2015-06-10 08:02:55	--	-                         \_\    /_/
+2015-06-10 08:02:55	--	-
+2015-06-10 08:02:55	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-10 08:02:55	--	End of message of the day.
+2015-06-10 08:02:55	--	There are 148 users and 30 invisible on 3 servers
+2015-06-10 08:02:55	--	1 :operator(s) online
+2015-06-10 08:02:55	--	26 :channels formed
+2015-06-10 08:02:55	--	I have 153 clients and 2 servers
+2015-06-10 08:02:55	--	Current Local Users: 153  Max: 405
+2015-06-10 08:02:55	--	Current Global Users: 178  Max: 769
+2015-06-10 08:02:55	--	net-qijbv8.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-10 08:02:55	--	User mode [+x] by tsa20
+2015-06-10 08:02:55	--	NickServ (services@services.chatrealm.net): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2015-06-10 08:02:55	--	CTCP requested by StatServ: VERSION
+2015-06-10 08:02:55	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-06-10 08:02:59	--	You are now known as stevehnh
+2015-06-10 08:02:59	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-10 08:02:59	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-10 08:02:59	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-10 08:02:59	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-10 08:03:06	--	MSG(nickserv): identify *********
+2015-06-10 08:03:06	--	NickServ (services@services.chatrealm.net): Password accepted - you are now recognized.
+2015-06-10 08:03:06	--	You are now logged in as SteveHNH (stevehnh!tsa20@net-qijbv8.qp5s.d6ei.0000.2620.IP)
+2015-06-10 08:03:06	--	User mode [+r] by NickServ
+2015-06-11 08:04:02	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-11 08:04:03	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-11 08:04:03	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-11 08:04:08	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::26) instead.
+2015-06-11 08:04:08	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-11 08:04:08	--	Welcome to the chatrealm.net IRC Network tsa20!tsa20@2620:0:691:3::26
+2015-06-11 08:04:08	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-11 08:04:08	--	This server was created 23:05:07 Nov 11 2014
+2015-06-11 08:04:08	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-11 08:04:08	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-11 08:04:08	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-11 08:04:08	--	WALLVOICES :are supported by this server
+2015-06-11 08:04:08	--	108AACQ4F :your unique ID
+2015-06-11 08:04:08	--	usw.chatrealm.net message of the day
+2015-06-11 08:04:08	--	-
+2015-06-11 08:04:08	--	-
+2015-06-11 08:04:08	--	- _________ .__            __                        .__
+2015-06-11 08:04:08	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-11 08:04:08	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-11 08:04:08	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-11 08:04:08	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-11 08:04:08	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-11 08:04:08	--	-                        / /      \ \
+2015-06-11 08:04:08	--	-                        \ \      / /
+2015-06-11 08:04:08	--	-                         \_\    /_/
+2015-06-11 08:04:08	--	-
+2015-06-11 08:04:08	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-11 08:04:08	--	End of message of the day.
+2015-06-11 08:04:08	--	There are 131 users and 31 invisible on 3 servers
+2015-06-11 08:04:08	--	1 :operator(s) online
+2015-06-11 08:04:08	--	26 :channels formed
+2015-06-11 08:04:08	--	I have 137 clients and 2 servers
+2015-06-11 08:04:08	--	Current Local Users: 137  Max: 405
+2015-06-11 08:04:08	--	Current Global Users: 162  Max: 769
+2015-06-11 08:04:08	--	net-qijbv8.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-11 08:04:08	--	User mode [+x] by tsa20
+2015-06-11 08:04:08	--	NickServ (services@services.chatrealm.net): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2015-06-11 08:04:08	--	CTCP requested by StatServ: VERSION
+2015-06-11 08:04:08	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-06-11 08:04:11	--	You are now known as stevehnh
+2015-06-11 08:04:11	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-11 08:04:11	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-11 08:04:11	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-11 08:04:11	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-11 08:04:17	--	MSG(nickserv): identify *********
+2015-06-11 08:04:17	--	NickServ (services@services.chatrealm.net): Password accepted - you are now recognized.
+2015-06-11 08:04:17	--	You are now logged in as SteveHNH (stevehnh!tsa20@net-qijbv8.qp5s.d6ei.0000.2620.IP)
+2015-06-11 08:04:17	--	User mode [+r] by NickServ
+2015-06-12 08:05:27	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-12 08:05:27	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-12 08:05:27	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-12 08:05:32	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::1c) instead.
+2015-06-12 08:05:33	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-12 08:05:33	--	Welcome to the chatrealm.net IRC Network tsa20!tsa20@2620:0:691:3::1c
+2015-06-12 08:05:33	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-12 08:05:33	--	This server was created 23:05:07 Nov 11 2014
+2015-06-12 08:05:33	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-12 08:05:33	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-12 08:05:33	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-12 08:05:33	--	WALLVOICES :are supported by this server
+2015-06-12 08:05:33	--	108AACRRJ :your unique ID
+2015-06-12 08:05:33	--	usw.chatrealm.net message of the day
+2015-06-12 08:05:33	--	-
+2015-06-12 08:05:33	--	-
+2015-06-12 08:05:33	--	- _________ .__            __                        .__
+2015-06-12 08:05:33	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-12 08:05:33	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-12 08:05:33	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-12 08:05:33	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-12 08:05:33	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-12 08:05:33	--	-                        / /      \ \
+2015-06-12 08:05:33	--	-                        \ \      / /
+2015-06-12 08:05:33	--	-                         \_\    /_/
+2015-06-12 08:05:33	--	-
+2015-06-12 08:05:33	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-12 08:05:33	--	End of message of the day.
+2015-06-12 08:05:33	--	There are 135 users and 33 invisible on 3 servers
+2015-06-12 08:05:33	--	1 :operator(s) online
+2015-06-12 08:05:33	--	28 :channels formed
+2015-06-12 08:05:33	--	I have 144 clients and 2 servers
+2015-06-12 08:05:33	--	Current Local Users: 144  Max: 405
+2015-06-12 08:05:33	--	Current Global Users: 168  Max: 769
+2015-06-12 08:05:33	--	net-huckcf.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-12 08:05:33	--	User mode [+x] by tsa20
+2015-06-12 08:05:33	--	NickServ (services@services.chatrealm.net): Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+2015-06-12 08:05:33	--	CTCP requested by StatServ: VERSION
+2015-06-12 08:05:33	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-06-12 08:05:35	--	You are now known as stevehnh
+2015-06-12 08:05:36	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-12 08:05:36	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-12 08:05:36	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-12 08:05:36	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-12 08:05:40	--	MSG(nickserv): identify *********
+2015-06-12 08:05:40	--	NickServ (services@services.chatrealm.net): Password accepted - you are now recognized.
+2015-06-12 08:05:40	--	You are now logged in as SteveHNH (stevehnh!tsa20@net-huckcf.qp5s.d6ei.0000.2620.IP)
+2015-06-12 08:05:40	--	User mode [+r] by NickServ
+2015-06-15 07:58:19	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-15 07:58:19	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-15 07:58:19	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-15 07:58:24	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::25) instead.
+2015-06-15 07:58:25	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-15 07:58:25	--	Welcome to the chatrealm.net IRC Network stevehnh!tsa20@2620:0:691:3::25
+2015-06-15 07:58:25	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-15 07:58:25	--	This server was created 23:05:07 Nov 11 2014
+2015-06-15 07:58:25	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-15 07:58:25	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-15 07:58:25	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-15 07:58:25	--	WALLVOICES :are supported by this server
+2015-06-15 07:58:25	--	108AACSVP :your unique ID
+2015-06-15 07:58:25	--	usw.chatrealm.net message of the day
+2015-06-15 07:58:25	--	-
+2015-06-15 07:58:25	--	-
+2015-06-15 07:58:25	--	- _________ .__            __                        .__
+2015-06-15 07:58:25	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-15 07:58:25	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-15 07:58:25	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-15 07:58:25	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-15 07:58:25	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-15 07:58:25	--	-                        / /      \ \
+2015-06-15 07:58:25	--	-                        \ \      / /
+2015-06-15 07:58:25	--	-                         \_\    /_/
+2015-06-15 07:58:25	--	-
+2015-06-15 07:58:25	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-15 07:58:25	--	End of message of the day.
+2015-06-15 07:58:25	--	There are 137 users and 35 invisible on 3 servers
+2015-06-15 07:58:25	--	1 :operator(s) online
+2015-06-15 07:58:25	--	28 :channels formed
+2015-06-15 07:58:25	--	I have 146 clients and 2 servers
+2015-06-15 07:58:25	--	Current Local Users: 146  Max: 405
+2015-06-15 07:58:25	--	Current Global Users: 172  Max: 769
+2015-06-15 07:58:25	--	net-ak4eke.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-15 07:58:25	--	User mode [+x] by stevehnh
+2015-06-15 07:58:25	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-15 07:58:25	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-15 07:58:25	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-15 07:58:25	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-15 07:58:25	--	CTCP requested by StatServ: VERSION
+2015-06-15 07:58:25	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-06-15 07:58:35	--	MSG(nickserv): identify *********
+2015-06-15 07:58:35	--	NickServ (services@services.chatrealm.net): Password accepted - you are now recognized.
+2015-06-15 07:58:35	--	You are now logged in as SteveHNH (stevehnh!tsa20@net-ak4eke.qp5s.d6ei.0000.2620.IP)
+2015-06-15 07:58:35	--	User mode [+r] by NickServ
+2015-06-15 09:11:13	=!=	irc: reading data on socket: error 110 Connection timed out
+2015-06-15 09:11:13	--	irc: disconnecting from server...
+2015-06-15 09:11:13	--	irc: disconnected from server
+2015-06-15 09:11:13	--	irc: reconnecting to server in 10 seconds
+2015-06-15 09:11:23	--	irc: reconnecting to server...
+2015-06-15 09:11:23	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-15 09:11:23	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-15 09:11:23	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-15 09:11:28	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::25) instead.
+2015-06-15 09:11:28	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-15 09:11:28	--	Welcome to the chatrealm.net IRC Network stevehnh!tsa20@2620:0:691:3::25
+2015-06-15 09:11:28	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-15 09:11:28	--	This server was created 23:05:07 Nov 11 2014
+2015-06-15 09:11:28	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-15 09:11:28	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-15 09:11:28	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-15 09:11:28	--	WALLVOICES :are supported by this server
+2015-06-15 09:11:28	--	108AACSV7 :your unique ID
+2015-06-15 09:11:28	--	usw.chatrealm.net message of the day
+2015-06-15 09:11:28	--	-
+2015-06-15 09:11:28	--	-
+2015-06-15 09:11:28	--	- _________ .__            __                        .__
+2015-06-15 09:11:28	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-15 09:11:28	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-15 09:11:28	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-15 09:11:28	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-15 09:11:28	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-15 09:11:28	--	-                        / /      \ \
+2015-06-15 09:11:28	--	-                        \ \      / /
+2015-06-15 09:11:28	--	-                         \_\    /_/
+2015-06-15 09:11:28	--	-
+2015-06-15 09:11:28	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-15 09:11:28	--	End of message of the day.
+2015-06-15 09:11:28	--	There are 138 users and 36 invisible on 3 servers
+2015-06-15 09:11:28	--	1 :operator(s) online
+2015-06-15 09:11:28	--	26 :channels formed
+2015-06-15 09:11:28	--	I have 148 clients and 2 servers
+2015-06-15 09:11:28	--	Current Local Users: 148  Max: 405
+2015-06-15 09:11:28	--	Current Global Users: 174  Max: 769
+2015-06-15 09:11:28	--	net-ak4eke.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-15 09:11:28	--	User mode [+x] by stevehnh
+2015-06-15 09:11:28	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-15 09:11:28	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-15 09:11:28	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-15 09:11:28	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-15 09:11:28	--	CTCP requested by StatServ: VERSION
+2015-06-15 09:11:28	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
+2015-06-15 09:12:00	--	NickServ (services@services.chatrealm.net): Your nickname is now being changed to Guest24589
+2015-06-15 09:12:00	--	You are now known as Guest24589
+2015-06-16 08:08:37	--	irc: connecting to server irc.cordkillers.com/6667...
+2015-06-16 08:08:37	--	irc: connected to irc.cordkillers.com/6667 (2604:180:0:29::d5c6)
+2015-06-16 08:08:37	--	usw.chatrealm.net: *** Looking up your hostname...
+2015-06-16 08:08:42	--	usw.chatrealm.net: *** Could not resolve your hostname: Domain name not found; using your IP address (2620:0:691:3::25) instead.
+2015-06-16 08:08:43	--	usw.chatrealm.net: Welcome to chatrealm.net!
+2015-06-16 08:08:43	--	Welcome to the chatrealm.net IRC Network stevehnh!tsa20@2620:0:691:3::25
+2015-06-16 08:08:43	--	Your host is usw.chatrealm.net, running version InspIRCd-2.0
+2015-06-16 08:08:43	--	This server was created 23:05:07 Nov 11 2014
+2015-06-16 08:08:43	--	usw.chatrealm.net InspIRCd-2.0 BIRiorswx HMRVabhiklmnopqrstv HVabhkloqv
+2015-06-16 08:08:43	--	AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,Hl,MRimnprst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXTBAN=,RUm FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 :are supported by this server
+2015-06-16 08:08:43	--	MAXPARA=32 MAXTARGETS=20 MODES=20 NETWORK=chatrealm.net NICKLEN=16 PREFIX=(qaohvV)~&@%+- SSL=[::]:6697 STARTTLS STATUSMSG=~&@%+- TOPICLEN=307 USERIP VBANLIST WALLCHOPS :are supported by this server
+2015-06-16 08:08:43	--	WALLVOICES :are supported by this server
+2015-06-16 08:08:43	--	108AACTAC :your unique ID
+2015-06-16 08:08:43	--	usw.chatrealm.net message of the day
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- _________ .__            __                        .__
+2015-06-16 08:08:43	--	- \_   ___ \|  |__ _____ _/  |________   ____ _____  |  |   _____
+2015-06-16 08:08:43	--	- /    \  \/|  |  \\__  \\   __\_  __ \_/ __ \\__  \ |  |  /     \
+2015-06-16 08:08:43	--	- \     \___|   Y  \/ __ \|  |  |  | \/\  ___/ / __ \|  |_|  Y Y  \
+2015-06-16 08:08:43	--	-  \______  /___|  (____  /__|  |__|    \___  >____  /____/__|_|  /
+2015-06-16 08:08:43	--	-         \/     \/     \// /    \ \        \/     \/           \/
+2015-06-16 08:08:43	--	-                        / /      \ \
+2015-06-16 08:08:43	--	-                        \ \      / /
+2015-06-16 08:08:43	--	-                         \_\    /_/
+2015-06-16 08:08:43	--	-
+2015-06-16 08:08:43	--	- For more info on connecting to the server check out http://dctvpedia.com/IRC
+2015-06-16 08:08:43	--	End of message of the day.
+2015-06-16 08:08:43	--	There are 132 users and 32 invisible on 3 servers
+2015-06-16 08:08:43	--	1 :operator(s) online
+2015-06-16 08:08:43	--	25 :channels formed
+2015-06-16 08:08:43	--	I have 141 clients and 2 servers
+2015-06-16 08:08:43	--	Current Local Users: 141  Max: 405
+2015-06-16 08:08:43	--	Current Global Users: 164  Max: 769
+2015-06-16 08:08:43	--	net-ak4eke.qp5s.d6ei.0000.2620.IP :is now your displayed host
+2015-06-16 08:08:43	--	User mode [+x] by stevehnh
+2015-06-16 08:08:43	--	NickServ (services@services.chatrealm.net): This nickname is registered and protected.  If it is your
+2015-06-16 08:08:43	--	NickServ (services@services.chatrealm.net): nick, type /msg NickServ IDENTIFY password.  Otherwise,
+2015-06-16 08:08:43	--	NickServ (services@services.chatrealm.net): please choose a different nick.
+2015-06-16 08:08:43	--	NickServ (services@services.chatrealm.net): If you do not change within 30 seconds, I will change your nick.
+2015-06-16 08:08:43	--	CTCP requested by StatServ: VERSION
+2015-06-16 08:08:43	--	CTCP reply to StatServ: VERSION WeeChat 1.2 (May 12 2015)
