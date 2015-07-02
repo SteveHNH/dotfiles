@@ -64,7 +64,7 @@ for_window [class="XTerm"] floating enable
 
 # start a terminal
 #bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec xterm
+bindsym $mod+Return exec xterm -geometry 89x27+443+285
 
 # kill focused window
 bindsym $mod+Shift+q kill
