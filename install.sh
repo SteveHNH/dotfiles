@@ -31,3 +31,12 @@ cd polybar/build
 cmake ..
 sudo make install
 cd ${WORKDIR}
+
+echo "###### COPY CONFIG FILES INTO PLACE #######"
+mkdir -p $CONFDIR/i3
+mkdir -p ${HOME}/vim/
+cp ${WORKDIR}/config/i3/config ${CONFDIR}/i3/
+cp ${WORKDIR}/config/polybar ${CONFDIR}/
+cp ${WORKDIR}/tmux.conf ${HOME}/.tmux.conf
+cp ${WORKDIR}/vimrc ${HOME}/.vimrc
+cp -r {WORKDIR}/colors ${HOME}/vim/
