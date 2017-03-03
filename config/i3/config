@@ -17,6 +17,10 @@ set $mod Mod4
 gaps inner 15
 gaps outer 5
 
+smart_borders on
+
+for_window [class="^.*"] border pixel 3
+
 #################
 # Startup Execs #
 #################
@@ -157,9 +161,6 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
-# Remove title bars from new windows
-new_window 1pixel
-
 ########################
 # Container decoration #
 ########################
@@ -182,7 +183,7 @@ set $tag2 ""
 set $tag3 ""
 set $tag4 ""
 set $tag5 ""
-set $tag6 """
+set $tag6 ""
 set $tag7 ""
 set $tag8 ""
 set $tag9 ""
