@@ -1,7 +1,9 @@
 !XTerm*faceName: Bitstream Vera Serif Mono
-!term*faceName: Terminess Powerline 
+!xterm*faceName: Terminess Powerline 
 !xterm*faceName: TamzenForPowerline
-xterm*faceName: Regular Monospace 
+xterm*faceName: Tamsyn:Regular
+!xterm*faceName: Regular Monospace 
+!xterm*faceName: tewi
 !xterm*faceName: Monoid
 xterm*faceSize: 11 
 xterm*allowBoldFonts: false
@@ -13,6 +15,8 @@ xterm*termName: xterm-color
 xterm*eightBitInput: false
 xterm*scrollBar: false
 xterm*ttyModes: erase ^?
+xterm*internalBorder: 10
+xterm*externalBorder: 10
 
 ! Base16 OneDark
 ! Scheme: Lalit Magant (http://github.com/tilal6991)
@@ -34,36 +38,35 @@ xterm*ttyModes: erase ^?
 #define base0E #c678dd
 #define base0F #be5046
 
-*.foreground:   base05
-*.background:   base00
-*.cursorColor:  base05
+!*.foreground:   base05
+!*.background:   base00
+!*.cursorColor:  base05
 
-*.color0:       base00
-*.color1:       base08
-*.color2:       base0B
-*.color3:       base0A
-*.color4:       base0D
-*.color5:       base0E
-*.color6:       base0C
-*.color7:       base05
-
-*.color8:       base03
-*.color9:       base08
-*.color10:      base0B
-*.color11:      base0A
-*.color12:      base0D
-*.color13:      base0E
-*.color14:      base0C
-*.color15:      base07
+!*.color0:       base00
+!*.color1:       base08
+!*.color2:       base0B
+!*.color3:       base0A
+!*.color4:       base0D
+!*.color5:       base0E
+!*.color6:       base0C
+!*.color7:       base05
+!*.color8:       base03
+!*.color9:       base08
+!*.color10:      base0B
+!*.color11:      base0A
+!*.color12:      base0D
+!*.color13:      base0E
+!*.color14:      base0C
+!*.color15:      base07
 
 ! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
 ! use 'shell' template to set these if necessary
-*.color16:      base09
-*.color17:      base0F
-*.color18:      base01
-*.color19:      base02
-*.color20:      base04
-*.color21:      base06
+!*.color16:      base09
+!*.color17:      base0F
+!*.color18:      base01
+!*.color19:      base02
+!*.color20:      base04
+!*.color21:      base06
 
 ! ------------------------------------------------------------------------------
 ! ! ROFI Color theme
@@ -80,3 +83,72 @@ rofi.color-active:                   argb:00000000,  #6699CC , argb:00000000,  #
 rofi.color-window:                   argb:ee222222,  #FAC863 ,  #FAC863
 ! Separator style (none, dash, solid)
 rofi.separator-style:                solid
+
+
+
+!-------------------------------------------------------------------------------
+! URxvt Settings
+!-------------------------------------------------------------------------------
+URxvt.internalBorder:    20
+!URxvt.externalBorder:    10
+!URxvt.lineSpace:        0
+!urxvt*shading:          30
+URxvt.depth:             32
+URxvt.saveLines:         10000
+URxvt*geometry:          96x30
+URxvt*terminalName:      rxvt-unicode-256color
+URxvt*visualBell:        false
+
+!! Scrollbar
+!URxvt.scrollStyle:      rxvt
+URxvt.scrollBar:         false
+URxvt*scrollTtyOutput:   false
+URxvt*scrollWithBuffer:  true
+URxvt*scrollTtyKeypress: true
+
+!! Fonts
+! Droid Sans Mono for Powerline Mono
+!URxvt*font:             xft:Droid Sans Mono for Powerline:size=8, xft:Droid Mono Dotted for Powerline:size=8
+!URxvt*boldFont:         xft:Droid Sans Mono for Powerline:normal:size=8
+!URxvt*italicFont:       xft:Droid Sans Mono for Powerline:italic:autohint=true:size=8
+!URxvt*boldItalicFont:   xft:Droid Sans Mono for Powerline:bolditalic:italic:autohint=true:size=8
+
+! tewi
+#define termfont         xft:TamzenforPowerline:size=11:antialias=false
+!URxvt*font:              xft:tewi:pixelsize=11:antialias=false
+!URxvt*boldFont:          xft:tewi:normal:size=11
+!URxvt*italicFont:        xft:tewi:italic:autohint=true:size=11
+!URxvt*boldItalicFont:    xft:tewi:bolditalic:italic:autohint=true:size=11
+URxvt*font:              termfont
+URxvt*boldFont:          termfont
+URxvt*italicFont:        termfont
+URxvt*boldItalicFont:    termfont 
+
+
+
+URxvt.letterSpace:       true
+
+! Disable the stupid ctrl+_shift 'feature'
+URxvt.iso14755:            false
+URxvt.iso14755_52:         false
+
+! Cursor
+URxvt.colorUL:             #6c71c4
+Xcursor.theme:             Adwaita
+
+! clickable URLs
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+
+
+!---------------------------------------
+! Xft settings
+!---------------------------------------
+Xft.dpi:                   96
+Xft.autohint:              0
+Xft.antialias:             true
+Xft.rgba:                  rgb
+Xft.hinting:               true
+Xft.lcdfilter:             lcddefault
+Xft.hintstyle:             hintsfull
