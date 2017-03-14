@@ -74,7 +74,6 @@ for_window [class="VirtualBox"] floating enable
 for_window [class="Skype"] floating enable
 for_window [class="Steam"] floating enable
 for_window [class="Nautilus"] floating enable
-for_window [title="Hangouts"] move container to workspace $tag3
 for_window [title="Hangouts"] floating enable
 for_window [class="Wfica_Seamless"] floating enable
 for_window [class="Birdie"] floating enable
@@ -82,7 +81,9 @@ for_window [class="Bluejeans"] floating enable
 
 # start a terminal
 #bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec xterm -ls -xrm 'XTerm*selectToClipboard: true' -geometry 89x27+443+285
+#bindsym $mod+Return exec xterm -ls -xrm 'XTerm*selectToClipboard: true' -geometry 89x27+443+285
+#bindsym $mod+Return exec urxvt256c
+bindsym $mod+Return exec /home/sadams/bin/term_for_display.sh
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -96,7 +97,7 @@ bindsym $mod+Shift+q kill
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
 
-bindsym $mod+d exec --no-startup-id i3-dmenu-desktop --dmenu='rofi -dmenu -p "run: "'
+bindsym $mod+d exec --no-startup-id i3-dmenu-desktop --dmenu='rofi -dmenu -p "launch: "'
 
 #
 # LOCK SCREEN

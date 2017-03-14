@@ -38,9 +38,12 @@ sudo pip install rainbowstream
 echo "###### COPY CONFIG FILES INTO PLACE #######"
 mkdir -p $CONFDIR/i3
 mkdir -p ${HOME}/vim/
+mkdir -p ${HOME}/bin/
 cp ${WORKDIR}/config/i3/config ${CONFDIR}/i3/
 cp ${WORKDIR}/config/polybar ${CONFDIR}/
 cp ${WORKDIR}/tmux.conf ${HOME}/.tmux.conf
 cp ${WORKDIR}/vimrc ${HOME}/.vimrc
 cp -r {WORKDIR}/colors ${HOME}/vim/
 cp {$WORKDIR}/rainbow_config.json ${HOME}/
+cp {$WORKDIR}/bin/term_for_display.sh ${HOME}/bin/
+cp {$WORKDIR}/bin/get_display.py ${HOME}/bin/
