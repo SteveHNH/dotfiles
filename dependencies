@@ -29,7 +29,7 @@ compton
 dunst
 rofi
 tmux
-rxvt-unicode-256color
+rxvt-unicode-256color-ml
 python-dev
 libjpeg 
 libjpeg-dev 
