@@ -51,6 +51,16 @@ return packer.startup(function(use)
 		  },
 		  tag = 'nightly' -- optional, updated every week. (see issue #1193)
 	})
+	use({'akinsho/bufferline.nvim', tag = 'v3.*', requires = 'nvim-tree/nvim-web-devicons'})
+
+	-- Startup Page
+	use {
+	  "startup-nvim/startup.nvim",
+	  requires = {"nvim-telescope/telescope.nvim", "nvim-lua/plenary.nvim"},
+	  config = function()
+	    require"startup".setup()
+	  end
+	}
 
 	-- Telescope
 	use("nvim-telescope/telescope.nvim")
@@ -87,6 +97,8 @@ return packer.startup(function(use)
 	    {'rafamadriz/friendly-snippets'},
 	  }
 	})
+	use({'onsails/lspkind.nvim'})
+	use({'tzachar/cmp-tabnine', run='./install.sh', requires = 'hrsh7th/nvim-cmp'})
 
 	-- Colors
 	use({
