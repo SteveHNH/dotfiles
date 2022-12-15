@@ -1,0 +1,5 @@
+vim.keymap.set("i", "jk", "<ESC>", opts) 
+vim.keymap.set("n", "<leader>bn", vim.cmd.bnext, {})
+vim.keymap.set("n", "<leader>bp", vim.cmd.bprev, {})
+vim.keymap.set("n", "<leader>bb", vim.cmd.bdelete, {})
+vim.keymap.set("n", "<leader>q", vim.cmd.q, {})
